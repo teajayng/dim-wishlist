@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rslifka.github.io/sliflist/sitemap.xml
+Sitemap: https://sliflist.com/sitemap.xml
