@@ -104,3 +104,8 @@ rel  = "sitemap"
   [[module.mounts]]
     source = "data"
     target = "data"
+
+[params]
+  custom_css = [
+    "css/shortcodes/gear-mod.css"
+  ]
