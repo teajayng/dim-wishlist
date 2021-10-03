@@ -58,7 +58,7 @@ Words of wisdom from an experienced well-user:
 
 **Mod**|**Armor**|**Cost**|**Well Element**|**Requirement**|**Comments**
 :-----|:-----|:-----:|:-----|:-----|:-----
-**Bountiful Wells**|{{%element-solar%}}|2|{{%element-solar%}}|1 or more other well generating mods|Allows well generating mods to stack, but the best part is just having this mod equipped will _spawn an additional well to any other well generating mod_. ex: 1 Bountiful Wells + 1 Elemental Ordnance = 2 wells on grenade kills, add 1 Explosive Wellmaker and a single explosive grenade can generate _4 wells_.
+**Bountiful Wells**|{{%element-solar%}}|2|Other Mod Element|1 or more other well generating mods|Allows well generating mods to stack, but the best part is just having this mod equipped will _spawn an additional well to any other well generating mod_. ex: 1 Bountiful Wells + 1 Elemental Ordnance = 2 wells on grenade kills, add 1 Explosive Wellmaker and a single explosive grenade can generate _4 wells_.
 **Elemental Armaments**|Any|2|Subclass|Weapon takedowns with a damage type that matches your subclass element.|~10% on PvE kill; stacks until a Well spawns. It takes around eight kills on average to spawn a Well.
 **Elemental Light**|Any|1|Subclass|Super final blows.|Your Super needs to be able to damage enemies to generate Wells.
 **Elemental Ordnance**|Any|3|Subclass|Grenade final blows.|Grenades can only spawn an Elemental Well once every couple of seconds. Any grenade that deals persistent damage over an area, such as a Vortex Grenade, works best with Elemental Ordnance. When paired with Elemental Charge, this gives your abilities a means of generating stacks of Charged with Light
