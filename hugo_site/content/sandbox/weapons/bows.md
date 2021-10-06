@@ -73,7 +73,7 @@ Here are some results from the bows I had on hand, after jumping in to the EDZ a
 * Increases reload speed (how quickly you can start drawing your next arrow)
 * Helpful if you need to "short stroke" - firing at less than perfect draw
 
-# Reference
+## Reference
 
 * Aztecross - [Accrued Redemption Raid Bow (Better than Hush?)](https://www.youtube.com/watch?v=wZuLeBTvR6Y)
 * Bungie - [This Week at Bungie – 8/19/2021](https://www.bungie.net/en/Explore/Detail/News/50572)
