@@ -62,11 +62,11 @@ Let's go ahead and see for ourselves. Here are some results from the bows I had 
 |Wolftone Draw|Precision|684ms (Base)|41|`100%`|
 |||Archer's Tempo|30|{{< code-fast "125%" >}}|
 |||Adagio|49|{{< code-slow "75%" >}}|
-|||Adagio + Archer's Tempo|37|{{< code-fast "10%" >}}|
+|||Adagio + Archer's Tempo|37|{{< code-fast "110%" >}}|
 |Wolftone Draw|Precision|612ms (Elastic String)|36|`100%`|
 |||Archer's Tempo|27|{{< code-fast "125%" >}}|
 |||Adagio|44|{{< code-slow "75%" >}}|
-|||Adagio + Archer's Tempo|34|{{< code-fast "10%" >}}|
+|||Adagio + Archer's Tempo|34|{{< code-fast "110%" >}}|
 
 ### Impulse Amplifier
 
