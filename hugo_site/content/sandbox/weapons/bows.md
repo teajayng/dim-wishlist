@@ -50,22 +50,23 @@ It becomes even more confusing when understanding how `Draw Time` is modified de
 
 Which is it? After spending these past few years looking for primary sources on how the sandbox works, we're pretty good at being able to sniff out urban legends/[churnalism](https://en.wikipedia.org/wiki/Churnalism) in the Destiny community. After hours searching, I could not identify any primary source for this information, with cited sources inconsistenly reporting what they were cited as saying!
 
-Let's go ahead and see for ourselves.
+Let's go ahead and see for ourselves. Here are some results from the bows I had on hand, after jumping in to the EDZ and running some tests.
 
-Here are some results from the bows I had on hand, after jumping in to the EDZ and running some tests. I measured the "Ticks to Perfect Draw" for each of the following combinations. A "tick" is as fine-grained a step as we can take in our video editing software, just so we can get a relative measure of performance. Note that this is **not** ["tick rate"](https://www.reddit.com/r/Overwatch/comments/3u5kfg/everything_you_need_to_know_about_tick_rate/) (something totally different).
+* **Ticks to Perfect Draw**: For each of the following combinations. A "tick" is as fine-grained a step as we can take in our video editing software, just so we can get a relative measure of performance. Note that this is **not** ["tick rate"](https://www.reddit.com/r/Overwatch/comments/3u5kfg/everything_you_need_to_know_about_tick_rate/) (something totally different).
+* **Speed Relative to Base**: Speeds over 100% are faster; lower than 100% are slower. E.g. `125%` means "This combination fires 25% faster than the base speed."
 
-|Bow|Frame|Draw Time|TTPD|+Faster or -Slower than Base|
+|Bow|Frame|Draw Time|Ticks to Perfect Draw|Speed Relative to Base|
 |:-|:-|:-|-:|-:|
-|Imperial Needle|Lightweight|612ms (Base)|36||
-|||Archer's Tempo|27|`+25% F`|
-|Wolftone Draw|Precision|684ms (Base)|41||
-|||Archer's Tempo|30|`+25% F`|
-|||Adagio|49|`-25% S`|
-|||Adagio + Archer's Tempo|37|`-10% S`|
-|Wolftone Draw|Precision|612ms (Elastic String)|36||
-|||Archer's Tempo|27|`+25% F`|
-|||Adagio|44|`-25% S`|
-|||Adagio + Archer's Tempo|34|`-10% S`|
+|Imperial Needle|Lightweight|612ms (Base)|36|`100%`|
+|||Archer's Tempo|27|{{< code-fast "125%" >}}|
+|Wolftone Draw|Precision|684ms (Base)|41|`100%`|
+|||Archer's Tempo|30|{{< code-fast "125%" >}}|
+|||Adagio|49|{{< code-slow "75%" >}}|
+|||Adagio + Archer's Tempo|37|{{< code-slow "90%" >}}|
+|Wolftone Draw|Precision|612ms (Elastic String)|36|`100%`|
+|||Archer's Tempo|27|{{< code-fast "125%" >}}|
+|||Adagio|44|{{< code-slow "75%" >}}|
+|||Adagio + Archer's Tempo|34|{{< code-slow "90%" >}}|
 
 ### Impulse Amplifier
 
