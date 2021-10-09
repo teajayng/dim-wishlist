@@ -6,10 +6,6 @@ traits:
   magazines:   {t: 6, c: 2}
   perks1:      {t: 6, c: 1}
   perks2:      {t: 6, c: 1}
-  masterworks: {t: 4, c: 1}
+  masterworks: {t: 5, c: 1}
 overview: >
-  ...
-pvp_comments: >
-  ...
-pve_comments: >
-  ...
+  The Wolftone Draw is a Arc-Energy Precision Frame Bow, added during Season 15. Coolguy put together a [terrific review](https://www.youtube.com/watch?v=BYBxJqs3eeI) that a handful of these rolls are based on.
