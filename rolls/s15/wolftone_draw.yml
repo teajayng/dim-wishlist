@@ -1,0 +1,80 @@
+-
+  weapon_id: 3472875143
+  name: Strength of the Pack
+  ratings_emoji: 🐺
+  tags: ['pvp, pve']
+  overview: >
+    `Harmony` is perfectly suited for the popular "bow-swap" playstyle in PvP. Start by chunking health down with a bow shot, swap and finish them off. You then have 3s to swap back to the bow and a sweet damage boost. In higher-tier PvE content, you're often getting heavy and special ammo kills which gives a solid primary damage boost follow-up.
+  base_perks:
+    barrels: [Elastic String]
+    magazines: [Fiberglass Arrow Shaft]
+    perks1: [Archer's Tempo]
+    perks2: [Harmony]
+    masterworks: [Draw Time MW]
+  extended_perks:
+    barrels: [Elastic String, Polymer String, Flexible String]
+    magazines: [Fiberglass Arrow Shaft, Straight Fletching, Helical Fletching]
+-
+  weapon_id: 3472875143
+  name: Fast But Not Too Fast
+  ratings_emoji: 💨
+  tags: ['pvp, pve']
+  overview: >
+    `Adagio` procs off of any kills and if that kill happens to be w/Archer's Tempo, you'll have two higher-damage shots which can provide 100% uptime in PvE.
+  base_perks:
+    barrels: [Elastic String]
+    magazines: [Fiberglass Arrow Shaft]
+    perks1: [Archer's Tempo]
+    perks2: [Adagio]
+    masterworks: [Draw Time MW]
+  extended_perks:
+    barrels: [Elastic String, Polymer String, Flexible String]
+    magazines: [Fiberglass Arrow Shaft, Straight Fletching, Helical Fletching]
+-
+  weapon_id: 3472875143
+  name: Hungry Like the Wolf
+  ratings_emoji: 🦊
+  tags: ['pve']
+  overview: >
+    The explosion from `Dragonfly`, which you can buff with the `Dragonfly Spec mod, will pick up ammo dropped by the precision kill that triggers it.
+  base_perks:
+    barrels: [Elastic String]
+    magazines: [Fiberglass Arrow Shaft]
+    perks1: [Shoot to Loot]
+    perks2: [Dragonfly]
+    masterworks: [Draw Time MW]
+  extended_perks:
+    barrels: [Elastic String, Polymer String, Flexible String]
+    magazines: [Fiberglass Arrow Shaft, Straight Fletching, Helical Fletching]
+-
+  weapon_id: 3472875143
+  name: In the Den
+  ratings_emoji: 🛋
+  tags: ['pve']
+  overview: >
+    `Shoot to Loot` is a terrific perk in higher tier PvE content to help with those famous last words: "I'm making a quick ammo run". While it doesn't pair specifically with Frenzy, the pairing of them make for solid high-tier PvE option.
+  base_perks:
+    barrels: [Elastic String]
+    magazines: [Fiberglass Arrow Shaft]
+    perks1: [Shoot to Loot]
+    perks2: [Frenzy]
+    masterworks: [Draw Time MW]
+  extended_perks:
+    barrels: [Elastic String, Polymer String, Flexible String]
+    magazines: [Fiberglass Arrow Shaft, Straight Fletching, Helical Fletching]
+-
+  weapon_id: 3472875143
+  name: On the Prowl
+  ratings_emoji: 🦁
+  tags: ['pve']
+  overview: >
+    In higher-tier content, damage-boosting perks that don't require kills (e.g. One for All, Frenzy) can be super valuable to increase your lethality in an environment where you aren't getting as many kills.
+  base_perks:
+    barrels: [Elastic String]
+    magazines: [Fiberglass Arrow Shaft]
+    perks1: [Archer's Tempo]
+    perks2: [Frenzy]
+    masterworks: [Draw Time MW]
+  extended_perks:
+    barrels: [Elastic String, Polymer String, Flexible String]
+    magazines: [Fiberglass Arrow Shaft, Straight Fletching, Helical Fletching]
