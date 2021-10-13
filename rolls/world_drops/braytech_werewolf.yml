@@ -1,40 +1,68 @@
-- 
+-
+  weapon_id: 528834068
+  name: Howl at the Moon
+  ratings_emoji: 🌕
+  tags: ['pvp']
+  overview: >
+    `Slideshot` coming in strong here with a huge Stability buff that will carry your through your next engagement.
+  base_perks: 
+    barrels: [Arrowhead Brake]
+    magazines: [Ricochet Rounds]
+    perks1: [Slideshot]
+    perks2: [Tap the Trigger, Eye of the Storm]
+    masterworks: [Stability MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore]
+    magazines: [Ricochet Rounds, Flared Magwell]
+-
   weapon_id: 528834068
   name: Werewolves not Swearwolves
   ratings_emoji: 🐺
   tags: ['pvp']
   overview: >
-    With completely vertical recoil and loads of Stability, this will be
-    an absolutely shredder should 450s get a buff. Hell and even if they
-    don't, you'll do pretty decent work with it. All rolls in this set
-    will feature `Dynamic Sway Reduction` and `Tap the Trigger`.
+    Perks focused on getting that first kill.
   base_perks: 
     barrels: [Arrowhead Brake]
     magazines: [Ricochet Rounds]
     perks1: [Dynamic Sway Reduction]
-    perks2: [Tap the Trigger]
+    perks2: [Tap the Trigger, Eye of the Storm]
     masterworks: [Stability MW]
   extended_perks:
     barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore]
     magazines: [Ricochet Rounds, Flared Magwell]
-- 
+-
   weapon_id: 528834068
-  name: Were-storm
-  ratings_emoji: ⛈
-  tags: ['pvp']
+  name: Once Bitten
+  ratings_emoji: 🦷
+  tags: ['pve']
   overview: >
-    Same set of rolls as above, but swappig out `Eye of the Storm` for
-    `Tap the Trigger`.
+    Solid for Champions.
   base_perks: 
-    barrels: [Arrowhead Brake]
-    magazines: [Ricochet Rounds]
-    perks1: [Dynamic Sway Reduction]
-    perks2: [Eye of the Storm]
-    masterworks: [Stability MW]
+    barrels: [Hammer-Forged Rifling]
+    magazines: [Armor-Piercing Rounds, High-Caliber Rounds]
+    perks1: [Fourth Time's the Charm]
+    perks2: [Vorpal]
+    masterworks: [Range MW]
   extended_perks:
-    barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore]
-    magazines: [Ricochet Rounds, Flared Magwell]
-- 
+    barrels: [Hammer-Forged Rifling, Full Bore, Extended Barrel, Smallbore, Corkscrew Rifling]
+    magazines: [Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds, Light Mag]
+-
+  weapon_id: 528834068
+  name: Claw Marks
+  ratings_emoji: 🩸
+  tags: ['pve']
+  overview: >
+    All Range and damage-boosting featuring `Swashbuckler`. Add on `Mulligan` and `FttC` to help extend the mag.
+  base_perks: 
+    barrels: [Hammer-Forged Rifling]
+    magazines: [Armor-Piercing Rounds, High-Caliber Rounds]
+    perks1: [Fourth Time's the Charm]
+    perks2: [Swashbuckler]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Hammer-Forged Rifling, Full Bore, Extended Barrel, Smallbore, Corkscrew Rifling]
+    magazines: [Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds, Light Mag]
+-
   weapon_id: 528834068
   name: Curated; from Collections
   ratings_emoji: 🌟
@@ -50,20 +78,3 @@
   extended_perks:
     barrels: [Hammer-Forged Rifling]
     magazines: [Armor-Piercing Rounds]
-- 
-  weapon_id: 528834068
-  name: Claw Marks
-  ratings_emoji: 🩸
-  tags: ['pve']
-  overview: >
-    All Range and damage-boosting featuring `Swashbuckler`. Add on
-    `Mulligan` and `FttC` to help extend the mag.
-  base_perks: 
-    barrels: [Hammer-Forged Rifling]
-    magazines: [Armor-Piercing Rounds, High-Caliber Rounds]
-    perks1: [Mulligan, Fourth Time's the Charm]
-    perks2: [Swashbuckler]
-    masterworks: [Range MW]
-  extended_perks:
-    barrels: [Hammer-Forged Rifling, Full Bore, Extended Barrel, Smallbore, Corkscrew Rifling]
-    magazines: [Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds, Light Mag]
