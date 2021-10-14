@@ -1,0 +1,192 @@
+-
+  weapon_id: 2496875173
+  name: Multikill Clip (Exotic)
+  ratings_emoji: 🟠
+  tags: ['pvp']
+  overview: >
+    `Tunnel Vision` and `Multikill Clip` proc on the same event, increasing your effectiveness after a kill.
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [Steady Rounds]
+    perks1: [Tunnel Vision]
+    perks2: [Multikill Clip]
+    masterworks: [Stability MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling]
+    magazines: [Steady Rounds, Flared Magwell, Tactical Mag, Accurized Rounds]
+-
+  weapon_id: 2496875173
+  name: ↪️ Multikill Clip (Legendary)
+  ratings_emoji: 🟣
+  tags: ['pvp,pve']
+  overview: >
+    `Surplus` and `Outlaw` both help you reload more quickly to activate `Multikill Clip`.
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [Steady Rounds]
+    perks1: [Surplus, Outlaw]
+    perks2: [Multikill Clip]
+    masterworks: [Stability MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling]
+    magazines: [Steady Rounds, Flared Magwell, Tactical Mag, Accurized Rounds]
+-
+  weapon_id: 2496875173
+  name: Rampage (Exotic)
+  ratings_emoji: 🟠
+  tags: ['pvp']
+  overview: >
+    All three of these perks activate immediately on kill, as does `Rampage`. Similar to the `Multikill Clip` rolls, this is about pairing perks that synergize.
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [Steady Rounds]
+    perks1: [Encore, Heating Up, Killing Wind]
+    perks2: [Rampage]
+    masterworks: [Stability MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling]
+    magazines: [Steady Rounds, Flared Magwell, Tactical Mag, Accurized Rounds]
+-
+  weapon_id: 2496875173
+  name: Harmony (Exotic)
+  ratings_emoji: 🟠
+  tags: ['pvp']
+  overview: >
+    Since Harmony procs on switching to the 'Verse, we're looking for left column perks that help us get kills.
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [Steady Rounds]
+    perks1: [Surplus, Tap the Trigger]
+    perks2: [Harmony]
+    masterworks: [Stability MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling]
+    magazines: [Steady Rounds, Flared Magwell, Tactical Mag, Accurized Rounds]
+-
+  weapon_id: 2496875173
+  name: ↪️ Harmony (Legendary)
+  ratings_emoji: 🟣
+  tags: ['pvp']
+  overview: >
+    `Dynaming Sway Reduction` and `Zen Moment` both have delayed activation requirements; same roll as the above but perhaps not as potentially effective.
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [Steady Rounds]
+    perks1: [Dynamic Sway Reduction, Zen Moment]
+    perks2: [Harmony]
+    masterworks: [Stability MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling]
+    magazines: [Steady Rounds, Flared Magwell, Tactical Mag, Accurized Rounds]
+-
+  weapon_id: 2496875173
+  name: Elemental Capacitor (Legendary)
+  ratings_emoji: 🟣
+  tags: ['pvp']
+  overview: >
+    `Elemental Capacitor` provides powerful Stability and Recoil boosts, depending on your subclass. Each of the other perks in column three improves some bit of performance.
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [Steady Rounds]
+    perks1: [Surplus, Dynamic Sway Reduction, Zen Moment, Tap the Trigger]
+    perks2: [Elemental Capacitor]
+    masterworks: [Stability MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling]
+    magazines: [Steady Rounds, Flared Magwell, Tactical Mag, Accurized Rounds]
+-
+  weapon_id: 2496875173
+  name: Wellspring (Rare)
+  ratings_emoji: 🔵
+  tags: ['pve']
+  overview: >
+    I keep a few `Wellspring` weapons around for ability-based bounties. Paired with reload perks, helps you dish out those ability kills.
+  base_perks:
+    barrels: [Hammer-Forged Rifling]
+    magazines: [Accurized Rounds]
+    perks1: [Feeding Frenzy, Subsistence, Outlaw]
+    perks2: [Wellspring]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Hammer-Forged Rifling,  Smallbore, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Arrowhead Brake]
+    magazines: [Accurized Rounds, Flared Magwell, Tactical Mag, Appended Mag, Alloy Magazine]
+-
+  weapon_id: 2496875173
+  name: Multikill Clip (Exotic)
+  ratings_emoji: 🟠
+  tags: ['pve']
+  overview: >
+    Since you can chain `Multikill Clip`, `Feeding Frenzy` helps keep the good times rolling.
+  base_perks:
+    barrels: [Hammer-Forged Rifling]
+    magazines: [Accurized Rounds]
+    perks1: [Feeding Frenzy]
+    perks2: [Multikill Clip]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Hammer-Forged Rifling,  Smallbore, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Arrowhead Brake]
+    magazines: [Accurized Rounds, Flared Magwell, Tactical Mag, Appended Mag, Alloy Magazine]
+-
+  weapon_id: 2496875173
+  name: Rampage (Exotic)
+  ratings_emoji: 🟠
+  tags: ['pve']
+  overview: >
+    Absolutely phenomenal pairing after `Subsistence` got a massive buff a few seasons back (no longer reduces reserves).
+  base_perks:
+    barrels: [Hammer-Forged Rifling]
+    magazines: [Accurized Rounds]
+    perks1: [Subsistence]
+    perks2: [Rampage]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Hammer-Forged Rifling,  Smallbore, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Arrowhead Brake]
+    magazines: [Accurized Rounds, Flared Magwell, Tactical Mag, Appended Mag, Alloy Magazine]
+-
+  weapon_id: 2496875173
+  name: ↪️ Rampage (Legendary)
+  ratings_emoji: 🟣
+  tags: ['pve']
+  overview: >
+    Similar to the above roll, but these perks have steeper activation requiments (`Fourth Time's the Charm` precision hits) and duration (`Feeding Frenzy` reloads).
+  base_perks:
+    barrels: [Hammer-Forged Rifling]
+    magazines: [Accurized Rounds]
+    perks1: [Fourth Time's the Charm, Feeding Frenzy]
+    perks2: [Rampage]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Hammer-Forged Rifling,  Smallbore, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Arrowhead Brake]
+    magazines: [Accurized Rounds, Flared Magwell, Tactical Mag, Appended Mag, Alloy Magazine]
+-
+  weapon_id: 2496875173
+  name: Frenzy (Exotic)
+  ratings_emoji: 🟠
+  tags: ['pve']
+  overview: >
+    Absolutely phenomenal pairing after `Subsistence` got a massive buff a few seasons back (no longer reduces reserves). Additionally we have `Fourth Time's the Charm` which gives you what feels like an endless mag against champions and bosses.
+  base_perks:
+    barrels: [Hammer-Forged Rifling]
+    magazines: [Accurized Rounds]
+    perks1: [Subsistence, Fourth Time's the Charm]
+    perks2: [Frenzy]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Hammer-Forged Rifling,  Smallbore, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Arrowhead Brake]
+    magazines: [Accurized Rounds, Flared Magwell, Tactical Mag, Appended Mag, Alloy Magazine]
+-
+  weapon_id: 2496875173
+  name: One for All (Exotic)
+  ratings_emoji: 🟠
+  tags: ['pve']
+  overview: >
+    `One for All` can be a terrific perk for higher tier or under-leveled content where you're not getting a lot of kills quickly (or at all) to provide a solid damage bonus. Both `Surplus` and `Fourth Time's the Charm` have no-kill activation requirements, helping you get more longevity out of `One for All`.
+  base_perks:
+    barrels: [Hammer-Forged Rifling]
+    magazines: [Accurized Rounds]
+    perks1: [Surplus, Fourth Time's the Charm]
+    perks2: [One for All]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Hammer-Forged Rifling,  Smallbore, Corkscrew Rifling, Fluted Barrel, Polygonal Rifling, Arrowhead Brake]
+    magazines: [Accurized Rounds, Flared Magwell, Tactical Mag, Appended Mag, Alloy Magazine]
