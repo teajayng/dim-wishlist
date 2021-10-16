@@ -1,5 +1,21 @@
 -
   weapon_id: 528834068
+  name: TrueVanguard's Pick
+  ratings_emoji: 🛡
+  tags: ['pvp']
+  overview: >
+    From TV's [video review](https://www.youtube.com/watch?v=CbIJ_1UndH8), a roll that props up Werewolf where it lacks, and plays off of its range in PvP to drop supers.
+  base_perks: 
+    barrels: [Arrowhead Brake]
+    magazines: [Ricochet Rounds]
+    perks1: [Under Pressure]
+    perks2: [Vorpal]
+    masterworks: [Stability MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling, Polygonal Rifling, Smallbore]
+    magazines: [Ricochet Rounds, Flared Magwell]
+-
+  weapon_id: 528834068
   name: Howl at the Moon
   ratings_emoji: 🌕
   tags: ['pvp']
@@ -20,11 +36,11 @@
   ratings_emoji: 🐺
   tags: ['pvp']
   overview: >
-    Perks focused on getting that first kill.
+    All variations of these combos are around securing that first kill.
   base_perks: 
     barrels: [Arrowhead Brake]
     magazines: [Ricochet Rounds]
-    perks1: [Dynamic Sway Reduction]
+    perks1: [Dynamic Sway Reduction, Under Pressure]
     perks2: [Tap the Trigger, Eye of the Storm]
     masterworks: [Stability MW]
   extended_perks:
