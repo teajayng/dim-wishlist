@@ -1,0 +1,96 @@
+-
+  weapon_id: 2261046232
+  name: (Mostly) Everyone's Top Pick
+  ratings_emoji: 🦖
+  tags: ['pvp']
+  overview: >
+    In all of the videos above, everyone but Drewsky cites this as their top roll. That being said, Drewsky isn't that big of a fan of the weapon (or rather, the frame) overall so take that for what it's worth 🙃
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [High-Caliber Rounds]
+    perks1: [Rangefinder]
+    perks2: [Multikill Clip]
+    masterworks: [Stability MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel]
+    magazines: [High-Caliber Rounds, Ricochet Rounds, Flared Magwell]
+-
+  weapon_id: 2261046232
+  name: Drewsky's Pick
+  ratings_emoji: 🌠
+  tags: ['pvp']
+  overview: >
+    This roll swaps in `Tunnel Vision` which procs on reload coincident with `Multikill Clip`.
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [High-Caliber Rounds]
+    perks1: [Tunnel Vision]
+    perks2: [Multikill Clip]
+    masterworks: [Stability MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel]
+    magazines: [High-Caliber Rounds, Ricochet Rounds, Flared Magwell]
+-
+  weapon_id: 2261046232
+  name: Cammy's Reviver
+  ratings_emoji: 🧟
+  tags: ['pvp']
+  overview: >
+    Cammy points out that you need two kills within ~8s to proc `Unrelenting`. It takes 2s to reload and `Tunnel Vision` lasts for six seconds - the entire window that `Unrelenting` is available for.
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [High-Caliber Rounds]
+    perks1: [Tunnel Vision]
+    perks2: [Unrelenting]
+    masterworks: [Stability MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel]
+    magazines: [High-Caliber Rounds, Ricochet Rounds, Flared Magwell]
+-
+  weapon_id: 2261046232
+  name: A Different Reviver
+  ratings_emoji: 🧟
+  tags: ['pvp']
+  overview: >
+    Similar to Cammy's roll above, this one swaps out `Tunnel Vision` for perks that don't require a reload.
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [High-Caliber Rounds]
+    perks1: [Heating Up, Killing Wind]
+    perks2: [Unrelenting]
+    masterworks: [Stability MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel]
+    magazines: [High-Caliber Rounds, Ricochet Rounds, Flared Magwell]
+-
+  weapon_id: 2261046232
+  name: Stampede
+  ratings_emoji: 🦕
+  tags: ['pve']
+  overview: >
+    A pairing that's quickly become classic. `Subsistence` keeps the mag flowing while `Frenzy` is helping you get those kills.
+  base_perks:
+    barrels: [Hammer-Forged Rifling]
+    magazines: [Appended Mag]
+    perks1: [Subsistence]
+    perks2: [Frenzy]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
+    magazines: [Appended Mag, High-Caliber Rounds, Ricochet Rounds, Light Mag, Armor-Piercing Rounds]
+-
+  weapon_id: 2261046232
+  name: Meteor Shower
+  ratings_emoji: ☄️
+  tags: ['pve']
+  overview: >
+    `Dragonfly` procs `Subsistence`, [check it out](https://www.youtube.com/watch?v=Q8qHc_6PHPA).
+  base_perks:
+    barrels: [Hammer-Forged Rifling]
+    magazines: [Appended Mag]
+    perks1: [Subsistence]
+    perks2: [Dragonfly]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
+    magazines: [Appended Mag, High-Caliber Rounds, Ricochet Rounds, Light Mag, Armor-Piercing Rounds]
