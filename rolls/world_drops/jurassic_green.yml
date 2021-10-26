@@ -32,6 +32,22 @@
     magazines: [High-Caliber Rounds, Ricochet Rounds, Flared Magwell]
 -
   weapon_id: 2261046232
+  name: Slif's Pick
+  ratings_emoji: 🤓
+  tags: ['pvp']
+  overview: >
+    `Killing Wind` has a huge package of benefits that will help you chain `Multikill Clip` kills.
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [High-Caliber Rounds]
+    perks1: [Killing Wind]
+    perks2: [Multikill Clip]
+    masterworks: [Stability MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel]
+    magazines: [High-Caliber Rounds, Ricochet Rounds, Flared Magwell]
+-
+  weapon_id: 2261046232
   name: Cammy's Reviver
   ratings_emoji: 🧟
   tags: ['pvp']
