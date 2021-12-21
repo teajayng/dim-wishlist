@@ -1,0 +1,22 @@
+name: Retraced Path
+item_id: 548958835
+drop_id: 30th
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 6, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  The Retraced Path is the first Legendary Trace Rifle in Destiny, added during the 30th Anniversary Event in December, 2021. As CoolGuy mentions in his video review (linked below), the available perks and resulting perk combos offer substantial flexibility. Some of the final column perks are so strong you don't necessarily **need** to combo them with anything. That being said, we'll only highlight combo rolls since you don't need a wishlist to tell you "Keep ones with Tricorn" 😉
+pvp_comments: >
+  > *"Crucible, very strong with this perk set. I really enjoy it and I don't have a bad thing to say about it; it melts"* -- **CoolGuy**
+
+
+  > *"With the Harmony buff active, this thing will melt people in about 0.6s ... No, it's not Trials meta ... But it's incredibly useful, effective and fun."* -- **TrueVanguard**
+
+
+  CoolGuy has a thorough review ["Destiny 2: Retraced Path MELTS in PvP, but needs help in PvE"](https://www.youtube.com/watch?v=9I82NASKUMQ). In particular Harmony and Golden Tricorn are the standout perks, with TrueVanguard showing off a bit of Harmony-based gameplay; ["You've GOTTA Try This Combo - Retraced Path"](https://www.youtube.com/watch?v=nW-YzVXAIDA). It has a bunch of kick on the initial burst, so you'll want to even it out with `Stability` when you can. With `Particle Repeater`, `Polygonal Rifling` and the effects of the `Perpetual Motion` perk you could max out `Stability`.
+  
+pve_comments: >
+  Ekuegan has a review up with his recommended PvE rolls: ["Retraced Path" God Roll Guide](https://www.youtube.com/watch?v=HHM2RuessS8). CoolGuy's review above also features a PvE section. With the addition of Trace Rifle armor mods and the Retraced Path itself, one could assume we'll someday see Trace Rifles featured with Seasonal Artifact mods, so I'd reccomend keeping one or two PvE rolls around until next season.

@@ -1,0 +1,96 @@
+-
+  weapon_id: 548958835
+  name: Start Again (CoolGuy's Pick)
+  ratings_emoji: 🚦
+  tags: ['pvp']
+  overview: >
+    If you're going into engagements "maining" the Retraced Path, this is the roll for you. Choose Perpetual Motion or Killing Wind depending on if you want a pre- or post-kill benefit.
+  base_perks:
+    barrels: [Smallbore]
+    magazines: [Particle Repeater]
+    perks1: [Perpetual Motion, Killing Wind]
+    perks2: [Golden Tricorn]
+    masterworks: [Stability MW]
+  extended_perks:
+    barrels: [Smallbore, Polygonal Rifling, Chambered Compensator, Corkscrew Rifling, Fluted Barrel]
+    magazines: [Particle Repeater, Tactical Battery, Projection Fuse]
+-
+  weapon_id: 548958835
+  name: Convergence (CoolGuy's Pick)
+  ratings_emoji: 🔀
+  tags: ['pvp']
+  overview: >
+    To proc Harmony, you'll need to be swapping over to the Retraced Path after a kill, so run this if you're relying more heavily on your primary weapon.
+  base_perks:
+    barrels: [Smallbore]
+    magazines: [Particle Repeater]
+    perks1: [Perpetual Motion, Killing Wind]
+    perks2: [Harmony]
+    masterworks: [Stability MW]
+  extended_perks:
+    barrels: [Smallbore, Polygonal Rifling, Chambered Compensator, Corkscrew Rifling, Fluted Barrel]
+    magazines: [Particle Repeater, Tactical Battery, Projection Fuse]
+-
+  weapon_id: 548958835
+  name: Overstepped Grenade Bounds (Ekeugan's Pick)
+  ratings_emoji: 🚧
+  tags: ['pve']
+  overview: >
+    Great for add clear; endless grenades from `Demolitionist` and endless reloads from **both** `Demolitionist` and `Subsistence`.
+  base_perks:
+    barrels: [Fluted Barrel]
+    magazines: [Ionized Battery]
+    perks1: [Subsistence]
+    perks2: [Demolitionist]
+    masterworks: [Reload MW]
+  extended_perks:
+    barrels: [Fluted Barrel, Corkscrew Rifling, Smallbore, Polygonal Rifling, Hammer-Forged Rifling, Arrowhead Brake]
+    magazines: [Tactical Battery, Light Battery, Particle Repeater, Projection Fuse, Enhanced Battery]
+-
+  weapon_id: 548958835
+  name: Overstepped Damage Bounds (Ekeugan's Pick)
+  ratings_emoji: 🚧
+  tags: ['pve']
+  overview: >
+    If looking to maximize damage with the Retraced Path, this is the roll for you. Tricorn gives you a refreshable 15% damage buff and then a potential 50% (?!) buff after ability-based activation.
+  base_perks:
+    barrels: [Fluted Barrel]
+    magazines: [Ionized Battery]
+    perks1: [Subsistence]
+    perks2: [Golden Tricorn]
+    masterworks: [Reload MW]
+  extended_perks:
+    barrels: [Fluted Barrel, Corkscrew Rifling, Smallbore, Polygonal Rifling, Hammer-Forged Rifling, Arrowhead Brake]
+    magazines: [Tactical Battery, Light Battery, Particle Repeater, Projection Fuse, Enhanced Battery]
+-
+  weapon_id: 548958835
+  name: A Thousand Steps (Ekeugan's Pick)
+  ratings_emoji: 🥾
+  tags: ['pve']
+  overview: >
+    Solid roll to have on hand if/when running into solar shields or if this shows up in the Seasonal Artifact with a Barrier mod.
+  base_perks:
+    barrels: [Fluted Barrel]
+    magazines: [Tactical Battery, Light Battery]
+    perks1: [Genesis]
+    perks2: [Disruption Break]
+    masterworks: [Reload MW]
+  extended_perks:
+    barrels: [Fluted Barrel, Corkscrew Rifling, Smallbore, Polygonal Rifling, Hammer-Forged Rifling, Arrowhead Brake]
+    magazines: [Tactical Battery, Light Battery, Particle Repeater, Projection Fuse, Enhanced Battery]
+-
+  weapon_id: 548958835
+  name: Enhanced Roundabout (Slif's Endgame Pick)
+  ratings_emoji: ♻️
+  tags: ['pve']
+  overview: >
+    In endgame content, combine a Special Weapon with deep ammo reserves that can expend very little ammo to proc One for All (versus a shotgun, sniper, etc.) to receive a massive 35% damage boost. Pair this with Genesis for **free ammo** when up against Solar-shielded enemies or Shoot to Loot when you need to trace-rifle-snipe from behind cover/across the map. The other perks in column three aren't standouts in endgame PvE. I could imagine this coming in super handy in encounters like Sedia/The Corrupted with those Solar-shielded knights. I'm also voting for the 20% reload speed buff from `Tactical Battery` or `Light Battery` and the Masterwork, over minor bumps to `Stability` or `Range` in those slots.
+  base_perks:
+    barrels: [Fluted Barrel]
+    magazines: [Tactical Battery, Light Battery]
+    perks1: [Genesis, Shoot to Loot]
+    perks2: [One for All]
+    masterworks: [Reload MW]
+  extended_perks:
+    barrels: [Fluted Barrel, Corkscrew Rifling, Smallbore, Polygonal Rifling, Hammer-Forged Rifling, Arrowhead Brake]
+    magazines: [Tactical Battery, Light Battery, Particle Repeater, Projection Fuse, Enhanced Battery]

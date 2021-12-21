@@ -12,7 +12,6 @@ tmp/
 
 # Static site generator - working folders
 hugo_site/node_modules
-hugo_site/public
 hugo_site/resources
 
 # Static site generator - local development
@@ -27,6 +26,7 @@ hugo_site/content/docs/ib
 hugo_site/content/docs/nf
 hugo_site/content/docs/vog
 hugo_site/content/docs/world
+hugo_site/content/docs/30th
 
 # Development wishlist
 wishlist.dev.txt
