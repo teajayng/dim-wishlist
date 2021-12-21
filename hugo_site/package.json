@@ -11,8 +11,6 @@
     "access": "public"
   },
   "scripts": {
-    "init": "shx rm -rf .git && git init -b main",
-    "create": "exec-bin bin/hugo/hugo new",
     "prestart": "npm run clean",
     "start": "exec-bin bin/hugo/hugo server  --bind=0.0.0.0 --disableFastRender",
     "prebuild": "npm run clean",
