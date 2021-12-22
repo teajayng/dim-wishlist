@@ -32,6 +32,38 @@
     magazines: [High-Caliber Rounds, Ricochet Rounds, Flared Magwell]
 -
   weapon_id: 2261046232
+  name: Cammy's Pick (The Reviver)
+  ratings_emoji: 🧟
+  tags: ['pvp']
+  overview: >
+    Cammy points out that you need two kills within ~8s to proc `Unrelenting`. It takes 2s to reload and `Tunnel Vision` lasts for six seconds - the entire window that `Unrelenting` is available for.
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [High-Caliber Rounds]
+    perks1: [Tunnel Vision]
+    perks2: [Unrelenting]
+    masterworks: [Stability MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel]
+    magazines: [High-Caliber Rounds, Ricochet Rounds, Flared Magwell]
+-
+  weapon_id: 2261046232
+  name: Cammy's Pick (Reviver Sans Reload)
+  ratings_emoji: 🧟
+  tags: ['pvp']
+  overview: >
+    Similar to Cammy's roll above, this one swaps out `Tunnel Vision` for perks that don't require a reload.
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [High-Caliber Rounds]
+    perks1: [Heating Up, Killing Wind]
+    perks2: [Unrelenting]
+    masterworks: [Stability MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel]
+    magazines: [High-Caliber Rounds, Ricochet Rounds, Flared Magwell]
+-
+  weapon_id: 2261046232
   name: Slif's Pick
   ratings_emoji: 🤓
   tags: ['pvp']
@@ -48,38 +80,6 @@
     magazines: [High-Caliber Rounds, Ricochet Rounds, Flared Magwell]
 -
   weapon_id: 2261046232
-  name: Cammy's Reviver
-  ratings_emoji: 🧟
-  tags: ['pvp']
-  overview: >
-    Cammy points out that you need two kills within ~8s to proc `Unrelenting`. It takes 2s to reload and `Tunnel Vision` lasts for six seconds - the entire window that `Unrelenting` is available for.
-  base_perks:
-    barrels: [Arrowhead Brake]
-    magazines: [High-Caliber Rounds]
-    perks1: [Tunnel Vision]
-    perks2: [Unrelenting]
-    masterworks: [Stability MW]
-  extended_perks:
-    barrels: [Arrowhead Brake, Chambered Compensator, Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel]
-    magazines: [High-Caliber Rounds, Ricochet Rounds, Flared Magwell]
--
-  weapon_id: 2261046232
-  name: A Different Reviver
-  ratings_emoji: 🧟
-  tags: ['pvp']
-  overview: >
-    Similar to Cammy's roll above, this one swaps out `Tunnel Vision` for perks that don't require a reload.
-  base_perks:
-    barrels: [Arrowhead Brake]
-    magazines: [High-Caliber Rounds]
-    perks1: [Heating Up, Killing Wind]
-    perks2: [Unrelenting]
-    masterworks: [Stability MW]
-  extended_perks:
-    barrels: [Arrowhead Brake, Chambered Compensator, Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel]
-    magazines: [High-Caliber Rounds, Ricochet Rounds, Flared Magwell]
--
-  weapon_id: 2261046232
   name: Stampede
   ratings_emoji: 🦕
   tags: ['pve']
@@ -87,7 +87,7 @@
     A pairing that's quickly become classic. `Subsistence` keeps the mag flowing while `Frenzy` is helping you get those kills.
   base_perks:
     barrels: [Hammer-Forged Rifling]
-    magazines: [Appended Mag]
+    magazines: [High-Caliber Rounds]
     perks1: [Subsistence]
     perks2: [Frenzy]
     masterworks: [Range MW]
@@ -103,9 +103,25 @@
     `Dragonfly` procs `Subsistence`, [check it out](https://www.youtube.com/watch?v=Q8qHc_6PHPA).
   base_perks:
     barrels: [Hammer-Forged Rifling]
-    magazines: [Appended Mag]
+    magazines: [High-Caliber Rounds]
     perks1: [Subsistence]
     perks2: [Dragonfly]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
+    magazines: [Appended Mag, High-Caliber Rounds, Ricochet Rounds, Light Mag, Armor-Piercing Rounds]
+-
+  weapon_id: 2261046232
+  name: The Carnivore
+  ratings_emoji: 🍖
+  tags: ['pve']
+  overview: >
+    Well here we are, a roll that contains `Adrenaline Junkie` after its rework in December 2021! The TWAB joking referred to it as "Grenadebuckler" - the grenade-based sibling to `Swashbuckler`.
+  base_perks:
+    barrels: [Hammer-Forged Rifling]
+    magazines: [High-Caliber Rounds]
+    perks1: [Subsistence]
+    perks2: [Adrenaline Junkie]
     masterworks: [Range MW]
   extended_perks:
     barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
