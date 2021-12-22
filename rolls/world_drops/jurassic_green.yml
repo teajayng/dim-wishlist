@@ -64,7 +64,7 @@
     magazines: [High-Caliber Rounds, Ricochet Rounds, Flared Magwell]
 -
   weapon_id: 2261046232
-  name: Slif's Pick
+  name: Slif's Pick (Multikill Clip)
   ratings_emoji: 🤓
   tags: ['pvp']
   overview: >
@@ -116,7 +116,7 @@
   ratings_emoji: 🍖
   tags: ['pve']
   overview: >
-    Well here we are, a roll that contains `Adrenaline Junkie` after its rework in December 2021! The TWAB joking referred to it as "Grenadebuckler" - the grenade-based sibling to `Swashbuckler`.
+    Well here we are, a roll that contains `Adrenaline Junkie` after its rework in December 2021! The TWAB joking referred to it as "Grenadebuckler" - the grenade-based sibling to `Swashbuckler`. Kills will reload via Subsistence while ramping up damage. "Slif, why not Heating Up? Isn't AJ like Rampage?" Yes, but the base reload on Jurassic Green eats up nearly half the effective time of the perk.
   base_perks:
     barrels: [Hammer-Forged Rifling]
     magazines: [High-Caliber Rounds]
@@ -126,3 +126,19 @@
   extended_perks:
     barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
     magazines: [Appended Mag, High-Caliber Rounds, Ricochet Rounds, Light Mag, Armor-Piercing Rounds]
+-
+  weapon_id: 2261046232
+  name: The Carnivore (Less Hungry)
+  ratings_emoji: 🥓
+  tags: ['pve']
+  overview: >
+    `Heating Up` and `Tunnel Vision` provide "feel" benefits that help you get more kills. I put them a tier below `Subsistence` because they lack a reload benefit. You'll perhaps want to pair with reload-enhancing mods or exotics.
+  base_perks:
+    barrels: [Hammer-Forged Rifling]
+    magazines: [High-Caliber Rounds]
+    perks1: [Tunnel Vision, Heating Up]
+    perks2: [Adrenaline Junkie]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
+    magazines: [Appended Mag, High-Caliber Rounds, Ricochet Rounds, Light Mag, Armor-Piercing Rounds]    
