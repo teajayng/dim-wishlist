@@ -1,6 +1,6 @@
 name: Retraced Path
 item_id: 548958835
-drop_id: 30th
+drop_id: world
 traits:
   barrels:     {t: 9, c: 2}
   magazines:   {t: 6, c: 2}
