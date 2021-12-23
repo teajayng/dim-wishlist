@@ -1,0 +1,176 @@
+-
+  weapon_id: 235827225
+  name: Drewsky's Pick
+  ratings_emoji: 🍦
+  tags: ['pvp']
+  overview: >
+    Drewsky feels pretty strongly about this roll being The One, giving you `Range` and `Stability` in the 70s and 95 `Aim Assist` when ADS'd. *"I don't know how you justify much else other than this roll."* Strong words! 💪
+  base_perks:
+    barrels: [Crossfire HCS]
+    magazines: [Ricochet Rounds]
+    perks1: [Rangefinder]
+    perks2: [Moving Target]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Crossfire HCS, Hitmark HCS, Truesight HCS]
+    magazines: [Ricochet Rounds, High-Caliber Rounds, Light Mag, Flared Magwell]
+-
+  weapon_id: 235827225
+  name: TrueVanguard's Pick
+  ratings_emoji: 🛡
+  tags: ['pvp']
+  overview: >
+    TrueVanguard disagrees! He didn't like the feel of the `Rangefinder` + `Moving Target` combo (and is not alone in this). My guess is that people don't like the increased Zoom provided by `Rangefinder`. He also believes that RF+MT over-indexes on `Range` and `Aim Assist` given their already best-in-class values and that you're better adding perks to those great stats than by enhancing them immaterially. This is his roll and he "wouldn't change a thing about it." Strong words! 💪
+  base_perks:
+    barrels: [Fastdraw HCS]
+    magazines: [High-Caliber Rounds]
+    perks1: [Perpetual Motion]
+    perks2: [Kill Clip]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Fastdraw HCS, Steadyhand HCS, Truesight HCS, Hitmark HCS]
+    magazines: [High-Caliber Rounds, Ricochet Rounds, Light Mag, Flared Magwell]
+-
+  weapon_id: 235827225
+  name: CoolGuy's Pick, No. 1
+  ratings_emoji: 😎
+  tags: ['pvp']
+  overview: >
+    CoolGuy is believes Eyasluna has no clear "god roll" and he reviews several interesting perk combinations in his video. This happens to be the one he mains (well, his has `Ricochet Rounds` but he's looking for `High-Caliber Rounds`).
+  base_perks:
+    barrels: [Truesight HCS]
+    magazines: [High-Caliber Rounds]
+    perks1: [Rangefinder]
+    perks2: [Kill Clip]
+    masterworks: [Stability MW]
+  extended_perks:
+    barrels: [Truesight HCS, Fastdraw HCS, Steadyhand HCS, Hitmark HCS]
+    magazines: [High-Caliber Rounds, Ricochet Rounds, Light Mag, Flared Magwell]
+-
+  weapon_id: 235827225
+  name: CoolGuy's Pick, No. 2
+  ratings_emoji: 🕶
+  tags: ['pvp']
+  overview: >
+    Another CoolGuy-used roll, he values `Snapshot` for that little edge in getting the first shot in which can make-or-break engagements.
+  base_perks:
+    barrels: [Fastdraw HCS]
+    magazines: [High-Caliber Rounds]
+    perks1: [Rapid Hit, Rangefinder]
+    perks2: [Snapshot]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Fastdraw HCS, Steadyhand HCS, Truesight HCS, Hitmark HCS]
+    magazines: [High-Caliber Rounds, Ricochet Rounds, Light Mag, Flared Magwell]
+-
+  weapon_id: 235827225
+  name: Fast on Its Feet (Snapshot)
+  ratings_emoji: 🦩
+  tags: ['pvp']
+  overview: >
+    The huge `Handling` bump from `Fastdraw HCS` along with `Perpetual Motion` and `Snapshot` make this 140 RPM feel like a Lightweight. You could achieve the same thing with the 120 RPM Steady Hand (w/`Quickdraw` and `Snapshot`) and it completely changes the feel of the weapon. You get all the lethality without the heavy-handedness of the frame.
+  base_perks:
+    barrels: [Fastdraw HCS]
+    magazines: [High-Caliber Rounds]
+    perks1: [Perpetual Motion]
+    perks2: [Snapshot]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Fastdraw HCS, Hitmark HCS, Truesight HCS, Crossfire HCS]
+    magazines: [High-Caliber Rounds, Ricochet Rounds, Flared Magwell, Light Mag]
+-
+  weapon_id: 235827225
+  name: Fast on Its Feet (Moving Target)
+  ratings_emoji: 🦩
+  tags: ['pvp']
+  overview: >
+    Similar to the above, but for those who want to lean even more into the always-mobile playstyle.
+  base_perks:
+    barrels: [Fastdraw HCS]
+    magazines: [High-Caliber Rounds]
+    perks1: [Perpetual Motion]
+    perks2: [Moving Target]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Fastdraw HCS, Hitmark HCS, Truesight HCS, Crossfire HCS]
+    magazines: [High-Caliber Rounds, Ricochet Rounds, Flared Magwell, Light Mag]
+-
+  weapon_id: 235827225
+  name: Flock
+  ratings_emoji: 🐥
+  tags: ['pve, pvp']
+  overview: >
+    As more weapons start appearing with `Harmony`, it becomes feasible to run double-`Harmony` loadouts. My thought process for `Harmony` is - "What third column perks make the seven seconds of Harmony more effective?" In endgame PvE, getting a kill with your special or heavy from cover means a solid primary damage boost.
+  base_perks:
+    barrels: [Hitmark HCS]
+    magazines: [High-Caliber Rounds]
+    perks1: [Perpetual Motion, Rapid Hit]
+    perks2: [Harmony]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Hitmark HCS, Truesight HCS, Crossfire HCS, Fastdraw HCS]
+    magazines: [High-Caliber Rounds, Ricochet Rounds, Flared Magwell, Light Mag]
+-
+  weapon_id: 235827225
+  name: Born Again
+  ratings_emoji: 🐣
+  tags: ['pve']
+  overview: >
+    `Headstone` stasis crystal shatter procs `Unrelenting`. You can test this out in Altar of Sorrows or the Thrallway in Shattered Throne. Super fun combo that's made even better by an investment in synergistic selection of Stasis Aspects and Fragments.
+  base_perks:
+    barrels: [Hitmark HCS]
+    magazines: [High-Caliber Rounds]
+    perks1: [Unrelenting]
+    perks2: [Headstone]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Hitmark HCS, Truesight HCS, Crossfire HCS, Fastdraw HCS]
+    magazines: [High-Caliber Rounds, Ricochet Rounds, Flared Magwell, Light Mag]
+-
+  weapon_id: 235827225
+  name: Flying South
+  ratings_emoji: 🥶
+  tags: ['pve']
+  overview: >
+    `Outlaw` and `Headstone` proc on the same event (precision kills). This is more of a niche roll for PvP which is why I haven't tagged it as such. This combo is made even better by an investment in synergistic selection of Stasis Aspects and Fragments.
+  base_perks:
+    barrels: [Hitmark HCS]
+    magazines: [High-Caliber Rounds]
+    perks1: [Outlaw]
+    perks2: [Headstone]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Hitmark HCS, Truesight HCS, Crossfire HCS, Fastdraw HCS]
+    magazines: [High-Caliber Rounds, Ricochet Rounds, Flared Magwell, Light Mag]
+-
+  weapon_id: 235827225
+  name: Death from Above
+  ratings_emoji: ☔️
+  tags: ['pve']
+  overview: >
+    Given the number of times I search for `Demolitionist` across all of my weapons, it seems only natural to have a solid `Demolitionist`-based roll. Grenade-based bounties pop up in every game mode (incl. Dares of Eternity). This isn't flagged for PvP because you'd want something other than Unrelenting in that third column (unless you're a streamer dropping 40-bombs). Working backwards from `Demolitionist` if you're assuming lots of kills to keep those grenades coming, `Unrelenting` goes well to keep your health topped off. No reload perks since throwing your grenade is a free reload.
+  base_perks:
+    barrels: [Hitmark HCS]
+    magazines: [High-Caliber Rounds]
+    perks1: [Unrelenting]
+    perks2: [Demolitionist]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Hitmark HCS, Truesight HCS, Crossfire HCS, Fastdraw HCS]
+    magazines: [High-Caliber Rounds, Ricochet Rounds, Flared Magwell, Light Mag]
+-
+  weapon_id: 235827225
+  name: Talons
+  ratings_emoji: 🦅
+  tags: ['pve']
+  overview: >
+    Your classic reload and damage-boosting PvE combo here. This used to be the "god roll" across both PvE and PvP, but has fallen out of favor in PvP given the abundance of excellent third column perks appearing on many new weapons, and the fact that Kill Clip does not change your TTK in PvP.
+  base_perks:
+    barrels: [Hitmark HCS]
+    magazines: [High-Caliber Rounds]
+    perks1: [Outlaw, Rapid Hit]
+    perks2: [Kill Clip]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Hitmark HCS, Truesight HCS, Crossfire HCS, Fastdraw HCS]
+    magazines: [High-Caliber Rounds, Ricochet Rounds, Flared Magwell, Light Mag]
