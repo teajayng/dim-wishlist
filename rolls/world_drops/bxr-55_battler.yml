@@ -1,0 +1,96 @@
+-
+  weapon_id: 2708806099
+  name: Drewsky's "All-Purpose"
+  ratings_emoji: 🔨
+  tags: ['pvp']
+  overview: >
+    "This is the one that I use regularly and I absolutely love it. It's great in both 3s and 6s, and actually kinda decent in PvE. I love this for the all-around, all purpose roll."
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [Ricochet Rounds]
+    perks1: [Snapshot]
+    perks2: [Blunt Execution Rounds]
+    masterworks: [Stability MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling]
+    magazines: [Ricochet Rounds, Steady Rounds, Accurized Rounds]
+-
+  weapon_id: 2708806099
+  name: Drewsky's "Lethality" / CoolGuy's "Pound for Pound"
+  ratings_emoji: 💀
+  tags: ['pvp']
+  overview: >
+    For 6v6.
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [Ricochet Rounds]
+    perks1: [Perpetual Motion, Snapshot]
+    perks2: [Kill Clip]
+    masterworks: [Stability MW, Range MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling]
+    magazines: [Ricochet Rounds, Steady Rounds, Accurized Rounds]
+-
+  weapon_id: 2708806099
+  name: Drewsky's "Ultimate Consistency" / CoolGuy's "Pure Dueling"
+  ratings_emoji: 💯
+  tags: ['pvp']
+  overview: >
+    "This should be around 100 Stability, so you don't really need a Stability Masterwork on this. Eye of the Storm will further add on to your Aim Assist cone."
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [Ricochet Rounds]
+    perks1: [Perpetual Motion]
+    perks2: [Eye of the Storm]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling]
+    magazines: [Ricochet Rounds, Steady Rounds, Accurized Rounds]
+-
+  weapon_id: 2708806099
+  name: Drewsky's "Grenade Builds"
+  ratings_emoji: 💣
+  tags: ['pvp', 'pve']
+  overview: >
+    "Demo gets you grenades and Adrenaline Junkie gets you a minor lethality boost and then a major lethality boost if you land one of those grenades." Neither perk helps with Stability so going with that as the Masterwork.
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [Ricochet Rounds]
+    perks1: [Demolitionist]
+    perks2: [Adrenaline Junkie]
+    masterworks: [Stability MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling]
+    magazines: [Ricochet Rounds, Steady Rounds, Accurized Rounds]
+-
+  weapon_id: 2708806099
+  name: Drewsky's "Stasis/Void Mains" / CoolGuy's "Dueling Weapon"
+  ratings_emoji: 😈
+  tags: ['pvp']
+  overview: >
+    "Elemental Capacitor for maximum Stability."
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [Ricochet Rounds]
+    perks1: [Killing Wind]
+    perks2: [Elemental Capacitor]
+    masterworks: [Stability MW, Range MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling]
+    magazines: [Ricochet Rounds, Steady Rounds, Accurized Rounds]
+-
+  weapon_id: 2708806099
+  name: Drewsky's "Stasis Mains"
+  ratings_emoji: 🧊
+  tags: ['pvp']
+  overview: >
+    Alternatively, Stasis mains might opt for a different Elemental Capacitor roll. This is because Arrowhead gets you to 100 Recoil so the EleCap Recoil buff would be wasted. "Demolitionist for Stasis' long(er) grenade cooldowns. Elemental Capacitor to give you the Recoil you're missing from Arrowhead Brake."
+  base_perks:
+    barrels: [Chambered Compensator, Extended Barrel]
+    magazines: [Ricochet Rounds]
+    perks1: [Demolitionist]
+    perks2: [Elemental Capacitor]
+    masterworks: [Stability MW, Range MW]
+  extended_perks:
+    barrels: [Chambered Compensator, Extended Barrel, Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling]
+    magazines: [Ricochet Rounds, Steady Rounds, Accurized Rounds]

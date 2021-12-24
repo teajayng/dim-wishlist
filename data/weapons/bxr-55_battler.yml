@@ -1,0 +1,26 @@
+name: BxR-55 Battler
+item_id: 2708806099
+drop_id: world
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 6, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  The BxR is a new Pulse Rifle available during the 30th Anniversary event that started in December 2021. It has a unique 450 RPM frame, designed as an ode to itself as a Halo weapon. Drewsky and CoolGuy have put together terrific reviews. Drewsky in particular is super excited about the BxR and his coverage of it is some of the best Destiny content creators have to offer: [Everything You NEED to Know About Halo's Battle Rifle in Destiny 2](https://www.youtube.com/watch?v=TYAPbw_nl70). Strong honorable mention goes to CoolGuy and his review: [BXR-55 Battler is basically an exotic. It's a perfect weapon](https://www.youtube.com/watch?v=Zi7YorEj6_s). Each of these reviews features several rolls which we'll reproduce in the wishlist.
+
+
+  > *"It has everything and does everything right. It's extremely unique, unique enough to basically an exotic. Great stats, great accuracy, it's a great weapon. Go get the one that you want"* -- CoolGuy
+
+
+  > *"Above all, it feels special and fun still, even though it might not be the best. I think the enhancements on this weapon are niche but have good value proposition while still working within the mold of what a legendary pulse rifle is."* -- Drewsky
+
+
+  Of particular interest for the BxR is its standout hip-fire ability and presence of the new and unique to the BxR, [Blunt Execution Rounds](https://www.light.gg/db/items/454085387/blunt-execution-rounds/) perk. If you're never planning on hip-firing it and/or have no interest in the BXR perk, the intrinsic frame benefits will not come into play and you're left with a 450 RPM Pulse Rifle with all the attendant issues of that "middle child" archetype. Drewsky covers this well here ([timestamped](https://youtu.be/TYAPbw_nl70?t=823s)).
+
+
+  Speaking of hip-fire:
+
+
+  > *"I did get confirmation from Chris Proctor that the initial hip-fire accuracy is similar to other pulses. But it clearly doesn't grow or bloom out as much. This means that it does have bloom while hip-firing (which you can see by turning down your FOV). For this reason I think there's a bit of an advantage to ever-so-slightly pacing your shots while hip-firing to ensure your shots land consistently."* -- Drewsky
