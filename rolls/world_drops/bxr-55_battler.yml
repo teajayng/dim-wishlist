@@ -10,7 +10,7 @@
     magazines: [Ricochet Rounds]
     perks1: [Snapshot]
     perks2: [Blunt Execution Rounds]
-    masterworks: [Stability MW]
+    masterworks: [Stability MW, Range MW]
   extended_perks:
     barrels: [Arrowhead Brake, Chambered Compensator, Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling]
     magazines: [Ricochet Rounds, Steady Rounds, Accurized Rounds]
@@ -20,7 +20,7 @@
   ratings_emoji: 💀
   tags: ['pvp']
   overview: >
-    For 6v6.
+    For 6v6, where you're always moving and have a high chance to capitalize on Kill Clip.
   base_perks:
     barrels: [Arrowhead Brake]
     magazines: [Ricochet Rounds]
@@ -93,4 +93,20 @@
     masterworks: [Stability MW, Range MW]
   extended_perks:
     barrels: [Chambered Compensator, Extended Barrel, Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling]
+    magazines: [Ricochet Rounds, Steady Rounds, Accurized Rounds]
+-
+  weapon_id: 2708806099
+  name: Brawler
+  ratings_emoji: 👊
+  tags: ['pvp', 'pve']
+  overview: >
+    Your classic reload and damage-boosting combo here. This used to be the "god roll" across both PvE and PvP, and interestingly not a single video I watched even mentioned it. Presumably falling out of favor in PvP given the abundance of excellent third and fourth column perks.
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [Ricochet Rounds]
+    perks1: [Outlaw]
+    perks2: [Kill Clip]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling]
     magazines: [Ricochet Rounds, Steady Rounds, Accurized Rounds]
