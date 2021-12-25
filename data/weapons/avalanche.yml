@@ -1,0 +1,18 @@
+name: Avalanche
+item_id: 66875353
+drop_id: world
+traits:
+  barrels:     {t: 8, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  Avalanche is one of the rare 450 RPM Adaptive Frame Machine Guns available exclusively during The Dawning holiday event. Oddly it deals Solar damage instead of Stasis 🙃. Bungie let us know recently that they see MGs as having an add-clear focus, so that's what our rolls will be focusing on.
+
+    * [THE AVALANCHE MACHINE GUN GOD ROLL! (STILL WORTH GETTING?)](https://www.youtube.com/watch?v=WsQvvFpwqE0) - Ekeugan
+    * [Zephyr is LITERALLY a Stasis Sword](https://youtu.be/qJGJdiEJuxc?t=350) - Ehroar
+
+  I agree with Ekeugan that scope and Masterwork selection don't really matter here; skip stressing too much about these. Since MG's are big and unwieldy (i.e. low `Handling` and `Stability`) I tend to opt for investment in either of those over `Range`.
+
+  **A note on odds**: In the 2021 December Dawning event, there are buffs that allow Dawning weapons to roll with double perks in each of the final columns. Since it's not gauranteed, we're going to leave the odds as of only one perk existed in each column.

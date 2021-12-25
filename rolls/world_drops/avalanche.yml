@@ -1,0 +1,48 @@
+-
+  weapon_id: 66875353
+  name: Mountainous
+  ratings_emoji: 🏔
+  tags: ['pve']
+  overview: >
+    This core perk combo are both Ekeugan and Ehroar's suggested picks, with EK going so far as to say that `Subsistence` and the retooled `Adrenaline Junkie` are the reasons to run Avalanche. `Appended` is here as the big roll because it lets you keep a larger magazine without sacrificing reload speed, as `Extended Mag` requires. Alternatively if you don't care about reload speed because of Subsistence, then feel free to go with `Extended Mag` so you can use a different weapon mod.
+  base_perks:
+    barrels: [SPO-26 Front]
+    magazines: [Appended Mag]
+    perks1: [Subsistence]
+    perks2: [Adrenaline Junkie]
+    masterworks: [Stability MW, Handling MW]
+  extended_perks:
+    barrels: [SPO-26 Front, SLO-12 Post, SLO-10 Post, SLO-21 Post, SPO-28 Front]
+    magazines: [Appended Mag, Extended Mag, High-Caliber Rounds, Armor-Piercing Rounds]
+-
+  weapon_id: 66875353
+  name: Fresh Powder
+  ratings_emoji: ❄️
+  tags: ['pve']
+  overview: >
+    This is one of the two rolls Ehroar mentions in his video. I'm opting for High-Cal because with Outlaw, magazine size and reload speed don't matter so much. Alternatively I think anything that helps Stability is a solid mag pick here if you're looking to get precision kills. At first I didn't think MGs would be great precision killers but my Commemoration w/Dragonfly has 1,856 kills on it 🤷
+  base_perks:
+    barrels: [SPO-26 Front]
+    magazines: [High-Caliber Rounds]
+    perks1: [Outlaw]
+    perks2: [Dragonfly]
+    masterworks: [Stability MW, Handling MW]
+  extended_perks:
+    barrels: [SPO-26 Front, SLO-12 Post, SLO-10 Post, SLO-21 Post, SPO-28 Front]
+    magazines: [High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell]
+-
+  weapon_id: 66875353
+  name: Seasonal Artifact Gamble
+  ratings_emoji: 🎲
+  tags: ['pve']
+  overview: >
+    MGs are meant more for add clear where `Vorpal Weapon` isn't going to be a huge help. If MGs ever come up as champion-busting mods in the Seasonal Artifact, a `Vorpal Weapon` roll would be nice to have. I'm opting for `Extended Mag` here to maximize the magazine size without having to use the `Backup Mag` mod. This is because if you're stunning/killing Champions with this you'd want to have the `Major Spec` mod equipped. Alternatively if you're trying to maximize precision shots, there are some Stability-enhancing mags in the extended list as well.
+  base_perks:
+    barrels: [SPO-26 Front]
+    magazines: [Extended Mag]
+    perks1: [Zen Moment]
+    perks2: [Vorpal]
+    masterworks: [Stability MW, Handling MW]
+  extended_perks:
+    barrels: [SPO-26 Front, SLO-12 Post, SLO-10 Post, SLO-21 Post, SPO-28 Front]
+    magazines: [Extended Mag, Appended Mag, Ricochet Rounds, Flared Magwell]
