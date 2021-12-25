@@ -12,6 +12,7 @@ menu:
 |High-Caliber Rounds|5||||
 |Light Mag|5||10||
 |Ricochet Rounds|5|10|||
+|Steady Rounds|-5|14|||
 |Flared Magwell||5|15||
 |Extended Mag|||-20|3|
 |Appended Mag||||2|
