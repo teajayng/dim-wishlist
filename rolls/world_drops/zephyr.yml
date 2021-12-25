@@ -1,0 +1,63 @@
+-
+  weapon_id: 3400256755
+  name: Snowstorm
+  ratings_emoji: ❄️
+  tags: ['pve']
+  overview: >
+    `Cold Steel` can work magic with Stasis builds. Plenty of great YouTube content about Stasis aspect/fragment selection synergizing with Stasis weapons. `Tireless Blade` get the... edge 🙃... here but you would be stoked to get the whole deal with `Relentless Strikes`. 
+  base_perks:
+    barrels: [Honed Edge]
+    magazines: [Swordmaster's Guard]
+    perks1: [Tireless Blade, Relentless Strikes]
+    perks2: [Cold Steel]
+    masterworks: [Impact MW]
+  extended_perks:
+    barrels: [Honed Edge, Jagged Edge, Tempered Edge]
+  custom_variants:
+    - "{emoji}{emoji}{emoji}🌟 Collector's Edition"
+    - "{emoji}{emoji}{emoji} CE (+barrels)"
+    - "{emoji}{emoji}{emoji} CE (*magazines)"
+    - "{emoji}{emoji} (+barrels, *magazines)"
+    - "{emoji} (*barrels, *magazines)"
+-
+  weapon_id: 3400256755
+  name: 
+  ratings_emoji: TODO
+  tags: ['pve']
+  overview: >
+    `Harmony` requires a small bit of setup, but it allows you to charge in immediately with a 20% damage buff and can be activated from afar. `Tireless Blade` get the... edge 🙃... here but you would be stoked to get the whole deal with `Relentless Strikes`. 
+  base_perks:
+    barrels: [Honed Edge]
+    magazines: [Swordmaster's Guard]
+    perks1: [Tireless Blade, Relentless Strikes]
+    perks2: [Harmony]
+    masterworks: [Impact MW]
+  extended_perks:
+    barrels: [Honed Edge, Jagged Edge, Tempered Edge]
+  custom_variants:
+    - "{emoji}{emoji}{emoji}🌟 Collector's Edition"
+    - "{emoji}{emoji}{emoji} CE (+barrels)"
+    - "{emoji}{emoji}{emoji} CE (*magazines)"
+    - "{emoji}{emoji} (+barrels, *magazines)"
+    - "{emoji} (*barrels, *magazines)"
+-
+  weapon_id: 3400256755
+  name: Blizzard
+  ratings_emoji: 🌨
+  tags: ['pve']
+  overview: >
+    `Duelist Trance` is the new best third column perk for boss DPS. See Ehroar's video for more.
+  base_perks:
+    barrels: [Jagged Edge]
+    magazines: [Swordmaster's Guard]
+    perks1: [Duelist's Trance]
+    perks2: [Whirlwind Blade]
+    masterworks: [Impact MW]
+  extended_perks:
+    barrels: [Jagged Edge, Honed Edge, Tempered Edge]
+  custom_variants:
+    - "{emoji}{emoji}{emoji}🌟 Collector's Edition"
+    - "{emoji}{emoji}{emoji} CE (+barrels)"
+    - "{emoji}{emoji}{emoji} CE (*magazines)"
+    - "{emoji}{emoji} (+barrels, *magazines)"
+    - "{emoji} (*barrels, *magazines)"
