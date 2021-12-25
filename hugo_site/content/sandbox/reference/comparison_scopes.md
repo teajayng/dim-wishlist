@@ -14,7 +14,7 @@ menu:
 |SLO-21 Post||3|7|
 |SLO-10 Post||5|6|
 |SPO-26 Front|2|6|6|
-|SPO-27 Front|3|10|3|
+|SPO-28 Front|3|10|3|
 |SPO-57 Front|4|13|-3|
 |SRO-41 Ocular|5|7||
 |SRO-37 Ocular|5|9|-2|
