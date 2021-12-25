@@ -1,21 +1,5 @@
 -
   weapon_id: 2708806099
-  name: Drewsky's "All-Purpose"
-  ratings_emoji: 🔨
-  tags: ['pvp']
-  overview: >
-    "This is the one that I use regularly and I absolutely love it. It's great in both 3s and 6s, and actually kinda decent in PvE. I love this for the all-around, all purpose roll."
-  base_perks:
-    barrels: [Arrowhead Brake]
-    magazines: [Ricochet Rounds]
-    perks1: [Snapshot]
-    perks2: [Blunt Execution Rounds]
-    masterworks: [Stability MW, Range MW]
-  extended_perks:
-    barrels: [Arrowhead Brake, Chambered Compensator, Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling]
-    magazines: [Ricochet Rounds, Steady Rounds, Accurized Rounds]
--
-  weapon_id: 2708806099
   name: Drewsky's "Lethality" / CoolGuy's "Pound for Pound"
   ratings_emoji: 💀
   tags: ['pvp']
@@ -43,22 +27,6 @@
     perks1: [Perpetual Motion]
     perks2: [Eye of the Storm]
     masterworks: [Range MW]
-  extended_perks:
-    barrels: [Arrowhead Brake, Chambered Compensator, Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling]
-    magazines: [Ricochet Rounds, Steady Rounds, Accurized Rounds]
--
-  weapon_id: 2708806099
-  name: Drewsky's "Grenade Builds"
-  ratings_emoji: 💣
-  tags: ['pvp', 'pve']
-  overview: >
-    "Demo gets you grenades and Adrenaline Junkie gets you a minor lethality boost and then a major lethality boost if you land one of those grenades." Neither perk helps with Stability so going with that as the Masterwork.
-  base_perks:
-    barrels: [Arrowhead Brake]
-    magazines: [Ricochet Rounds]
-    perks1: [Demolitionist]
-    perks2: [Adrenaline Junkie]
-    masterworks: [Stability MW]
   extended_perks:
     barrels: [Arrowhead Brake, Chambered Compensator, Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling]
     magazines: [Ricochet Rounds, Steady Rounds, Accurized Rounds]
@@ -96,6 +64,22 @@
     magazines: [Ricochet Rounds, Steady Rounds, Accurized Rounds]
 -
   weapon_id: 2708806099
+  name: Drewsky's "Grenade Builds"
+  ratings_emoji: 💣
+  tags: ['pvp', 'pve']
+  overview: >
+    "Demo gets you grenades and Adrenaline Junkie gets you a minor lethality boost and then a major lethality boost if you land one of those grenades." Neither perk helps with Stability so going with that as the Masterwork.
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [Ricochet Rounds]
+    perks1: [Demolitionist]
+    perks2: [Adrenaline Junkie]
+    masterworks: [Stability MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling]
+    magazines: [Ricochet Rounds, Steady Rounds, Accurized Rounds]
+-
+  weapon_id: 2708806099
   name: Brawler
   ratings_emoji: 👊
   tags: ['pvp', 'pve']
@@ -107,6 +91,22 @@
     perks1: [Outlaw]
     perks2: [Kill Clip]
     masterworks: [Range MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling]
+    magazines: [Ricochet Rounds, Steady Rounds, Accurized Rounds]
+-
+  weapon_id: 2708806099
+  name: Drewsky's "All-Purpose"
+  ratings_emoji: 🔨
+  tags: ['pvp', 'pve']
+  overview: >
+    Drewsky: "This is the one that I use regularly and I absolutely love it. It's great in both 3s and 6s, and actually kinda decent in PvE. I love this for the all-around, all purpose roll." In my experience, `Blunt Execution Rounds` is more of a niche/nostalgic perk and occupies a very valuable slot for something entirely situational. Personally I'm not keeping any rolls with them, but as usual YMMV.
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [Ricochet Rounds]
+    perks1: [Snapshot]
+    perks2: [Blunt Execution Rounds]
+    masterworks: [Stability MW, Range MW]
   extended_perks:
     barrels: [Arrowhead Brake, Chambered Compensator, Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling]
     magazines: [Ricochet Rounds, Steady Rounds, Accurized Rounds]
