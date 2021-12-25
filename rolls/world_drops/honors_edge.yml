@@ -18,7 +18,7 @@
     - "{emoji}{emoji}{emoji} CE (+barrels)"
     - "{emoji}{emoji}{emoji} CE (*magazines)"
     - "{emoji}{emoji} (+barrels, *magazines)"
-    - "{emoji} (*barrels, *magazines)"    
+    - "{emoji} (*barrels, *magazines)"
 -
   weapon_id: 2857348871
   name: Perfect Parry
