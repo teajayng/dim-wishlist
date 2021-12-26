@@ -1,0 +1,33 @@
+name: Glacioclasm
+item_id: 1030895163
+drop_id: world
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 6, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 5, c: 1}
+overview: >
+  The Glacioclasm is a High-Impact Frame Fusion Rifle released for the first time in The Dawning, 2020 (Y4 S12). The 2021 Glacioclasm can now roll the new S15 perk `Harmony` and Loaded Question's `Reservoir Burst`.
+
+
+  *TL;DR - Null Composure (the S14 Pinnacle Weapon) is a better choice than Glacioclasm. Yes, taken in isolation, Glacioclasm is powerful and if Null Compsure weren't in the game and accessible to everyone with a phenomenal curated roll, I would be suggesting you farm a great Glacioclasm. Glacio is not worth chasing for PvE or PvP with this the recent change to a 1s charge time and this year's Dawning perk pool.*
+  
+  
+  At the start of Season of the Lost (S15), Fusion Rifles were dramatically reworked ([details here](https://www.bungie.net/en/News/Article/50572)). From the TWAB:
+
+    > High Impacts charge slower, and while still strong require more planning to use effectively. 
+    >   * Base charge time increased from 0.86s to 1.0s. 
+    >   * Shots per burst reduced from seven to five. 
+    >   * Reduced total damage per burst. 
+    >   * In playtesting, we've found that charging these in the open is super risky, but pre-charging around corners or otherwise in safety is very effective. 
+    >   * With the reduced shots per burst, these are now less reliant on `Stability`, so can stack a bit more `Range`. 
+
+  `Backup Plan`, the once-savior of slow-charging High-Impact Fusions was also changed:
+
+    > Backup Plan's implementation was incompatible with the Fusion Rifle changes, and we felt like the perk could use a rework anyway. 
+    >   * Removed +100 to charge time stat
+    >   * Adjusted charge time multiplier from 0.85 to 0.7
+    >   * Damage scaled by 0.8.
+
+  These changes effectively removed High-Impact Frame fusions from viability in PvP due to the 25% slower charge time and the fact that `Backup Plan` on a High-Impact results in a charge time only slightly faster than its previous base, which was already lengthy. I mean, they certainly work and can map at times, but are incredibly difficult to use in CQC due to the charge time. PvE on the other hand... [Glacioclasm Might Just Be a Pinnacle Weapon (Loaded Question But Better)](https://www.youtube.com/watch?v=XojsOa0OadE)... but [maybe not](https://www.youtube.com/watch?v=Pok-XeUBp0Q)?
