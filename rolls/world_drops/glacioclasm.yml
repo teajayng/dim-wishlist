@@ -1,0 +1,32 @@
+-
+  weapon_id: 1030895163
+  name: Shattered
+  ratings_emoji: 🧊
+  tags: ['pve']
+  overview: >
+    This is useful when burning through adds where kills are keeping your magazine topped off and `Reservoir Burst` active constantly.
+  base_perks:
+    barrels: [Smallbore]
+    magazines: [Projection Fuse]
+    perks1: [Subsistence]
+    perks2: [Reservoir Burst]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Smallbore, Hammer-Forged Rifling, Polygonal Rifling, Corkscrew Rifling]
+    magazines: [Projection Fuse, Particle Repeater]
+-
+  weapon_id: 1030895163
+  name: Thawing
+  ratings_emoji: 💧
+  tags: ['pve']
+  overview: >
+    Similar to the above but we're using `Slideshot` which requires you to slide to refill the mag after each shot. This can work against chunkier enemies but you're going to be repositioning like a maniac during those encounters, which isn't super optimal.
+  base_perks:
+    barrels: [Smallbore]
+    magazines: [Projection Fuse]
+    perks1: [Slideshot]
+    perks2: [Reservoir Burst]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Smallbore, Hammer-Forged Rifling, Polygonal Rifling, Corkscrew Rifling]
+    magazines: [Projection Fuse, Particle Repeater]
