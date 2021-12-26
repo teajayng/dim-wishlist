@@ -4,67 +4,22 @@ drop_id: world
 traits:
   barrels:     {t: 9, c: 2}
   magazines:   {t: 8, c: 2}
-  perks1:      {t: 5, c: 1}
+  perks1:      {t: 6, c: 1}
   perks2:      {t: 6, c: 1}
   masterworks: {t: 4, c: 1}
 overview: >
-  Cold Front is a 750 RPM Aggressive Frame ("High damage, high recoil") Kinetic
-  Submachine Gun, first introduced long ago during the Season 9 Dawning event.
-  It's back once again with a whole new set of perks from Year 4. If you want to
-  see the old perks, here's a still from
-  [Aztec's review](https://youtu.be/ZK1JPaCASnQ?t=166)
-  in 2019.
+  **(Rolls have been added, updated and removed based on the changes in the December 2021 Dawning event. The most noticeable difference is the removal/reliance on `Surplus` which took a huge transitive hit by how much slower abilities are to recharge now.)**
 
 
-  [Cold Front Is Back & BETTER Than Ever! (Best Destiny 2 Primary?)](https://www.youtube.com/watch?v=CG3C1TDUzA8) - Ehroar
+  Cold Front is a 750 RPM Aggressive Frame ("High damage, high recoil") Kinetic Submachine Gun, first introduced long ago during the Season 9 Dawning event. It's back once again with its yearly refresh of the perk pool. Keep in mind these reviews are from 2020. Its primary utility is in PvE, but we'll include a PvP configuration if you happent to land the magical combination of perks that make it viable.
+
+    > *I believe it's one of the best primaries in the game for PvE* -- Ehroar, Dec. 2020
+
+    > *I have a reason to believe this is the new best primary in the game, full stop* -- Blyatnid, Dec. 2020
 
 
-  > *I believe it's one of the best primaries in the game for PvE* -- Ehroar, Dec. 2020
+    * [Cold Front Is Back & BETTER Than Ever! (Best Destiny 2 Primary?)](https://www.youtube.com/watch?v=CG3C1TDUzA8) - Ehroar
+    * [IF YOU HAVENT GOT THIS SMG, YOU NEED IT, Cold Front Dawning SMG God Roll Guide](https://www.youtube.com/watch?v=9sFhMUMMttk) - Blyatnid
 
-
-  [IF YOU HAVENT GOT THIS SMG, YOU NEED IT, Cold Front Dawning SMG God Roll Guide](https://www.youtube.com/watch?v=9sFhMUMMttk) - Blyatnid
-
-
-  > *I have a reason to believe this is the new best primary in the game, full stop* -- Blyatnid, Dec. 2020
-
-
-  Ehroar and co. are excited for a couple of reasons. First, Cold Front has an
-  (obviously) higher rate of fire than its 600 RPM counterpart without being
-  all that much different stat-wise (save for Stability of course). It can also
-  roll with the new damage-boosting perk `One for All` which we'll get to down
-  in the PvE section below.
-
-
-  If you remember the Cold Front from last year, you'll recall its
-  Stability is one of the lowest in the game at `16`. Technically that's
-  "better" than Hard Truth's `15` though not by much. This is less of an
-  issue on PC than Console, though it's still an issue. However, this time
-  around we have two new tools at our disposal: `Surplus` and `Dynamic Sway
-  Reduction`.
-
-
-  The cornerstones of both PvE and PvP are `Surplus` and `Dynamic Sway
-  Reduction`. The best PvE and PvP rolls center around having one of these
-  perks in column three. If you end up with a "PvE roll" that also happens
-  to have super high Stability, then you've got the Holy Grail of Cold
-  Front rolls. Congrats! For an explanation of these rolls, please read
-  further down towards the specific PvE and PvP sections.
-
-
-  These rolls are floored at `36` Stability (before `Surplus`) since that's
-  the base Stability of other similar SMGS (e.g. Ikelos).
-
-
-  *Yes, these rolls are all based on quotes from the great
-  [Dr. Victor Fries](https://www.imdb.com/title/tt0118688/characters/nm0000216#quotes).*
-pvp_comments: >
-  You'll notice I didn't include any final column perks. Rampage doesn't
-  meaningfully realistically alter the TTK and Thresh adds so little to
-  your super that it's not worth calling out as the Collector's Edition.
-  Whatever you get in that final column is fine.
-pve_comments: >
-  With the addition of `Surplus` and `One for All` to the Cold Front perk
-  pool, we're looking at a strong contender for one of the best kinetic
-  weapons of all time. `Surplus` improves Stability and Reload (two big Cold
-  Front drawbacks) and `One for All` provides a tremendous damage boost
-  and leaves your mod slot free for Minor, Major or Boss Spec.
+  
+  The Multimach and Shayura's are best-in-slot for Kinetic and Energy respectively, and have phenomenally better base stats than the Cold Front. With Cold Front you're spending so much of your roll trying to deal with it's terriblly low `Stability` that you don't leave room for perks on top of that. If you landed the perfect set of Stability perks and a Stability Masterwork you could have something interesting to work with, so we'll include that roll.

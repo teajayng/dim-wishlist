@@ -1,123 +1,68 @@
 - 
   weapon_id: 1506719573
-  name: Endless Winter
+  name: Ice to See You
   ratings_emoji: 🥶
-  tags: ['pvp', 'pve']
+  tags: ['pvp']
   overview: >
-    `Surplus` + `One for All` + all the `Stability` you can get.
-  base_perks:
-                                     # BASE 16
-    barrels: [Chambered Compensator] # +5 - +10 (at least 5)
-    magazines: [Steady Rounds]       # +5 - +15 (at least 5)
-    perks1: [Surplus]
-    perks2: [One for All]
-    masterworks: [Stability MW]      # +10
-  extended_perks:
-    barrels: [Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
-    magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
-- 
-  weapon_id: 1506719573
-  name: Everything Freezes!
-  ratings_emoji: 🥶
-  tags: ['pvp', 'pve']
-  overview: >
-    Same as the above, replacing `Surplus` with `Dynamic Sway Reduction`.
-  base_perks:
-                                     # BASE 16
-    barrels: [Chambered Compensator] # +5 - +10 (at least 5)
-    magazines: [Steady Rounds]       # +5 - +15 (at least 5)
-    perks1: [Dynamic Sway Reduction]
-    perks2: [One for All]
-    masterworks: [Stability MW]      # +10
-  extended_perks:
-    barrels: [Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
-    magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
-- 
-  weapon_id: 1506719573
-  name: Let's Kick Some Ice!
-  ratings_emoji: 🧊
-  tags: ['pvp', 'pve']
-  overview: >
-    Same as the above, but we'll take any damage perk.
-  base_perks:
-                                     # BASE 16
-    barrels: [Chambered Compensator] # +5 - +10 (at least 5)
-    magazines: [Steady Rounds]       # +5 - +15 (at least 5)
-    perks1: [Surplus, Dynamic Sway Reduction]
-    perks2: [Dragonfly, Rampage, Surrounded]
-    masterworks: [Stability MW]      # +10
-  extended_perks:
-    barrels: [Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
-    magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+    Cold Front needs a lot of help in the `Stability` department. A high-`Stability` variant puts you way above the base Stability on the vaunted Antiope-D and other Precision Frame SMGs. The Recoil is `92` so be sure to throw on a Counterbalance mod if you don't end up with a +Recoil barrel. This roll is strict because you need to land a bunch of these in tandem to make it viable. There are three possibilities for the third-column perk, all depending on your play style. The roll is otherwise the same so I'm going to keep them combined and differentiate in the table below.
 
-- 
+      |Perk | Stability (Min - Max) |
+      |:-|:-:|
+      |`Surplus`| 35 - 76 |
+      |`Perpetual Motion`| 40 - 61|
+      |`Dynamic Sway Reduction`| 44 - 60|
+
+    I've added Harmony here because I believe eventually there will be enough weapons with `Harmony` to where double-`Harmony` loadouts become the norm or at least plenty viable. It's a 20% boost that turns this into a shredder.
+  base_perks:
+                                                                # BASE 16
+    barrels: [Chambered Compensator]                            # +4 - 10
+    magazines: [Steady Rounds]                                  # +5 - 15
+    perks1: [Perpetual Motion, Surplus, Dynamic Sway Reduction] # +0 - 25
+    perks2: [Harmony]
+    masterworks: [Stability MW]                                 # 10
+                                                                # =======
+                                                                # 35 - 76
+  extended_perks:
+    barrels: [Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
+    magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+  custom_variants:
+    - "{emoji}{emoji}{emoji}🌟 Collector's Edition"
+    - "{emoji}{emoji}{emoji} CE (+barrels)"
+    - "{emoji}{emoji}{emoji} CE (+magazines)"
+    - "{emoji}{emoji} (+barrels, +magazines)"
+-
   weapon_id: 1506719573
-  name: Ice to See You (Feat. Surplus)
+  name: Ice to See You (w/o Harmony)
   ratings_emoji: 🥶
   tags: ['pvp']
   overview: >
-          Cold Front needs a lot of help in the Stability department, which is
-          the entire focus of this roll. At best, you'll be able to get
-          Stability up from `16` to `51` plus the benefits coming from Surplus.
-          This puts you way above the base Stability on the vaunted Antiope-D and
-          other Precision Frame SMGs. The Recoil is `92` so be sure to throw on
-          a Counterbalance mod if you don't end up with a +Recoil barrel.
+    Same as the above, minus `Harmony`.
   base_perks:
     barrels: [Chambered Compensator]
     magazines: [Steady Rounds]
-    perks1: [Surplus]
+    perks1: [Perpetual Motion, Surplus, Dynamic Sway Reduction]
     perks2: []
     masterworks: [Stability MW]
   extended_perks:
     barrels: [Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
     magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
+  custom_variants:
+    - "{emoji}{emoji}{emoji}🌟 Collector's Edition"
+    - "{emoji}{emoji}{emoji} CE (+barrels)"
+    - "{emoji}{emoji}{emoji} CE (+magazines)"
+    - "{emoji}{emoji} (+barrels, +magazines)"
 - 
   weapon_id: 1506719573
-  name: Ice to See You (Feat. Dynamic Sway Reduction)
-  ratings_emoji: 🕺
-  tags: ['pvp']
-  overview: >
-    Same as the above, swapping DSR in for Surplus. These rolls are otherwise
-    identical but Surplus is so much better than DSR I wanted to call it out 😀
-  base_perks:
-    barrels: [Chambered Compensator]
-    magazines: [Steady Rounds]
-    perks1: [Dynamic Sway Reduction]
-    perks2: []
-    masterworks: [Stability MW]
-  extended_perks:
-    barrels: [Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
-    magazines: [Steady Rounds, Tactical Mag, Flared Magwell]
-- 
-  weapon_id: 1506719573
-  name: Blizzard
-  ratings_emoji: 🌨
+  name: Storm's Brewin'
+  ratings_emoji: ⛈
   tags: ['pve']
   overview: >
-    While `Surplus` will be boosting Stability, the Stability is so low
-    and difficult to manage on console that we'll continue to crave it as
-    a backstop for when we're at lower tiers of `Surplus` benefits.
+    Now that `Subsistence` no longer kills your reserves, it's become an S-tier PvE perk. The fourth-column perks are subjective/context-dependant but the roll is otherwise unchanged due to `Subsistence` so I've combined them all here.
   base_perks:
     barrels: [Chambered Compensator]
     magazines: [Extended Mag]
-    perks1: [Surplus]
-    perks2: [One for All]
-    masterworks: [Stability MW]
-  extended_perks:
-    barrels: [Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
-    magazines: [Extended Mag, Appended Mag]
-- 
-  weapon_id: 1506719573
-  name: Snowstorm
-  ratings_emoji: ❄️
-  tags: ['pve']
-  overview: >
-    Same as the above, swapping `Dynamic Sway Reduction` in for `Surplus`.
-  base_perks:
-    barrels: [Chambered Compensator]
-    magazines: [Extended Mag]
-    perks1: [Dynamic Sway Reduction]
-    perks2: [One for All]
+    perks1: [Subsistence]
+    perks2: [One for All, Rampage, Swashbuckler]
     masterworks: [Stability MW]
   extended_perks:
     barrels: [Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
@@ -125,17 +70,15 @@
 - 
   weapon_id: 1506719573
   name: Light Dusting
-  ratings_emoji: ☃️
+  ratings_emoji: 🌨
   tags: ['pve']
   overview: >
-    We'll take any combination of a handful of perks in the final columns
-    for a super solid roll (recall that Dragonfly is being replaced by
-    Swashbuckler shortly).
+    `Harmony` instantly applies a 20% damage buff that you can start from afar. You have three seconds to swap to Cold Front and then `Harmony` is active for seven seconds. With more weapons getting released with `Harmony`, I think eventually it will be a no-brainer to run double-`Harmony` loadouts. I don't have this flagged for PvP because you're giving up too much Stability by going with `Subsistence` in the third column.
   base_perks:
     barrels: [Chambered Compensator]
     magazines: [Extended Mag]
-    perks1: [Surplus, Dynamic Sway Reduction]
-    perks2: [Dragonfly, Rampage, Surrounded]
+    perks1: [Subsistence]
+    perks2: [Harmony]
     masterworks: [Stability MW]
   extended_perks:
     barrels: [Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
