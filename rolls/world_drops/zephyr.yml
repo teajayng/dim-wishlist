@@ -21,11 +21,11 @@
     - "{emoji} (*barrels, *magazines)"
 -
   weapon_id: 3400256755
-  name: 
-  ratings_emoji: TODO
+  name: Frozen Together
+  ratings_emoji: 🥶
   tags: ['pve']
   overview: >
-    `Harmony` requires a small bit of setup, but it allows you to charge in immediately with a 20% damage buff and can be activated from afar. `Tireless Blade` get the... edge 🙃... here but you would be stoked to get the whole deal with `Relentless Strikes`. 
+    `Harmony` requires a small bit of setup, but it allows you to charge in immediately with a 20% damage buff and can be activated from afar. `Tireless Blade` gets the... edge 🙄 here but you would be stoked to get the whole deal with `Relentless Strikes`.
   base_perks:
     barrels: [Honed Edge]
     magazines: [Swordmaster's Guard]
