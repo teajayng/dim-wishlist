@@ -8,7 +8,7 @@ menu:
 
 *This is primarily a transcription of Castle's amazing video that you should watch post haste. ["Nobody Understands THIS about Fusion Rifles..."](https://www.youtube.com/watch?v=d3jOck_kTZA) - [Castle Content](https://www.youtube.com/c/CastleContent)*
 
-Since D1, I've greatly enjoyed Fusion Rifles as they're one of the most unique weapons Destiny has to offer. They're also pretty darn confusing to reason about. Now that fusions have been completely reworked and rebalanced during Season 15, it's time to forget most of what I knew and dive back in. 
+Since D1, I've greatly enjoyed Fusion Rifles as they're one of the most unique weapons Destiny has to offer. They're also pretty darn confusing to reason about. Now that fusions have been completely reworked and rebalanced during Season 15, it's time to forget most of what I knew and dive back in.
 
 ## Archetypes
 
@@ -25,8 +25,8 @@ In Destiny 2, some behaviour was included by default on weapons and changed to t
 
 From the Fusion Rifle rework TWAB:
 
-  * High-Impact: Less reliant on `Stability`, can stack a bit more `Range`.
-  * Rapid-Fire: More reliant on `Stability`, less reliant on `Range`.
+* High-Impact: Less reliant on `Stability`, can stack a bit more `Range`.
+* Rapid-Fire: More reliant on `Stability`, less reliant on `Range`.
 
 Since these are at opposite ends of the frame spectrums, presuambly we can fill in the blanks for the intermediate frames.
 
