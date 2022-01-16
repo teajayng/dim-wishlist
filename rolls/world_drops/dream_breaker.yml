@@ -50,15 +50,15 @@
     - "{emoji}{emoji} (+barrels, +magazines, *masterworks)"
 -
   weapon_id: 2931957300
-  name: Sleepwalker
+  name: Sleepwalker (No Slideways)
   ratings_emoji: 😴
   tags: ['pvp']
   overview: >
-    `High-Impact Reserves` is less of a damage boost than `Kickstart` however, it's still super lethal. If the `Kickstart`-based playstyle isn't for you, give one of these a go.
+    `High-Impact Reserves` is less of a damage boost than `Kickstart` however, it's still super lethal. If the `Kickstart`-based playstyle isn't for you, give one of these a go. Depending on your ammo situation, `Slideways` might put you out of benefit of `High-Impact Reserves`, so we're documenting a separate roll for it.
   base_perks:
     barrels: [Arrowhead Brake]
     magazines: [Accelerated Coils]
-    perks1: [Firmly Planted, Slideways, Under Pressure]
+    perks1: [Firmly Planted, Under Pressure]
     perks2: [High-Impact Reserves]
     masterworks: [Charge MW]
   extended_perks:
@@ -75,11 +75,61 @@
     - "{emoji}{emoji} (+barrels, +magazines, *masterworks)"
 -
   weapon_id: 2931957300
-  name: Sweet Dreams
+  name: Sleepwalker (Feat. Slideways)
+  ratings_emoji: 😴
+  tags: ['pvp']
+  overview: >
+    Same as the above, but with Slideways.
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [Accelerated Coils]
+    perks1: [Slideways]
+    perks2: [High-Impact Reserves]
+    masterworks: [Charge MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator, Hammer-Forged Rifling]
+    magazines: [Accelerated Coils, Projection Fuse, Particle Repeater]
+  custom_variants:
+    - "{emoji}{emoji}{emoji}🌟 Collector's Edition"
+    - "{emoji}{emoji}{emoji} CE (+barrels)"
+    - "{emoji}{emoji}{emoji} CE (+magazines)"
+    - "{emoji}{emoji}{emoji} CE (*masterworks)"
+    - "{emoji}{emoji}{emoji} CE (+barrels, +magazines)"
+    - "{emoji}{emoji}{emoji} CE (+barrels, *masterworks)"
+    - "{emoji}{emoji} (+magazines, *masterworks)"
+    - "{emoji}{emoji} (+barrels, +magazines, *masterworks)"    
+-
+  weapon_id: 2931957300
+  name: Sweet Dreams (Sans Third Column)
   ratings_emoji: 🥱
   tags: ['pvp']
   overview: >
-    If you score a complete blank on the final column perks and bullseye the rest, you've still got a decent PvP Solar Fusion in a pinch.
+    The perks that make this what it is (i.e. change the damage/charge profile of the weapon) are in the fourth column. If you score a complete blank in the third column, there's still hope for a deadly fusion!
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [Accelerated Coils]
+    perks1: []
+    perks2: [Kickstart, High-Impact Reserves]
+    masterworks: [Charge MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator, Hammer-Forged Rifling]
+    magazines: [Accelerated Coils, Projection Fuse, Particle Repeater]
+  custom_variants:
+    - "{emoji}{emoji}{emoji}🌟 Collector's Edition"
+    - "{emoji}{emoji}{emoji} CE (+barrels)"
+    - "{emoji}{emoji}{emoji} CE (+magazines)"
+    - "{emoji}{emoji}{emoji} CE (*masterworks)"
+    - "{emoji}{emoji}{emoji} CE (+barrels, +magazines)"
+    - "{emoji}{emoji}{emoji} CE (+barrels, *masterworks)"
+    - "{emoji}{emoji} (+magazines, *masterworks)"
+    - "{emoji}{emoji} (+barrels, +magazines, *masterworks)"
+-
+  weapon_id: 2931957300
+  name: Sweet Dreams (Sans Fourth Column)
+  ratings_emoji: 🥱
+  tags: ['pvp']
+  overview: >
+    If you score a complete blank on the fourth column perks and bullseye the rest, you've still got a decent PvP Solar Fusion in a pinch.
   base_perks:
     barrels: [Arrowhead Brake]
     magazines: [Projection Fuse, Particle Repeater]
