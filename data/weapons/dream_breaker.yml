@@ -1,0 +1,14 @@
+name: Dream Breaker
+item_id: 2931957300
+drop_id: world
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 6, c: 2}
+  perks1:      {t: 7, c: 1}
+  perks2:      {t: 7, c: 1}
+  masterworks: {t: 5, c: 1}
+overview: >
+  Dream Breaker is an Adaptive Frame Solar Fusion Rifle, originally released way back in the Shadowkeep days. It came back to us in S14 with a revamped set of perks that at the time, made for an underwhelming package. In S15, Bungie revamped Fusion Rifles and given the right perks and right playstyle (which I suppose is true for any weapon), the Dream Breaker can put in work.
+  
+  
+  If you'd like more info on Fusion Rifles, check out [Castle's overview](https://www.youtube.com/watch?v=d3jOck_kTZA) and for Dream Breaker specifically, check out CoolGuy's [recent video](https://www.youtube.com/watch?v=WXxxLldHIqY).
