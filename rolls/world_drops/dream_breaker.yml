@@ -1,0 +1,93 @@
+-
+  weapon_id: 2931957300
+  name: CoolGuy's Pick
+  ratings_emoji: 😎
+  tags: ['pvp']
+  overview: >
+    `Firmly Planted` is key to this roll, clearning up all of what ails Fusion Rifles. `Kickstart` active is what allows us to go all-in on damage reduction trade-off for making Charge Time slower. `Arrowhead Brake` allows us to hit `100` Recoil with a `Counterbalance` mod. The benefits from `Firmly Planted` don't make this necessary though, hence the suggestion of most any barrel.
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [Accelerated Coils]
+    perks1: [Firmly Planted]
+    perks2: [Kickstart]
+    masterworks: [Charge MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator, Hammer-Forged Rifling]
+    magazines: [Accelerated Coils, Projection Fuse, Particle Repeater]
+  custom_variants:
+    - "{emoji}{emoji}{emoji}🌟 Collector's Edition"
+    - "{emoji}{emoji}{emoji} CE (+barrels)"
+    - "{emoji}{emoji}{emoji} CE (+magazines)"
+    - "{emoji}{emoji}{emoji} CE (*masterworks)"
+    - "{emoji}{emoji}{emoji} CE (+barrels, +magazines)"
+    - "{emoji}{emoji}{emoji} CE (+barrels, *masterworks)"
+    - "{emoji}{emoji} (+magazines, *masterworks)"
+    - "{emoji}{emoji} (+barrels, +magazines, *masterworks)"
+-
+  weapon_id: 2931957300
+  name: Waking Nightmare
+  ratings_emoji: 😈
+  tags: ['pvp']
+  overview: >
+    Same as CoolGuy's roll above, but with either `Slideways` or `Under Pressure` swapped in place of `Firmly Planted`.
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [Accelerated Coils]
+    perks1: [Slideways, Under Pressure]
+    perks2: [Kickstart]
+    masterworks: [Charge MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator, Hammer-Forged Rifling]
+    magazines: [Accelerated Coils, Projection Fuse, Particle Repeater]
+  custom_variants:
+    - "{emoji}{emoji}{emoji}🌟 Collector's Edition"
+    - "{emoji}{emoji}{emoji} CE (+barrels)"
+    - "{emoji}{emoji}{emoji} CE (+magazines)"
+    - "{emoji}{emoji}{emoji} CE (*masterworks)"
+    - "{emoji}{emoji}{emoji} CE (+barrels, +magazines)"
+    - "{emoji}{emoji}{emoji} CE (+barrels, *masterworks)"
+    - "{emoji}{emoji} (+magazines, *masterworks)"
+    - "{emoji}{emoji} (+barrels, +magazines, *masterworks)"
+-
+  weapon_id: 2931957300
+  name: Sleepwalker
+  ratings_emoji: 😴
+  tags: ['pvp']
+  overview: >
+    `High-Impact Reserves` is less of a damage boost than `Kickstart` however, it's still super lethal. If the `Kickstart`-based playstyle isn't for you, give one of these a go.
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [Accelerated Coils]
+    perks1: [Firmly Planted, Slideways, Under Pressure]
+    perks2: [High-Impact Reserves]
+    masterworks: [Charge MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator, Hammer-Forged Rifling]
+    magazines: [Accelerated Coils, Projection Fuse, Particle Repeater]
+  custom_variants:
+    - "{emoji}{emoji}{emoji}🌟 Collector's Edition"
+    - "{emoji}{emoji}{emoji} CE (+barrels)"
+    - "{emoji}{emoji}{emoji} CE (+magazines)"
+    - "{emoji}{emoji}{emoji} CE (*masterworks)"
+    - "{emoji}{emoji}{emoji} CE (+barrels, +magazines)"
+    - "{emoji}{emoji}{emoji} CE (+barrels, *masterworks)"
+    - "{emoji}{emoji} (+magazines, *masterworks)"
+    - "{emoji}{emoji} (+barrels, +magazines, *masterworks)"
+-
+  weapon_id: 2931957300
+  name: Sweet Dreams
+  ratings_emoji: 🥱
+  tags: ['pvp']
+  overview: >
+    If you score a complete blank on the final column perks and bullseye the rest, you've still got a decent PvP Solar Fusion in a pinch.
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [Projection Fuse, Particle Repeater]
+    perks1: [Firmly Planted, Slideways, Under Pressure]
+    perks2: []
+    masterworks: [Charge MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Chambered Compensator, Hammer-Forged Rifling]
+  custom_variants:
+    - "{emoji}{emoji}{emoji}🌟 Collector's Edition"
+    - "{emoji}{emoji}{emoji} CE (+barrels)"
