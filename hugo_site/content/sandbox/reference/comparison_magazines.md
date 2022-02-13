@@ -8,6 +8,7 @@ menu:
 
 |Name | Range | Stability | Reload | Magazine |
 |:-|:-:|:-:|:-:|:-:|
+|Accurized Rounds|10||||
 |Armor-Piercing Rounds|5||||
 |High-Caliber Rounds|5||||
 |Light Mag|5||10||
