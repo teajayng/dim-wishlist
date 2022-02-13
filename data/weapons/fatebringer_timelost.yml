@@ -8,14 +8,14 @@ traits:
   perks2:      {t: 5, c: 1}
   masterworks: {t: 4, c: 1}
 overview: >
-  *This is the "Timelost" (or "Adept") version of this weapon, which drops only
-  by completing the Conflux encounter Challenge in Vault of Glass on Master
-  mode.*
+  This is the "Timelost" (or "Adept") version of this weapon, which drops only by completing the Conflux encounter Challenge in Vault of Glass on Master mode. Once obtained, you can spend `Spoils of Conquest` for random rolls after defeating Atheon in Master mode.
 
-  The rolls here are the same as the
-  [normal version]({{< ref "/docs/vog/fatebringer" >}} "normal version")
-  except with a higher drop chance because the Timelost version comes with
-  double perks in the final two columns.
 
-  The Adept version comes with static rolls in column 3 (Explosive Payload) and
-  in column 4 (Firefly), both solid perks.
+  Fatebringer, Timelost Edition:
+
+    * Bonus Third Column Perk: `Explosive Payload`
+    * Bonus Fourth Column Perk: `Firefly`
+    * Can slot Adept mods!
+
+  
+  The rolls here are the same as the [normal version]({{< ref "/docs/vog/fatebringer" >}} "normal version").
