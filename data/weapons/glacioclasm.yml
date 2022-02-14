@@ -12,20 +12,20 @@ overview: >
 
 
   *TL;DR - Null Composure (the S14 Pinnacle Weapon) is a better choice than Glacioclasm. Yes, taken in isolation, Glacioclasm is powerful and if Null Compsure weren't in the game and accessible to everyone with a phenomenal curated roll, I would be suggesting you farm a great Glacioclasm. Glacio is not worth chasing for PvE or PvP with this the recent change to a 1s charge time and this year's Dawning perk pool.*
-  
-  
+
+
   At the start of Season of the Lost (S15), Fusion Rifles were dramatically reworked ([details here](https://www.bungie.net/en/News/Article/50572)). From the TWAB:
 
-  > High Impacts charge slower, and while still strong require more planning to use effectively. 
-  >   * Base charge time increased from 0.86s to 1.0s. 
-  >   * Shots per burst reduced from seven to five. 
-  >   * Reduced total damage per burst. 
-  >   * In playtesting, we've found that charging these in the open is super risky, but pre-charging around corners or otherwise in safety is very effective. 
-  >   * With the reduced shots per burst, these are now less reliant on `Stability`, so can stack a bit more `Range`. 
+  > High Impacts charge slower, and while still strong require more planning to use effectively.
+  >   * Base charge time increased from 0.86s to 1.0s.
+  >   * Shots per burst reduced from seven to five.
+  >   * Reduced total damage per burst.
+  >   * In playtesting, we've found that charging these in the open is super risky, but pre-charging around corners or otherwise in safety is very effective.
+  >   * With the reduced shots per burst, these are now less reliant on `Stability`, so can stack a bit more `Range`.
 
   `Backup Plan`, the once-savior of slow-charging High-Impact Fusions was also changed:
 
-  > Backup Plan's implementation was incompatible with the Fusion Rifle changes, and we felt like the perk could use a rework anyway. 
+  > Backup Plan's implementation was incompatible with the Fusion Rifle changes, and we felt like the perk could use a rework anyway.
   >   * Removed +100 to charge time stat
   >   * Adjusted charge time multiplier from 0.85 to 0.7
   >   * Damage scaled by 0.8.
