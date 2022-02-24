@@ -1,0 +1,14 @@
+-
+  weapon_id: 253196586
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  base_perks:
+    barrels: [Red Dot Micro]
+    magazines: [Projection Fuse, Particle Repeater]
+    perks1: [Under Pressure]
+    perks2: [High-Impact Reserves, Tap the Trigger]
+    masterworks: [Range MW, Stability MW, Reload MW, Handling MW]
+  extended_perks:
+    barrels: []
+    magazines: []

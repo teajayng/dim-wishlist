@@ -1,0 +1,14 @@
+-
+  weapon_id: 2742838700
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  base_perks:
+    barrels: [Fastdraw HCS]
+    magazines: [Accurized Rounds]
+    perks1: [Rangefinder, Opening Shot]
+    perks2: [Explosive Payload, Timed Payload]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Steadyhand HCS, Truesight HCS]
+    magazines: [Tactical Mag, Appended Mag, Flared Magwell]

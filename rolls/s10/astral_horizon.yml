@@ -1,0 +1,14 @@
+- 
+  weapon_id: 1697682876
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  base_perks:
+    barrels: [Full Choke]
+    magazines: [Accurized Rounds, Assault Mag, Light Mag]
+    perks1: [Surplus, Slideshot]
+    perks2: [Opening Shot]
+    masterworks: [Range MW, Handling MW, Reload MW]
+  extended_perks:
+    barrels: [Rifled Barrel, Smallbore, Corkscrew Rifling]
+    magazines: []

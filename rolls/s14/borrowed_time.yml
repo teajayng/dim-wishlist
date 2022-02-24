@@ -1,0 +1,69 @@
+- 
+  weapon_id: 875848769
+  name: PvE -General Purpose
+  ratings_emoji: ⭐️
+  tags: ['pve']
+  overview: >
+    General purpose add clear. Pretty standard fare. Try to bump the 
+    stability and range, maybe reload speed.
+  base_perks: 
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator]
+    magazines: [Ricochet Rounds, Appended Mag]
+    perks1: [Feeding Frenzy, Overflow]
+    perks2: [Rampage, Frenzy, Swashbuckler, Adrenaline Junkie]
+    masterworks: [Range MW, Stability MW,  Reload MW]
+  extended_perks:
+    barrels: [Extended Barrel, Hammer-Forged Rifling, Fluted Barrel, 
+      Smallbore, Full Bore]
+    magazines: [Extended Mag]
+- 
+  weapon_id: 875848769
+  name: Alternate Reloads
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    Super slept on, but a Grave Robber/Demolitionist roll can remove 
+    a lot of need to reload simply by using your melee or grenade 
+    abilities, which works surprisingly well when there's a lot of 
+    close-range adds.
+  base_perks: 
+    barrels: [Corkscrew Rifling, Polygonal Rifling]
+    magazines: [Ricochet Rounds]
+    perks1: [Grave Robber]
+    perks2: [Demolitionist]
+    masterworks: [Range MW, Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Extended Barrel, Hammer-Forged Rifling, Fluted Barrel, 
+      Smallbore, Full Bore]
+    magazines: [Extended Mag, Appended Mag]
+- 
+  weapon_id: 875848769
+  name: PvP - General Purpose
+  ratings_emoji: ⭐️
+  tags: ['pvp']
+  overview: >
+    This has a high zoom, can roll with Rangefinder and a damage perk, 
+    so it might do well in PvP.
+  base_perks: 
+    barrels: [Corkscrew Rifling, Fluted Barrel, Polygonal Rifling]
+    magazines: [Ricochet Rounds, High-Caliber Rounds]
+    perks1: [Feeding Frenzy, Killing Wind, Surplus, Heating Up]
+    perks2: [Rampage, Swashbuckler, Demolitionist]
+    masterworks: [Range MW, Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Extended Barrel, Hammer-Forged Rifling, Full Bore]
+    magazines: [Extended Mag, Alloy Magazine]
+- 
+  weapon_id: 875848769
+  name: High Range
+  ratings_emoji: 🏔
+  tags: ['pvp']
+  base_perks: 
+    barrels: [Corkscrew Rifling, Fluted Barrel, Polygonal Rifling]
+    magazines: [Ricochet Rounds, High-Caliber Rounds]
+    perks1: [Killing Wind, Rangefinder]
+    perks2: [Rampage, Swashbuckler, Demolitionist]
+    masterworks: [Range MW, Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Extended Barrel, Hammer-Forged Rifling, Full Bore]
+    magazines: [Extended Mag, Alloy Magazine]

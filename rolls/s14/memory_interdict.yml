@@ -1,0 +1,29 @@
+- 
+  weapon_id: 3165547384
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks: 
+    barrels: [Hard Launch, Quick Launch]
+    magazines: [Spike Grenades]
+    perks1: [Impulse Amplifier, Clown Cartridge, Auto-Loading 
+      Holster, Surplus]
+    perks2: [Chain Reaction, Danger Zone]
+    masterworks: [Velocity MW, Reload MW]
+  extended_perks:
+    barrels: []
+    magazines: []
+- 
+  weapon_id: 3165547384
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  base_perks: 
+    barrels: []
+    magazines: []
+    perks1: [Quickdraw, Surplus]
+    perks2: [Chain Reaction]
+    masterworks: [Velocity MW, Reload MW]
+  extended_perks:
+    barrels: []
+    magazines: []

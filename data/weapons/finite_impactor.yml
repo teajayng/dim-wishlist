@@ -1,0 +1,12 @@
+name: Finite Impactor
+item_id: 3813153080
+drop_id: ib
+traits:
+  barrels:     {t: 6, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  Adaptive Frame (140 RPM) Arc Hand Cannon from Iron Banner. Doesn't seem 
+  to be very highly rated at the moment for any activity.

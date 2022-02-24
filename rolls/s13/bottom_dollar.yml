@@ -1,0 +1,14 @@
+-
+  weapon_id: 1046651176
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  base_perks:
+    barrels: [Hammer-Forged Rifling]
+    magazines: [Accurized Rounds]      
+    perks1: [Outlaw, Subsistence, Rangefinder, Rapid Hit, Quickdraw, Surplus, Slideshot]
+    perks2: [Explosive Payload, Rampage, Opening Shot, Demolitionist, Eye of the Storm]
+    masterworks: [Stability MW, Range MW, Reload MW, Handling MW]
+  extended_perks:
+    barrels: [Smallbore, Corkscrew Rifling, Fluted Barrel]
+    magazines: [Tactical Mag, Flared Magwell]

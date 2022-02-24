@@ -1,0 +1,13 @@
+name: Servant Leader
+item_id: 1107446438
+drop_id: 15
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 7, c: 2}
+  perks1:      {t: 12, c: 1}
+  perks2:      {t: 12, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  Kinetic Rapid-fire (260 rpm) frame. Could be interesting if the recoil 
+  and stability aren't terrible. Could be a new Randy's Throwing Knife 
+  with the right perks from the massive perk pool.

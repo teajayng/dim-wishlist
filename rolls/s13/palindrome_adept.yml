@@ -1,0 +1,28 @@
+-
+  weapon_id: 1481892490
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Hammer-Forged Rifling, Smallbore]
+    magazines: [Ricochet Rounds, Light Mag, Flared Magwell]      
+    perks1: [Overflow, Outlaw, Subsistence, Bottomless Grief]
+    perks2: [Rampage, One for All]
+    masterworks: [Stability MW, Range MW, Reload MW, Handling MW]
+  extended_perks:
+    barrels: [Hammer-Forged Rifling, Smallbore, Full Bore, Corkscrew Rifling, Extended Barrel, Fluted Barrel]
+    magazines: [Ricochet Rounds, High-Caliber Rounds, Light Mag, Flared Magwell, Appended Mag, Extended Mag]
+-
+  weapon_id: 1481892490
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  base_perks:
+    barrels: [Hammer-Forged Rifling, Smallbore]
+    magazines: [Ricochet Rounds, High-Caliber Rounds, Light Mag, Flared Magwell]      
+    perks1: [Killing Wind, Outlaw, Subsistence, Bottomless Grief, Quickdraw]
+    perks2: [Rangefinder, Rampage]
+    masterworks: [Stability MW, Range MW, Reload MW, Handling MW]
+  extended_perks:
+    barrels: [Hammer-Forged Rifling, Smallbore, Full Bore, Corkscrew Rifling, Extended Barrel, Fluted Barrel]
+    magazines: [Ricochet Rounds, High-Caliber Rounds, Light Mag, Flared Magwell, Appended Mag, Extended Mag]

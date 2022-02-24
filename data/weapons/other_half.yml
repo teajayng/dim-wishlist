@@ -1,0 +1,9 @@
+name: The Other Half
+item_id: 3257091167
+drop_id: 15
+traits:
+  barrels:     {t: 5, c: 3}
+  magazines:   {t: 5, c: 2}
+  perks1:      {t: 5, c: 1}
+  perks2:      {t: 4, c: 1}
+  masterworks: {t: 1, c: 1}

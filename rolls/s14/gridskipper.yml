@@ -53,3 +53,31 @@
   extended_perks:
     barrels: [Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
     magazines: [Ricochet Rounds, High-Caliber Rounds, Flared Magwell, Light Mag, Armor-Piercing Rounds]
+-
+  weapon_id: 1621558458
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']  
+  base_perks: 
+    barrels: [Corkscrew Rifling]
+    magazines: [Ricochet Rounds]
+    perks1: [Heating Up, Killing Wind]
+    perks2: [Frenzy]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
+    magazines: [Ricochet Rounds, High-Caliber Rounds, Flared Magwell, Light Mag]
+-
+  weapon_id: 1621558458
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']  
+  base_perks: 
+    barrels: [Corkscrew Rifling]
+    magazines: [High-Caliber Rounds]
+    perks1: [Heating Up, Killing Wind, Tunnel Vision, Moving Target]
+    perks2: [Multikill Clip, Snapshot]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
+    magazines: [Ricochet Rounds, High-Caliber Rounds, Flared Magwell, Light Mag]

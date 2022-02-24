@@ -1,0 +1,30 @@
+-
+  weapon_id: 1987769101
+  name: DPS
+  ratings_emoji: ⭐️
+  tags: ['pve']
+  overview: 
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Appended Mag, Tactical Mag, Extended Mag]
+    perks1: [Rewind Rounds]
+    perks2: [High-Impact Reserves]
+    masterworks: [Reload MW]
+  extended_perks:
+    barrels: [Fluted Barrel, Arrowhead Brake]
+    magazines: [Alloy Magazine]
+-
+  weapon_id: 1987769101
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  overview: 
+  base_perks:
+    barrels: [Corkscrew Rifling, Hammer-Forged Rifling]
+    magazines: [Accurized Rounds]
+    perks1: [Quickdraw, Moving Target, No Distractions]
+    perks2: [Opening Shot]
+    masterworks: [Range MW, Handling MW]
+  extended_perks:
+    barrels: [Fluted Barrel, Arrowhead Brake]
+    magazines: []

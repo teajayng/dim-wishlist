@@ -14,3 +14,33 @@
   extended_perks:
     barrels: [Fluted Barrel, Corkscrew Rifling]
     magazines: [Tactical Mag, Flared Magwell]
+-
+  weapon_id: 1337707096
+  name: GM Nightfalls
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew 
+      Rifling, Fluted Barrel]
+    magazines: [Tactical Mag]
+    perks1: [Encore, Fourth Time's the Charm]
+    perks2: [Frenzy]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: []
+    magazines: [Accurized Rounds, Appended Mag, Flared Magwell, Extended Mag]
+-
+  weapon_id: 1337707096
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew 
+      Rifling, Fluted Barrel]
+    magazines: [Tactical Mag]
+    perks1: [Encore, Outlaw, Fourth Time's the Charm]
+    perks2: [Frenzy, Demolitionist]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: []
+    magazines: [Accurized Rounds, Appended Mag, Flared Magwell, Extended Mag]

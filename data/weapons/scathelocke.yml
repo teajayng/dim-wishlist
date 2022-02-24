@@ -1,0 +1,11 @@
+name: Scathelocke
+item_id: 602618796
+drop_id: 15
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 7, c: 2}
+  perks1:      {t: 12, c: 1}
+  perks2:      {t: 12, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  Kinetic Adaptive (600 RPM) frame auto rifle.

@@ -1,0 +1,32 @@
+-
+  weapon_id: 1076810832
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew 
+      Rifling]
+    magazines: [Tactical Mag, Appended Mag]
+    perks1: [Surplus, Zen Moment]
+    perks2: [Rampage]
+    masterworks: [Stability MW, Handling MW, Reload MW]
+  extended_perks:
+    barrels: [Fluted Barrel, Hammer-Forged Rifling]
+    magazines: [Accurized Rounds]
+-
+  weapon_id: 1076810832
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  base_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew 
+      Rifling]
+    magazines: [Tactical Mag, Appended Mag]
+    perks1: [Heating Up, Surplus, Quickdraw, Tunnel Vision, Zen 
+      Moment]
+    perks2: [Rampage, Wellspring, Snapshot, Elemental
+      Capacitor]
+    masterworks: [Stability MW, Handling MW, Reload MW]
+  extended_perks:
+    barrels: [Fluted Barrel, Hammer-Forged Rifling]
+    magazines: [Accurized Rounds]

@@ -1,0 +1,11 @@
+name: Reed's Regret
+item_id: 1399243961
+drop_id: 15
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 6, c: 2}
+  perks1:      {t: 7, c: 1}
+  perks2:      {t: 7, c: 1}
+  masterworks: {t: 5, c: 1}
+overview: >
+  Stasis Precision frame heavy LFR.

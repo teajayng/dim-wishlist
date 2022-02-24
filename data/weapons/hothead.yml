@@ -1,0 +1,11 @@
+name: The Hothead
+item_id: 4255171531
+drop_id: nf
+traits:
+  barrels:     {t: 7, c: 2}
+  magazines:   {t: 5, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 5, c: 1}
+overview: >
+  Arc Adaptive frame rocket launcher.

@@ -1,0 +1,14 @@
+-
+  weapon_id: 1028582252
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Rifled Barrel]
+    magazines: [Accurized Rounds, Assault Mag]
+    perks1: [Subsistence]
+    perks2: [Vorpal]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Smallbore]
+    magazines: [Tactical Mag, Appended Mag]

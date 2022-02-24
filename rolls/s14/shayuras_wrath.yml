@@ -1,0 +1,30 @@
+- 
+  weapon_id: 3682803680
+  name: General Purpose
+  ratings_emoji: ⭐️
+  tags: ['pve']
+  base_perks: 
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator]
+    magazines: [Tactical Mag, Appended Mag]
+    perks1: [Dynamic Sway Reduction]
+    perks2: [Kill Clip]
+    masterworks: [Range MW, Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Extended Barrel, Hammer-Forged Rifling, Fluted Barrel, 
+      Smallbore, Full Bore]
+    magazines: [Extended Mag]
+- 
+  weapon_id: 3682803680
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  base_perks: 
+    barrels: [Corkscrew Rifling, Hammer-Forged Rifling, Smallbore,
+      Fluted Barrel]
+    magazines: [Accurized Rounds]
+    perks1: [Killing Wind, Quickdraw, Heating Up, Tunnel Vision]
+    perks2: [Kill Clip, Snapshot, Celerity]
+    masterworks: [Range MW, Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Extended Barrel, Hammer-Forged Rifling, Full Bore]
+    magazines: [Extended Mag, Alloy Magazine]

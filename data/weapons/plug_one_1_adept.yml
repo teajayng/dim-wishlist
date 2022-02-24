@@ -1,0 +1,10 @@
+name: Plug One.1 (Adept)
+item_id: 534775659
+drop_id: nf
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 6, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 5, c: 1}
+overview: 

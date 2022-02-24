@@ -1,0 +1,14 @@
+-
+  weapon_id: 2721249463
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Flexible String, Agile Bowstring]
+    magazines: [Straight Fletching]
+    perks1: [Archer's Tempo]
+    perks2: [Explosive Head, Rampage]
+    masterworks: [Accuracy MW, Reload MW, Draw Time MW]
+  extended_perks:
+    barrels: [Elastic String, Tactile String, Polymer String]
+    magazines: [Carbon Arrow Shaft, Compact Arrow Shaft, Helical Fletching]

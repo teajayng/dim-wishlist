@@ -73,3 +73,48 @@
   extended_perks:
     barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Full Bore, Extended Barrel]
     magazines: [Accurized Rounds, Extended Mag, Appended Mag, Tactical Mag]
+-
+  weapon_id: 1119734784
+  name: General Purpose, Rampage
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: 
+  base_perks:
+    barrels: [Corkscrew Rifling, Fluted Barrel]
+    magazines: [Tactical Mag, Appended Mag]
+    perks1: [Feeding Frenzy, Subsistence]
+    perks2: [Rampage]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Hammer-Forged Rifling, Smallbore]
+    magazines: [Accurized Rounds, Extended Mag]
+-
+  weapon_id: 1119734784
+  name: General Purpose, Kill Clip
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: 
+  base_perks:
+    barrels: [Corkscrew Rifling, Fluted Barrel]
+    magazines: [Tactical Mag, Appended Mag]
+    perks1: [Feeding Frenzy]
+    perks2: [Kill Clip]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Hammer-Forged Rifling, Smallbore]
+    magazines: [Accurized Rounds, Extended Mag]
+-
+  weapon_id: 1119734784
+  name: General Purpose, Adrenaline Junkie
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: 
+  base_perks:
+    barrels: [Corkscrew Rifling, Fluted Barrel]
+    magazines: [Tactical Mag, Flared Magwell]
+    perks1: [Feeding Frenzy, Subsistence, Dynamic Sway Reduction]
+    perks2: [Adrenaline Junkie]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Hammer-Forged Rifling, Smallbore]
+    magazines: [Accurized Rounds, Extended Mag, Appended Mag]

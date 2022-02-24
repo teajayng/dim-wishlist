@@ -1,0 +1,14 @@
+-
+  weapon_id: 3849810018
+  name: Add Control
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Volatile Launch, Hard Launch]
+    magazines: [Blinding Grenades]
+    perks1: [Auto-Loading Holster, Ambitious Assassin]
+    perks2: [Vorpal, Demolitionist]
+    masterworks: [Reload MW, Blast Radius MW]
+  extended_perks:
+    barrels: [Countermass, Confined Launch, Quick Launch, Linear Compensator]
+    magazines: [Alloy Magazine, High-Caliber Rounds, Flared Magwell]

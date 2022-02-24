@@ -1,0 +1,14 @@
+-
+  weapon_id: 2351180975
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  base_perks:
+    barrels: [Corkscrew Rifling, Hammer-Forged Rifling]
+    magazines: [High-Caliber Rounds, Ricochet Rounds, Light Mag]      
+    perks1: [Rapid Hit, Quickdraw, Killing Wind, Outlaw, Subsistence]
+    perks2: [Rampage, Snapshot, Moving Target, Opening Shot]
+    masterworks: [Stability MW, Range MW, Reload MW, Handling MW]
+  extended_perks:
+    barrels: [Smallbore, Fluted Barrel]
+    magazines: [Flared Magwell]

@@ -1,0 +1,9 @@
+name: Trinary System
+item_id: 3258665412
+drop_id: 13
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 6, c: 2}
+  perks1:      {t: 12, c: 1}
+  perks2:      {t: 12, c: 1}
+  masterworks: {t: 5, c: 1}

@@ -1,0 +1,15 @@
+-
+  weapon_id: 534775659
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: 
+  base_perks:
+    barrels: [Corkscrew Rifling, Hammer-Forged Rifling]
+    magazines: [Accelerated Coils]
+    perks1: [Feeding Frenzy]
+    perks2: [Reservoir Burst]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Smallbore, Full Bore, Fluted Barrel, Arrowhead Brake]
+    magazines: []

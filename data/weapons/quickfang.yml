@@ -1,0 +1,11 @@
+name: Quickfang
+item_id: 2782325300
+drop_id: world
+traits:
+  barrels:     {t: 5, c: 3}
+  magazines:   {t: 1, c: 1}
+  perks1:      {t: 4, c: 1}
+  perks2:      {t: 4, c: 1}
+  masterworks: {t: 1, c: 1}
+overview: >
+  Void Lightweight Frame Hunter sword that lets you run like Naruto.

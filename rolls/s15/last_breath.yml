@@ -1,0 +1,28 @@
+-
+  weapon_id: 507038823
+  name: GM Nightfalls
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Ricochet Rounds]
+    perks1: [Demolitionist, Dynamic Sway Reduction]
+    perks2: [Frenzy, One for All]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Fluted Barrel, Hammer-Forged Rifling]
+    magazines: [High-Caliber Rounds, Appended Mag, Extended Mag]
+-
+  weapon_id: 507038823
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Ricochet Rounds]
+    perks1: [Demolitionist, Subsistence]
+    perks2: [Frenzy, Adrenaline Junkie]
+    masterworks: [Stability MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Fluted Barrel, Hammer-Forged Rifling]
+    magazines: [High-Caliber Rounds, Appended Mag, Extended Mag]

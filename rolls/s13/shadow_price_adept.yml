@@ -1,0 +1,14 @@
+-
+  weapon_id: 2147010335
+  name: GM Nightfalls
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling, Smallbore, Hammer-Forged Rifling]
+    magazines: [Tactical Mag, Appended Mag, Extended Mag]
+    perks1: [Overflow, Bottomless Grief]
+    perks2: [One for All, Disruption Break]
+    masterworks: [Stability MW, Range MW, Reload MW]
+  extended_perks:
+    barrels: [Chambered Compensator, Arrowhead Brake, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
+    magazines: [Accurized Rounds, Flared Magwell]

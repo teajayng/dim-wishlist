@@ -1,0 +1,14 @@
+-
+  weapon_id: 1626503676
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Quickdot SAS, Control SAS]
+    magazines: [Ricochet Rounds]
+    perks1: [Full Auto, Surplus]
+    perks2: [Kill Clip]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Shortspec SAS, Tactic SAS]
+    magazines: [High-Caliber Rounds, Appended Mag, Extended Mag]

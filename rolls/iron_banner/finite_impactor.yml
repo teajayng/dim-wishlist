@@ -1,0 +1,30 @@
+-
+  weapon_id: 3813153080
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: 
+  base_perks:
+    barrels: [Fastdraw HCS, Steadyhand HCS]
+    magazines: [Ricochet Rounds]
+    perks1: [Killing Wind, Heating Up]
+    perks2: [Multikill Clip]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Truesight HCS, Hitmark HCS]
+    magazines: [Extended Mag, Alloy Magazine, Appended Mag]
+-
+  weapon_id: 3813153080
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  overview: 
+  base_perks:
+    barrels: [Fastdraw HCS, Steadyhand HCS, Truesight HCS]
+    magazines: [Ricochet Rounds, High-Caliber Rounds]
+    perks1: [Killing Wind, Heating Up]
+    perks2: [Iron Reach]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Truesight HCS, Hitmark HCS]
+    magazines: [Appended Mag]

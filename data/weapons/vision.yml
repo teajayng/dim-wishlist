@@ -1,0 +1,12 @@
+name: The Vision
+item_id: 2414141462
+drop_id: world
+traits:
+  barrels:     {t: 6, c: 2}
+  magazines:   {t: 7, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  Omolon Adaptive Frame Arc sidearm. This could be a solid replacement for 
+  Last Hope, but the perk pool is pretty narrow.

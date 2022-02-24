@@ -1,0 +1,28 @@
+-
+  weapon_id: 1679868061
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Rifled Barrel, Smallbore]
+    magazines: [Assault Mag, Appended Mag, Tactical Mag]
+    perks1: [Slideshot, Subsistence, Lead from Gold]
+    perks2: [One-Two Punch, Trench Barrel, Harmony]
+    masterworks: [Reload MW]
+  extended_perks:
+    barrels: [Barrel Shroud, Corkscrew Rifling]
+    magazines: [Accurized Rounds, Extended Mag]
+-
+  weapon_id: 1679868061
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  base_perks:
+    barrels: [Rifled Barrel, Smallbore]
+    magazines: [Accurized Rounds, Assault Mag]
+    perks1: [Slideshot, Perpetual Motion]
+    perks2: [Opening Shot]
+    masterworks: [Reload MW]
+  extended_perks:
+    barrels: [Barrel Shroud, Corkscrew Rifling]
+    magazines: []

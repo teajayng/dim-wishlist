@@ -1,0 +1,14 @@
+-
+  weapon_id: 1621657423
+  name: GM Nightfalls
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Elastic String, Tactile String, Agile Bowstring]
+    magazines: [Fiberglass Arrow Shaft, Compact Arrow Shaft, Carbon Arrow Shaft]
+    perks1: [Rapid Hit, No Distractions, Surplus]
+    perks2: [Explosive Head]
+    masterworks: [Accuracy MW, Reload MW, Draw Time MW]
+  extended_perks:
+    barrels: [Flexible String, Polymer String]
+    magazines: [Helical Fletching, Straight Fletching]

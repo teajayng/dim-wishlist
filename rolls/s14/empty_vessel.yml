@@ -1,0 +1,48 @@
+-
+  weapon_id: 4255586669
+  name: Add Control
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Hard Launch, Quick Launch]
+    magazines: [Blinding Grenades]
+    perks1: [Auto-Loading Holster, Ambitious Assassin]
+    perks2: [Vorpal, Demolitionist]
+    masterworks: [Reload MW]
+  extended_perks:
+    barrels: [Countermass, Smart Drift Control]
+    magazines: []
+    perks1: [Feeding Frenzy, Surplus]
+    perks2: [Danger Zone, Disruption Break]
+    masterworks: [Velocity MW, Handling MW]
+-
+  weapon_id: 4255586669
+  name: Damage
+  ratings_emoji: 💥
+  tags: ['pve']
+  base_perks:
+    barrels: [Hard Launch, Quick Launch]
+    magazines: [Spike Grenades]
+    perks1: [Auto-Loading Holster, Ambitious Assassin]
+    perks2: [Vorpal, Demolitionist]
+    masterworks: [Reload MW]
+  extended_perks:
+    barrels: [Countermass, Smart Drift Control]
+    magazines: []
+    perks1: [Feeding Frenzy, Surplus]
+    perks2: [Danger Zone, Disruption Break]
+    masterworks: [Velocity MW, Handling MW]
+-
+  weapon_id: 4255586669
+  name: General Purpose
+  ratings_emoji: ⭐️
+  tags: ['pvp']
+  base_perks:
+    barrels: []
+    magazines: [Spike Grenades]
+    perks1: [Quickdraw, Surplus]
+    perks2: [Vorpal, Demolitionist]
+    masterworks: [Reload MW]
+  extended_perks:
+    barrels: []
+    magazines: []

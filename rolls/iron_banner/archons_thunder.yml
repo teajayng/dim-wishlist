@@ -1,0 +1,28 @@
+-
+  weapon_id: 1967303408
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Fluted Barrel]
+    magazines: [Tactical Mag]
+    perks1: [Surplus, Mulligan]
+    perks2: [Rampage]
+    masterworks: [Reload MW]
+  extended_perks:
+    barrels: []
+    magazines: []
+-
+  weapon_id: 1967303408
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  base_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Fluted Barrel, Hammer-Forged Rifling]
+    magazines: [Accurized Rounds]
+    perks1: [Rangefinder, Quickdraw, Surplus]
+    perks2: [Snapshot]
+    masterworks: [Handling MW]
+  extended_perks:
+    barrels: []
+    magazines: []

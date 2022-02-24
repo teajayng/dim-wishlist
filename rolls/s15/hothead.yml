@@ -1,0 +1,14 @@
+-
+  weapon_id: 4255171531
+  name: Burst
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Hard Launch, Quick Launch]
+    magazines: [Alloy Casing, Impact Casing]
+    perks1: [Tracking Module, Field Prep, Demolitionist]
+    perks2: [Clown Cartridge, Vorpal, Explosive Light]
+    masterworks: [Reload MW, Velocity MW]
+  extended_perks:
+    barrels: []
+    magazines: [High-Velocity Rounds, Black Powder]

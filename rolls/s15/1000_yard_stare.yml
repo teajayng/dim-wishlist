@@ -1,0 +1,14 @@
+-
+  weapon_id: 4164201232
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  base_perks:
+    barrels: [Fluted Barrel]
+    magazines: [Accurized Rounds]
+    perks1: [Quickdraw, No Distractions]
+    perks2: [Snapshot, Moving Target]
+    masterworks: [Handling MW]
+  extended_perks:
+    barrels: [Hammer-Forged Rifling, Corkscrew Rifling]
+    magazines: []

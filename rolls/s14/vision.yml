@@ -1,0 +1,14 @@
+-
+  weapon_id: 2414141462
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Control SAS]
+    magazines: [Tactical Mag, Appended Mag]
+    perks1: [Full Auto, Ambitious Assassin]
+    perks2: [Kill Clip, Swashbuckler]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Quickdot SAS, Shortspec SAS]
+    magazines: [Extended Mag, Accurized Rounds]

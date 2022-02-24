@@ -1,0 +1,14 @@
+-
+  weapon_id: 3281285075
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Full Bore, Hammer-Forged Rifling]
+    magazines: [Accurized Rounds, Tactical Mag, Flared Magwell]
+    perks1: [Rapid Hit, Feeding Frenzy, Surplus]
+    perks2: [Rampage, Demolitionist, One for All]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Extended Barrel, Fluted Barrel, Smallbore, Chambered Compensator]
+    magazines: [Appended Mag, Extended Mag]

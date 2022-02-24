@@ -89,3 +89,29 @@
     - "{emoji}{emoji} (*perks1, *masterworks)"
     - "{emoji}{emoji} (+barrels, *perks1, *masterworks)"
     - "{emoji} (*barrels, *perks1, *masterworks)"
+-
+  weapon_id: 304659313
+  name: Add Control
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Hard Launch]
+    magazines: [Blinding Grenades]
+    perks1: [Slideshot]
+    perks2: [Demolitionist, Frenzy]
+    masterworks: [Blast Radius MW]
+  extended_perks:
+    barrels: [Hard Launch, Quick Launch, Countermass, Smart Drift Control]
+    magazines: []
+    perks2: [Vorpal]
+  custom_variants:
+    - "{emoji}{emoji}{emoji}🌟 Collector's Edition"
+    - "{emoji}{emoji}{emoji} CE (*masterworks)"
+    - "{emoji}{emoji}{emoji} CE (+barrels)"
+    - "{emoji}{emoji}{emoji} CE (+barrels, *masterworks)"
+    - "{emoji}{emoji}{emoji} (*barrels)"
+    - "{emoji}{emoji}{emoji} (*barrels, *masterworks)"
+    - "{emoji}{emoji} (*perks2)"
+    - "{emoji}{emoji} (*perks2, *masterworks)"
+    - "{emoji}{emoji} (+barrels, *perks2, *masterworks)"
+    - "{emoji} (*barrels, *perks2, *masterworks)"

@@ -1,0 +1,14 @@
+-
+  weapon_id: 3257091166
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pve']
+  base_perks:
+    barrels: [Jagged Edge]
+    magazines: [Swordmaster's Guard]
+    perks1: [Tireless Blade, Relentless Strikes, Duelist's Trance]
+    perks2: [Eager Edge, Assassin's Blade]
+    masterworks: [Impact MW]
+  extended_perks:
+    barrels: [Honed Edge, Tempered Edge, Hungry Edge]
+    magazines: [Enduring Guard, Heavy Guard, Balanced Guard]

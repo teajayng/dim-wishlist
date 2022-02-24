@@ -34,3 +34,17 @@
   extended_perks:
     barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Full Bore]
     magazines: [Accurized Rounds, Tactical Mag, Flared Magwell]
+-
+  weapon_id: 541188001
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Hammer-Forged Rifling]
+    magazines: [Accurized Rounds]
+    perks1: [Full Auto, Subsistence, Heating Up]
+    perks2: [Frenzy, Vorpal, Adrenaline Junkie]
+    masterworks: [Range MW, Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Full Bore]
+    magazines: [Accurized Rounds, Tactical Mag, Flared Magwell]

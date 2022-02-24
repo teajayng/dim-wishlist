@@ -1,0 +1,56 @@
+-
+  weapon_id: 577528837
+  name: GM Nightfalls
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling, Chambered Compensator, Fluted Barrel]
+    magazines: [Appended Mag]
+    perks1: [Surplus]
+    perks2: [Frenzy, One for All]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [Accurized Rounds, Tactical Mag, Extended Mag]
+-
+  weapon_id: 577528837
+  name: General Purpose, Kill Clip
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling, Chambered Compensator, Fluted Barrel]
+    magazines: [Tactical Mag]
+    perks1: [Outlaw, Surplus]
+    perks2: [Kill Clip]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [Accurized Rounds, Appended Mag, Alloy Magazine]
+-
+  weapon_id: 577528837
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling, Chambered Compensator, Fluted Barrel]
+    magazines: [Tactical Mag]
+    perks1: [Outlaw, Surplus, Subsistence]
+    perks2: [Frenzy]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [Accurized Rounds, Appended Mag, Alloy Magazine]
+-
+  weapon_id: 577528837
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  base_perks:
+    barrels: [Corkscrew Rifling, Chambered Compensator, Fluted Barrel]
+    magazines: [Accurized Rounds, Tactical Mag]
+    perks1: [Surplus, Tunnel Vision, Subsistence]
+    perks2: [Kill Clip]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [Appended Mag, Alloy Magazine]

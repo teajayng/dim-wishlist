@@ -1,0 +1,42 @@
+-
+  weapon_id: 1476654960
+  name: GM Nightfalls
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Steadyhand HCS, Fastdraw HCS, Truesight HCS]
+    magazines: [Tactical Mag]
+    perks1: [Encore, Demolitionist]
+    perks2: [Timed Payload]
+    masterworks: [Reload MW]
+  extended_perks:
+    barrels: [Hitmark HCS]
+    magazines: [Accurized Rounds, Appended Mag, Flared Magwell]
+-
+  weapon_id: 1476654960
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Steadyhand HCS, Fastdraw HCS, Truesight HCS]
+    magazines: [Tactical Mag]
+    perks1: [Demolitionist]
+    perks2: [Adrenaline Junkie]
+    masterworks: [Reload MW]
+  extended_perks:
+    barrels: [Hitmark HCS]
+    magazines: [Accurized Rounds, Appended Mag, Flared Magwell]
+-
+  weapon_id: 1476654960
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  base_perks:
+    barrels: [Steadyhand HCS, Fastdraw HCS, Truesight HCS]
+    magazines: [Accurized Rounds]
+    perks1: [Demolitionist, Moving Target]
+    perks2: [Timed Payload, Opening Shot]
+    masterworks: [Reload MW]
+  extended_perks:
+    barrels: [Hitmark HCS]
+    magazines: [Tactical Mag, Flared Magwell]

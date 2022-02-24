@@ -1,0 +1,9 @@
+name: Bottom Dollar
+item_id: 1046651176
+drop_id: 13
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 7, c: 2}
+  perks1:      {t: 12, c: 1}
+  perks2:      {t: 12, c: 1}
+  masterworks: {t: 4, c: 1}

@@ -1,0 +1,28 @@
+-
+  weapon_id: 2588048270
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Quickdot SAS, Control SAS]
+    magazines: [Extended Mag, Appended Mag, Ricochet Rounds]
+    perks1: [Feeding Frenzy, Surplus, Threat Detector]
+    perks2: [Frenzy, Swashbuckler, Demolitionist]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Shortspec SAS]
+    magazines: [Alloy Magazine, High-Caliber Rounds, Flared Magwell]
+-
+  weapon_id: 2588048270
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  base_perks:
+    barrels: [Quickdot SAS, Control SAS]
+    magazines: [Extended Mag, Appended Mag, High-Caliber Rounds, Flared Magwell]
+    perks1: [Surplus, Threat Detector]
+    perks2: [Swashbuckler, Demolitionist]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Shortspec SAS]
+    magazines: [Alloy Magazine, Ricochet Rounds]

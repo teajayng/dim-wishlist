@@ -1,0 +1,42 @@
+-
+  weapon_id: 2855157553
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Rifled Barrel]
+    magazines: [Accurized Rounds, Assault Mag]
+    perks1: [Slideshot, Surplus]
+    perks2: [One-Two Punch, Frenzy]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: []
+    magazines: [Tactical Mag, Appended Mag]
+-
+  weapon_id: 2855157553
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  base_perks:
+    barrels: [Full Choke]
+    magazines: [Accurized Rounds, Assault Mag]
+    perks1: [Slideshot, Surplus]
+    perks2: [Snapshot, Elemental Capacitor]
+    masterworks: [Range MW, Handling MW]
+  extended_perks:
+    barrels: [Smallbore, Rifled Barrel]
+    magazines: []
+-
+  weapon_id: 2855157553
+  name: CammyCakes Special
+  ratings_emoji: 💥
+  tags: ['pvp']
+  base_perks:
+    barrels: [Full Choke]
+    magazines: [Accurized Rounds, Assault Mag]
+    perks1: [Threat Detector]
+    perks2: [Elemental Capacitor]
+    masterworks: [Range MW, Handling MW]
+  extended_perks:
+    barrels: [Smallbore, Rifled Barrel]
+    magazines: []

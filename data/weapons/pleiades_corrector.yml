@@ -1,0 +1,12 @@
+name: Pleiades Corrector
+item_id: 3556999246
+drop_id: world
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  Lightweight (200 RPM) Frame Soalr scout rifle from the Future War Cult 
+  collection. Yet another weapon with a lackluster perk pool.

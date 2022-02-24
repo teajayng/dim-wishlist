@@ -1,0 +1,30 @@
+-
+  weapon_id: 852228780
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: 
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Appended Mag, Tactical Mag, Extended Mag]
+    perks1: [Snapshot, Triple Tap, Clown Cartridge]
+    perks2: [Vorpal, Explosive Payload, High-Impact Reserves]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Fluted Barrel, Arrowhead Brake]
+    magazines: [Alloy Magazine]
+-
+  weapon_id: 852228780
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  overview: 
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Accurized Rounds]
+    perks1: [Snapshot]
+    perks2: [Explosive Payload]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Fluted Barrel, Arrowhead Brake]
+    magazines: []

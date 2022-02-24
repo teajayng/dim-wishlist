@@ -1,0 +1,13 @@
+name: Archon's Thunder
+item_id: 1967303408
+drop_id: ib
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 7, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  High-Impact (360 RPM) frame Solar Machine Gun. I don't see this being 
+  useful in PvE since it won't be your pick for big DPS or ad clear and 
+  relatively situational in PvP.

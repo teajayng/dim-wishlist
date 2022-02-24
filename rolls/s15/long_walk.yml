@@ -1,0 +1,14 @@
+-
+  weapon_id: 3326850591
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Extended Mag, Appended Mag]
+    perks1: [Overflow, Clown Cartridge]
+    perks2: [Frenzy, Firing Line]
+    masterworks: [Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Fluted Barrel]
+    magazines: [Alloy Magazine]

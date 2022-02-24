@@ -1,0 +1,28 @@
+-
+  weapon_id: 6857689
+  name: General Purpose
+  ratings_emoji: ☠️
+  tags: ['pve']
+  base_perks:
+    barrels: [Steadyhand HCS, Fastdraw HCS]
+    magazines: [Tactical Mag]
+    perks1: [Outlaw, Surplus]
+    perks2: [Timed Payload, Swashbuckler]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Truesight HCS, Hitmark HCS]
+    magazines: [Accurized Rounds, Appended Mag, Flared Magwell]
+-
+  weapon_id: 6857689
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  base_perks:
+    barrels: [Steadyhand HCS, Fastdraw HCS]
+    magazines: [Accurized Rounds, Tactical Mag]
+    perks1: [Outlaw, Surplus, No Distractions, Tunnel Vision]
+    perks2: [Timed Payload, Opening Shot]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Truesight HCS, Hitmark HCS]
+    magazines: [Appended Mag, Flared Magwell]

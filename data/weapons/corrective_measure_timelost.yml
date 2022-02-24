@@ -1,0 +1,9 @@
+name: Corrective Measure (Timelost)
+item_id: 3796510434
+drop_id: vog
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 7, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}

@@ -1,0 +1,13 @@
+name: Annual Skate
+item_id: 6857689
+drop_id: 15
+traits:
+  barrels:     {t: 6, c: 2}
+  magazines:   {t: 7, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  Solar 140 HC. Good to have, since the last Solar 140 in the game was from
+  Garden. I don't really like the sight and the recoil feels a little 
+  strange (I believe it tends left).

@@ -1,0 +1,30 @@
+-
+  weapon_id: 310708513
+  name: General Purpose
+  ratings_emoji: ⭐️
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling, Hammer-Forged Rifling]
+    magazines: [Ricochet Rounds]
+    perks1: [Rapid Hit, Outlaw, Feeding Frenzy]
+    perks2: [Frenzy]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Hammer-Forged Rifling, Full Bore, Smallbore, Corkscrew Rifling, Arrowhead Brake, Chambered Compensator]
+    magazines: [High-Caliber Rounds, Extended Mag, Appended Mag]
+    perks1: [Killing Wind, Heating Up, Surplus]
+    perks2: [Kill Clip, Multikill Clip]
+-
+  weapon_id: 310708513
+  name: General Purpose
+  ratings_emoji: ⭐️
+  tags: ['pvp']
+  base_perks:
+    barrels: [Corkscrew Rifling, Hammer-Forged Rifling]
+    magazines: [High-Caliber Rounds]
+    perks1: [Killing Wind, Heating Up, Surplus, Quickdraw]
+    perks2: [Kill Clip, Multikill Clip]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Hammer-Forged Rifling, Full Bore, Smallbore, Corkscrew Rifling]
+    magazines: [Ricochet Rounds]

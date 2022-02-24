@@ -1,0 +1,14 @@
+-
+  weapon_id: 3924212056
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  base_perks:
+    barrels: [Corkscrew Rifling, Hammer-Forged Rifling]
+    magazines: [Accurized Rounds]
+    perks1: [Surplus, Tunnel Vision, Heating Up, No Distractions, Moving Target]
+    perks2: [Kill Clip, Explosive Payload, Eye of the Storm, Opening Shot]
+    masterworks: [Reload MW, Range MW]
+  extended_perks:
+    barrels: [Fluted Barrel, Smallbore]
+    magazines: [Tactical Mag, Flared Magwell]

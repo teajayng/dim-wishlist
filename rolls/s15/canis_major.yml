@@ -1,0 +1,15 @@
+-
+  weapon_id: 2066434718
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Hard Launch, Quick Launch, Volatile Launch, Confined 
+      Launch]
+    magazines: [Spike Grenades]
+    perks1: [Impulse Amplifier, Clown Cartridge, Field Prep]
+    perks2: [Chain Reaction, Vorpal]
+    masterworks: [Velocity MW, Reload MW]
+  extended_perks:
+    barrels: []
+    magazines: []

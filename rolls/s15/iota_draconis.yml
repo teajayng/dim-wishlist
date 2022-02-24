@@ -16,3 +16,33 @@
     magazines: []
   custom_variants:
     - "🔩🔩🔩🌟 Collector's Edition"
+-
+  weapon_id: 3044460004
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling, Hammer-Forged Rifling, Fluted 
+      Barrel, Arrowhead Brake, Chambered Compensator]
+    magazines: [Accelerated Coils]
+    perks1: [Feeding Frenzy]
+    perks2: [Frenzy]
+    masterworks: [Stability MW]
+  extended_perks:
+    barrels: []
+    magazines: []
+-
+  weapon_id: 3044460004
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  base_perks:
+    barrels: [Corkscrew Rifling, Hammer-Forged Rifling, Fluted 
+      Barrel, Arrowhead Brake, Chambered Compensator]
+    magazines: [Projection Fuse, Particle Repeater]
+    perks1: [Under Pressure]
+    perks2: [High-Impact Reserves]
+    masterworks: [Impact MW, Range MW, Stability MW]
+  extended_perks:
+    barrels: []
+    magazines: []

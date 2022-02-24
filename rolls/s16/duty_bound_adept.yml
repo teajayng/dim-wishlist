@@ -1,0 +1,14 @@
+-
+  weapon_id: 1135050595
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Tactical Mag]
+    perks1: [Steady Hands, Zen Moment, Compulsive Reloader]
+    perks2: [Rampage, Vorpal, Frenzy]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Hammer-Forged Rifling, Fluted Barrel, Smallbore]
+    magazines: [Accurized Rounds, Appended Mag, Flared Magwell]

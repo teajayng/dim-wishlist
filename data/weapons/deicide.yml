@@ -1,0 +1,13 @@
+name: The Deicide
+item_id: 217140611
+drop_id: world
+traits:
+  barrels:     {t: 6, c: 2}
+  magazines:   {t: 6, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  Rapid-Fire Frame Void shotgun from the Future War Cult collection. It 
+  could be useful for a Liar's Handshake build, where Python would have 
+  shone previously, but Rapid-Fire Frame shotguns are a little odd.

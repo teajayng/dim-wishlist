@@ -1,0 +1,15 @@
+-
+  weapon_id: 378498222
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling, Hammer-Forged Rifling]
+    magazines: [Ricochet Rounds, Appended Mag]
+    perks1: [Overflow, Feeding Frenzy, Surplus, Subsistence, Grave 
+      Robber]
+    perks2: [Frenzy, Kill Clip, Swashbuckler]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Fluted Barrel]
+    magazines: [High-Caliber Rounds]

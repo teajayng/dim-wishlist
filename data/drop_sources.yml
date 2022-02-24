@@ -1,6 +1,6 @@
 -
-  id: 15
-  name: S15 - Season of the Lost
+  id: 16
+  name: S16 - Season of the Risen
 - 
   id: world
   name: Open World
@@ -16,6 +16,9 @@
 - 
   id: dsc
   name: Raid - Deep Stone Crypt
+-
+  id: 15
+  name: S15 - Season of the Lost
 -
   id: 14
   name: S14 - Season of the Splicer

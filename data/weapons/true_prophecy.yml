@@ -1,0 +1,9 @@
+name: True Prophecy
+item_id: 2742838700
+drop_id: world
+traits:
+  barrels:     {t: 6, c: 2}
+  magazines:   {t: 7, c: 2}
+  perks1:      {t: 5, c: 1}
+  perks2:      {t: 5, c: 1}
+  masterworks: {t: 4, c: 1}

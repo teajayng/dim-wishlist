@@ -4,125 +4,90 @@
   ratings_emoji: ✔️
   tags: ['pvp']
   overview: >
-    `Tunnel Vision` and `Kill Clip` proc on kill; sold pairing.
+    `Tunnel Vision` and `Kill Clip` both proc on reload - they were made for
+    each other!
   base_perks:
-    barrels: [Hammer-Forged Rifling, Polygonal Rifling]
-    magazines: [Accurized Rounds, Steady Rounds]
+    barrels: [Hammer-Forged Rifling]
+    magazines: [Accurized Rounds]
     perks1: [Tunnel Vision]
     perks2: [Kill Clip]
-    masterworks: [Range MW, Stability MW]
+    masterworks: [Stability MW]
   extended_perks:
-    barrels: [Hammer-Forged Rifling, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
-    magazines: [Accurized Rounds, Steady Rounds, Tactical Mag, Flared Magwell]
--
-  weapon_id: 2171478765
-  name: No Fate but What we Make
-  ratings_emoji: 🛠
-  tags: ['pvp']
-  overview: >
-    [`Killing Wind` is phenomenal](https://www.youtube.com/watch?v=n2bLA3wkBBE&t=320s). `Killing Wind` (procs on kill) lasts six seconds and `Kill Clip` lasts five seconds (procs on reload). The base reload on Fatebringer is 2.81s (thank you d2gunsmith.com) meaning you'll have the combined benefit for a minimum of 3.2s. The more you buff your reload, the longer the benefit. No, `Rewind Rounds` does not proc `Kill Clip` 🙂
-  base_perks:
-    barrels: [Hammer-Forged Rifling, Polygonal Rifling]
-    magazines: [Accurized Rounds, Steady Rounds]
-    perks1: [Killing Wind]
-    perks2: [Kill Clip]
-    masterworks: [Range MW, Stability MW]
-  extended_perks:
-    barrels: [Hammer-Forged Rifling, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
-    magazines: [Accurized Rounds, Steady Rounds, Tactical Mag, Flared Magwell]
--
-  weapon_id: 2171478765
-  name: Density
-  ratings_emoji: 🔮
-  tags: ['pvp,pve']
-  overview: >
-    Strong arugument here for the pvp god roll. Two terrific perks on 140s.
-  base_perks:
-    barrels: [Hammer-Forged Rifling, Polygonal Rifling]
-    magazines: [Accurized Rounds, Steady Rounds]
-    perks1: [Explosive Payload]
-    perks2: [Kill Clip]
-    masterworks: [Range MW, Stability MW]
-  extended_perks:
-    barrels: [Hammer-Forged Rifling, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
-    magazines: [Accurized Rounds, Steady Rounds, Tactical Mag, Flared Magwell]
--
-  weapon_id: 2171478765
-  name: The Three Fates
-  ratings_emoji: 🧙‍♀️
-  tags: ['pvp']
-  overview: >
-    Any pairing here in the final two columns would be terrific.
-  base_perks:
-    barrels: [Hammer-Forged Rifling, Polygonal Rifling]
-    magazines: [Accurized Rounds, Steady Rounds]
-    perks1: [Killing Wind, Explosive Payload]
-    perks2: [Opening Shot, Eye of the Storm]
-    masterworks: [Range MW, Stability MW]
-  extended_perks:
-    barrels: [Hammer-Forged Rifling, Polygonal Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel]
-    magazines: [Accurized Rounds, Steady Rounds, Tactical Mag, Flared Magwell]
+    barrels: [Hammer-Forged Rifling, Smallbore, Extended Barrel, Corkscrew Rifling, Full Bore]
+    magazines: [Extended Mag, Alloy Magazine, Appended Mag, Tactical Mag]
 -
   weapon_id: 2171478765
   name: Do It Again
   ratings_emoji: ♻️
   tags: ['pve']
   overview: >
-    `Rewind Rounds` returns approximately 40% of the hits you made with it to the magazine recursively. So a Fatebringer with 10 in the magazine will go 10 -> 4 -> 1 = 15 rounds before needing to reload. Fatebringer is a 140 RPM, which equates to 2.3 bullets per second. `Kill Clip` lasts six seconds which would be or 13.8 (14) bullets. With `Rewind Rounds` you can make maximum use of `Kill Clip` without reloading. This of course, assumes you're hitting every shot 😬😬😬
+    `Rewind Rounds` returns approximately 40% of the hits you made with it to the magazine recursively.
+    So a Fatebringer with 10 in the magazine will go 10 -> 4 -> 1 = 15 rounds before needing to reload.
+
+    Fallout calls `Firefly`: "Spicy Outlaw" as it has a hidden reload perk.
   base_perks:
     barrels: [Hammer-Forged Rifling]
-    magazines: [Accurized Rounds]
+    magazines: [Extended Mag]
     perks1: [Rewind Rounds]
-    perks2: [Kill Clip]
+    perks2: [Firefly]
     masterworks: [Range MW]
   extended_perks:
-    barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Full Bore, Extended Barrel]
-    magazines: [Accurized Rounds, Appended Mag, Alloy Magazine]
+    barrels: [Hammer-Forged Rifling, Smallbore, Extended Barrel, Corkscrew Rifling, Full Bore]
+    magazines: [Extended Mag, Alloy Magazine, Appended Mag, Tactical Mag]
 -
   weapon_id: 2171478765
-  name: Bombs Away
-  ratings_emoji: 💣
+  name: Do It Again - Frenzy
+  ratings_emoji: ♻️
   tags: ['pve']
   overview: >
-    Niche utility roll to benefit perks and exotics (e.g. Nezarac's) that proc on specific elemental kills.
+    `Rewind Rounds` returns approximately 40% of the hits you made with it to the magazine recursively.
+    So a Fatebringer with 10 in the magazine will go 10 -> 4 -> 1 = 15 rounds before needing to reload.
+
+    `Frenzy` is another good pair for `Rewind Rounds` and situationally, can be better than `Firefly`.
   base_perks:
     barrels: [Hammer-Forged Rifling]
-    magazines: [Accurized Rounds]
-    perks1: [Osmosis]
-    perks2: [Adrenaline Junkie]
-    masterworks: [Range MW]
-  extended_perks:
-    barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Full Bore, Extended Barrel]
-    magazines: [Accurized Rounds, Appended Mag, Alloy Magazine]
--
-  weapon_id: 2171478765
-  name: Rage Against the Dying
-  ratings_emoji: 😡
-  tags: ['pve']
-  overview: >
-    In GMs, even minor enemies are bullet sponges. `Frenzy` has always been a solid perk (like `One for All`) to get you a damage bump without having to get kills.
-  base_perks:
-    barrels: [Hammer-Forged Rifling]
-    magazines: [Accurized Rounds]
-    perks1: [Explosive Payload, Rewind Rounds]
+    magazines: [Extended Mag]
+    perks1: [Rewind Rounds]
     perks2: [Frenzy]
     masterworks: [Range MW]
   extended_perks:
-    barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Full Bore, Extended Barrel]
-    magazines: [Accurized Rounds, Appended Mag, Alloy Magazine]
+    barrels: [Hammer-Forged Rifling, Smallbore, Extended Barrel, Corkscrew Rifling, Full Bore]
+    magazines: [Extended Mag, Alloy Magazine, Appended Mag, Tactical Mag]
 -
   weapon_id: 2171478765
-  name: Mr. Torgue's Fave
+  name: Mr. Torgue's Fav
   ratings_emoji: 🧨
   tags: ['pve']
   overview: >
-    [Explosions!?!](https://www.youtube.com/watch?v=D13ebYdvNf0) `Explosive Payload` is the rare 3rd column damage perk! Great for damaging enemies at a distance and proc'ing Overload Champion stunning (when hand cannons are in season) one shot earlier.
+    Explosions!?! `Explosive Payload` is the rare 3rd column damage perk! Great for damaging enemies 
+    at a distance and proc'ing Overload Champion stunning (when hand cannons are in season) one shot earlier.
+
+    `Firefly` makes the explosions extra explodey.  Mr. Torgue would approve.
   base_perks:
     barrels: [Hammer-Forged Rifling]
-    magazines: [Accurized Rounds]
+    magazines: [Extended Mag]
     perks1: [Explosive Payload]
     perks2: [Firefly]
     masterworks: [Range MW]
   extended_perks:
-    barrels: [Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Full Bore, Extended Barrel]
-    magazines: [Accurized Rounds, Appended Mag, Alloy Magazine]
+    barrels: [Hammer-Forged Rifling, Smallbore, Extended Barrel, Corkscrew Rifling, Full Bore]
+    magazines: [Extended Mag, Alloy Magazine, Appended Mag, Tactical Mag]
+-
+  weapon_id: 2171478765
+  name: Mr. Torgue's Fav - Frenzy
+  ratings_emoji: 🧨
+  tags: ['pve']
+  overview: >
+    Explosions!?! `Explosive Payload` is the rare 3rd column damage perk! Great for damaging enemies 
+    at a distance and proc'ing Overload Champion stunning (when hand cannons are in season) one shot earlier.
+    
+    Mr. Torgue also wouldn't mind a little Frenzy in with his explosions.
+  base_perks:
+    barrels: [Hammer-Forged Rifling]
+    magazines: [Extended Mag]
+    perks1: [Explosive Payload]
+    perks2: [Frenzy]
+    masterworks: [Range MW]
+  extended_perks:
+    barrels: [Hammer-Forged Rifling, Smallbore, Extended Barrel, Corkscrew Rifling, Full Bore]
+    magazines: [Extended Mag, Alloy Magazine, Appended Mag, Tactical Mag]

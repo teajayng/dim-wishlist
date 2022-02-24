@@ -1,0 +1,14 @@
+name: Empty Vessel
+item_id: 4255586669
+drop_id: 14
+traits:
+  barrels:     {t: 7, c: 2}
+  magazines:   {t: 6, c: 2}
+  perks1:      {t: 10, c: 1}
+  perks2:      {t: 10, c: 1}
+  masterworks: {t: 5, c: 1}
+overviwe: >
+  Similar to Orewing's Maul, Truthteller, and Salvager's Salvo, but with 
+  a massive perk pool. The other benefit is that it's Solar, so you can 
+  create Warmind cells from the splash damage if you are using Wrath of 
+  Rasputin.

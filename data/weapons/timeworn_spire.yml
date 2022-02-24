@@ -1,0 +1,9 @@
+name: The Time-Worn Spire
+item_id: 3593598010
+drop_id: 13
+traits:
+  barrels:     {t: 6, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
