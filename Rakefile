@@ -7,7 +7,8 @@ RSpec::Core::RakeTask.new(:spec) do |t|
 end
 
 task :generate_wishlist, [:environment] do |t, args|
-  filename = (args.environment == 'development') ? 'wishlist.dev.txt' : 'wishlist.txt'
+  # filename = (args.environment == 'development') ? 'wishlist.dev.txt' : 'wishlist.txt'
+  filename = 'wishlist.txt'
   puts '[Director] Generating wishlist...'
   Ada1.reboot
   Banshee44.reboot
