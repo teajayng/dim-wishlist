@@ -1,0 +1,42 @@
+-
+  weapon_id: 2852052802
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Ricochet Rounds]
+    perks1: [Steady Hands, Compulsive Reloader, Auto-Loading Holster]
+    perks2: [Vorpal, Headstone, One for All]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling]
+    magazines: [Ricochet Rounds, High-Caliber Rounds, Alloy Magazine, Appended Mag, Flared Magwell, Light Mag]
+-
+  weapon_id: 2852052802
+  name: General Purpose, Overflow
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Ricochet Rounds]
+    perks1: [Overflow]
+    perks2: [Vorpal, Headstone, One for All]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling]
+    magazines: [Ricochet Rounds, High-Caliber Rounds, Alloy Magazine, Appended Mag, Flared Magwell, Light Mag]
+-
+  weapon_id: 2852052802
+  name: General Purpose, Subsistence
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Ricochet Rounds]
+    perks1: [Subsistence]
+    perks2: [Headstone]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling]
+    magazines: [Ricochet Rounds, High-Caliber Rounds, Alloy Magazine, Appended Mag, Flared Magwell, Light Mag]

@@ -1,0 +1,28 @@
+-
+  weapon_id: 1399109800
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Polymer String, Tactile String]
+    magazines: [Carbon Arrow Shaft, Fiberglass Arrow Shaft]
+    perks1: [Archer's Tempo, Shoot to Loot]
+    perks2: [Explosive Head]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Polymer String, Tactile String, Elastic String]
+    magazines: [Carbon Arrow Shaft, Fiberglass Arrow Shaft, Compact Arrow Shaft]
+-
+  weapon_id: 1399109800
+  name: Test
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Polymer String, Tactile String]
+    magazines: [Carbon Arrow Shaft, Fiberglass Arrow Shaft]
+    perks1: [Archer's Tempo]
+    perks2: [Successful Warm-Up]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Polymer String, Tactile String, Elastic String]
+    magazines: [Carbon Arrow Shaft, Fiberglass Arrow Shaft, Compact Arrow Shaft]
