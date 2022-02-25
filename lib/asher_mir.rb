@@ -20,8 +20,8 @@ class AsherMir
 
   def wishlist(variant)
     results = StringIO.new
-    # results << "title:This is a compiled collection of desired rolls by blueberry/teajayng.\n"
-    # results << "description:Prefers rolls for GMs with some desired rolls for pvp. Also prefers m&k.\n\n"
+    results << "title:This is a compiled collection of desired rolls by blueberry/teajayng.\n"
+    results << "description:Prefers rolls for GMs with some desired rolls for pvp. Also prefers m&k.\n\n"
     results << "//notes:#{variant.name} (#{'%.3f' % variant.probability}%)"
     results << "\n"
     results << entries(variant).split("\n").sort.join("\n")
