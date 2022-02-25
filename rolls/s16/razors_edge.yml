@@ -1,0 +1,42 @@
+-
+  weapon_id: 1796949035
+  name: General Purpose, Frenzy
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Jagged Edge]
+    magazines: [Swordmaster's Guard]
+    perks1: [Unrelenting, Relentless Strikes, Wellspring]
+    perks2: [Frenzy]
+    masterworks: [Impact MW]
+  extended_perks:
+    barrels: [Honed Edge, Tempered Edge, Hungry Edge]
+    magazines: [Enduring Guard, Burst Guard, Balanced Guard]
+-
+  weapon_id: 1796949035
+  name: General Purpose, Chain Reaction
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Jagged Edge]
+    magazines: [Swordmaster's Guard]
+    perks1: [Unrelenting, Duelist's Trance, Wellspring]
+    perks2: [Chain Reaction]
+    masterworks: [Impact MW]
+  extended_perks:
+    barrels: [Honed Edge, Tempered Edge, Hungry Edge]
+    magazines: [Enduring Guard, Burst Guard, Balanced Guard]
+-
+  weapon_id: 1796949035
+  name: General Purpose, Assassin's Blade
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Jagged Edge]
+    magazines: [Swordmaster's Guard]
+    perks1: [Duelist's Trance]
+    perks2: [Assassin's Blade]
+    masterworks: [Impact MW]
+  extended_perks:
+    barrels: [Honed Edge, Tempered Edge, Hungry Edge]
+    magazines: [Enduring Guard, Burst Guard, Balanced Guard]

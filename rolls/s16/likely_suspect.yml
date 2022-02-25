@@ -1,0 +1,14 @@
+-
+  weapon_id: 1994645182
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Extended Barrel]
+    magazines: [Accelerated Coils]
+    perks1: [Ensemble, Heating Up]
+    perks2: [Wellspring, Turnabout]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: []
+    magazines: []

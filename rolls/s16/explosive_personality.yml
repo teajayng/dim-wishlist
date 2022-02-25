@@ -1,0 +1,14 @@
+-
+  weapon_id: 4096943616
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Volatile Launch, Confined Launch, Countermass]
+    magazines: [High-Velocity Rounds]
+    perks1: [Auto-Loading Holster, Feeding Frenzy]
+    perks2: [Golden Tricorn, Frenzy, Disruption Break, Unrelenting]
+    masterworks: [Reload MW]
+  extended_perks:
+    barrels: [Volatile Launch, Confined Launch, Countermass, Hard Launch, Quick Launch, Linear Compensator]
+    magazines: [High-Velocity Rounds]

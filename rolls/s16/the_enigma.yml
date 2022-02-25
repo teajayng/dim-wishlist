@@ -1,0 +1,42 @@
+-
+  weapon_id: 2595497736
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Low-Impedance Windings]
+    magazines: [Alloy Magazine]
+    perks1: [Threat Detector, Feeding Frenzy, Impulse Amplifier, Subsistence, Grave Robber]
+    perks2: [Unrelenting, Frenzy, Rampage]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Low-Impedance Windings, Lightweight Emitter]
+    magazines: [Alloy Magazine, Light Mag, Accurized Rounds]
+-
+  weapon_id: 2595497736
+  name: General Purpose, Kill Clip
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Low-Impedance Windings]
+    magazines: [Alloy Magazine]
+    perks1: [Threat Detector, Feeding Frenzy, Impulse Amplifier, Grave Robber]
+    perks2: [Kill Clip]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Low-Impedance Windings, Lightweight Emitter]
+    magazines: [Alloy Magazine, Light Mag, Accurized Rounds]
+-
+  weapon_id: 2595497736
+  name: Test
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Low-Impedance Windings]
+    magazines: [Alloy Magazine]
+    perks1: [Threat Detector, Feeding Frenzy, Subsistence, Impulse Amplifier, Grave Robber]
+    perks2: [Unstoppable Force]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Low-Impedance Windings, Lightweight Emitter]
+    magazines: [Alloy Magazine, Light Mag, Accurized Rounds]

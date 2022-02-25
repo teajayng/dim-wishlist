@@ -1,0 +1,14 @@
+-
+  weapon_id: 4067556514
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Tactical Mag]
+    perks1: [Overflow, Rapid Hit, Compulsive Reloader]
+    perks2: [Firing Line, Focused Fury]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Fluted Barrel, Corkscrew Rifling]
+    magazines: [Extended Mag, Tactical Mag, Appended Mag, Flared Magwell]

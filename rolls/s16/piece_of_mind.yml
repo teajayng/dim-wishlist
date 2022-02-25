@@ -1,0 +1,14 @@
+-
+  weapon_id: 2097055732
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Ricochet Rounds]
+    perks1: [Overflow, Auto-Loading Holster, Compulsive Reloader]
+    perks2: [Vorpal, Adrenaline Junkie]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Corkscrew Rifling, Chambered Compensator]
+    magazines: [Ricochet Rounds, Appended Mag, High-Caliber Rounds, Flared Magwell]

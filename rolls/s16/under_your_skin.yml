@@ -1,0 +1,28 @@
+-
+  weapon_id: 232928045
+  name: GMs
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Agile Bowstring, Tactile String, Elastic String]
+    magazines: [Carbon Arrow Shaft, Compact Arrow Shaft]
+    perks1: [Archer's Tempo]
+    perks2: [Explosive Head]
+    masterworks: [Accuracy MW, Reload MW, Draw Time MW]
+  extended_perks:
+    barrels: [Agile Bowstring, Tactile String, Elastic String, Flexible String]
+    magazines: [Carbon Arrow Shaft, Compact Arrow Shaft, Fiberglass Arrow Shaft, Helical Fletching]
+-
+  weapon_id: 232928045
+  name: Test
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Agile Bowstring, Tactile String, Elastic String]
+    magazines: [Carbon Arrow Shaft, Compact Arrow Shaft]
+    perks1: [Archer's Tempo]
+    perks2: [Adaptive Munitions, Successful Warm-Up]
+    masterworks: [Accuracy MW, Reload MW, Draw Time MW]
+  extended_perks:
+    barrels: [Agile Bowstring, Tactile String, Elastic String, Flexible String]
+    magazines: [Carbon Arrow Shaft, Compact Arrow Shaft, Fiberglass Arrow Shaft, Helical Fletching]

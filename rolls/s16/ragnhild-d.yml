@@ -1,0 +1,43 @@
+-
+  weapon_id: 4225322581
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Rifled Barrel]
+    magazines: [Assault Mag]
+    perks1: [Subsistence, Auto-Loading Holster]
+    perks2: [Demolitionist, Frenzy]
+    masterworks: [Reload MW, Handling MW]
+  extended_perks:
+    barrels: [Smallbore, Corkscrew Rifling]
+    magazines: [Extended Mag]
+-
+  weapon_id: 4225322581
+  name: General Purpose, One-Two Punch
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Rifled Barrel]
+    magazines: [Assault Mag]
+    perks1: [Auto-Loading Holster]
+    perks2: [One-Two Punch]
+    masterworks: [Reload MW, Handling MW]
+  extended_perks:
+    barrels: [Smallbore, Corkscrew Rifling]
+    magazines: [Extended Mag]
+
+- 
+  weapon_id: 4225322581
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  base_perks: 
+    barrels: [Full Choke]
+    magazines: [Assault Mag]
+    perks1: [Perpetual Motion]
+    perks2: [Demolitionist, Elemental Capacitor]
+    masterworks: [Reload MW, Handling MW]
+  extended_perks:
+    barrels: [Rifled Barrel, Smallbore, Corkscrew Rifling]
+    magazines: [Assault Mag, Tactical Mag]

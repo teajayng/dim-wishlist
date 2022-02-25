@@ -1,0 +1,9 @@
+name: Explosive Personality
+item_id: 4096943616
+drop_id: 16
+traits:
+  barrels:     {t: 7, c: 2}
+  magazines:   {t: 2, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 5, c: 1}

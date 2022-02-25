@@ -1,0 +1,42 @@
+- 
+  weapon_id: 2342054803
+  name: GM
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Tactical Mag]
+    perks1: [Adaptive Munitions]
+    perks2: [Disruption Break, Turnabout]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Extended Barrel, Fluted Barrel]
+    magazines: [Accurized Rounds, Appended Mag, Tactical Mag, Flared Magwell]
+- 
+  weapon_id: 2342054803
+  name: General Purpose, Grenade Build
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Tactical Mag]
+    perks1: [Demolitionist]
+    perks2: [Adrenaline Junkie]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Extended Barrel, Fluted Barrel]
+    magazines: [Accurized Rounds, Appended Mag, Tactical Mag, Flared Magwell]
+- 
+  weapon_id: 2342054803
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Tactical Mag]
+    perks1: [Unrelenting]
+    perks2: [Dragonfly]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Extended Barrel, Fluted Barrel]
+    magazines: [Accurized Rounds, Appended Mag, Tactical Mag, Flared Magwell]

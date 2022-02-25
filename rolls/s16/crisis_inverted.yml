@@ -1,0 +1,30 @@
+-
+  weapon_id: 2888266564
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: 
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Ricochet Rounds]
+    perks1: [Outlaw, Rapid Hit, Steady Hands, Demolitionist, Compulsive Reloader, Shoot to Loot]
+    perks2: [Kill Clip, Vorpal, Focused Fury]
+    masterworks: [Reload MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel]
+    magazines: [High-Caliber Rounds, Appended Mag, Flared Magwell]
+-
+  weapon_id: 2888266564
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  overview: 
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [High-Caliber Rounds]
+    perks1: [Outlaw, Rapid Hit, Moving Target, Compulsive Reloader]
+    perks2: [Rangefinder, Kill Clip, Opening Shot, Snapshot Sights, Vorpal]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Hammer-Forged Rifling]
+    magazines: [High-Caliber Rounds, Ricochet Rounds, Appended Mag, Flared Magwell]

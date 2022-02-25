@@ -8,7 +8,7 @@
     magazines: [Carbon Arrow Shaft, Fiberglass Arrow Shaft]
     perks1: [Archer's Tempo, Shoot to Loot]
     perks2: [Explosive Head]
-    masterworks: [Stability MW, Reload MW]
+    masterworks: [Draw Time MW]
   extended_perks:
     barrels: [Polymer String, Tactile String, Elastic String]
     magazines: [Carbon Arrow Shaft, Fiberglass Arrow Shaft, Compact Arrow Shaft]
@@ -22,7 +22,7 @@
     magazines: [Carbon Arrow Shaft, Fiberglass Arrow Shaft]
     perks1: [Archer's Tempo]
     perks2: [Successful Warm-Up]
-    masterworks: [Stability MW, Reload MW]
+    masterworks: [Draw Time MW]
   extended_perks:
     barrels: [Polymer String, Tactile String, Elastic String]
     magazines: [Carbon Arrow Shaft, Fiberglass Arrow Shaft, Compact Arrow Shaft]

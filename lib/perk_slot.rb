@@ -21,6 +21,7 @@ class PerkSlot
   def self.perk_slots_from_hash(data_hash)
     perk_slots = {}
     data_hash.each do |perk_name, slot_config|
+      # puts "  > #{perk_name}"
       raise "'#{perk_name}' is not a valid perk slot name" unless PERK_SLOT_NAMES.include?(perk_name)
       perk_slots[perk_name] = PerkSlot.new(perk_name, slot_config['t'], slot_config['c'])
     end

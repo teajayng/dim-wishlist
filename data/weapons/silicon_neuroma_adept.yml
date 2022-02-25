@@ -1,0 +1,10 @@
+name: Silicon Neuroma (Adept)
+item_id: 1387987271
+drop_id: nf
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+overview:

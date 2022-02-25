@@ -1,0 +1,9 @@
+name: Snorri FR5
+item_id: 4114929480
+drop_id: 16
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 6, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}

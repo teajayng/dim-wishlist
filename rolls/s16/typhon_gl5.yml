@@ -1,0 +1,14 @@
+- 
+  weapon_id: 3568377122
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks: 
+    barrels: [Volatile Launch, Confined Launch]
+    magazines: [Spike Grenades, Alloy Casing, Proximity Grenades]
+    perks1: [Demolitionist, Impulse Amplifier, Steady Hands, Unrelenting, Genesis]
+    perks2: [Explosive Light, Frenzy]
+    masterworks: [Velocity MW, Reload MW]
+  extended_perks:
+    barrels: [Volatile Launch, Confined Launch, Countermass, Hard Launch]
+    magazines: [Spike Grenades, Alloy Casing, Proximity Grenades, Augmented Drum, High-Explosive Ordnance]

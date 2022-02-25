@@ -1,0 +1,14 @@
+- 
+  weapon_id: 3341893443
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks: 
+    barrels: [Corkscrew Rifling]
+    magazines: [Tactical Mag]
+    perks1: [Subsistence, Perpetual Motion, Steady Hands]
+    perks2: [Frenzy, Adrenaline Junkie]
+    masterworks: [Range MW, Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Extended Barrel, Fluted Barrel, Full Bore]
+    magazines: [Extended Mag]

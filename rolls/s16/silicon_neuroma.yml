@@ -1,0 +1,14 @@
+-
+  weapon_id: 3355385170
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Extended Mag, Appended Mag]
+    perks1: [Triple Tap, Compulsive Reloader, Steady Hands]
+    perks2: [Demolitionist, Focused Fury, Frenzy, Firing Line]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Fluted Barrel]
+    magazines: [Extended Mag, Appended Mag, Alloy Magazine, Flared Magwell]

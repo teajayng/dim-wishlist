@@ -1,0 +1,29 @@
+-
+  weapon_id: 1141547457
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Tactical Mag]
+    perks1: [Steady Hands, Rapid Hit, Adaptive Munitions, Compulsive Reloader]
+    perks2: [Kill Clip, Iron Reach]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Corkscrew Rifling, Chambered Compensator, Extended Barrel, Hammer-Forged Rifling]
+    magazines: [Accurized Rounds, Appended Mag, Tactical Mag, Flared Magwell]
+-
+  weapon_id: 1141547457
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  overview: 
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Accurized Rounds]
+    perks1: [Rapid Hit, Adaptive Munitions, Compulsive Reloader]
+    perks2: [Kill Clip, Iron Reach]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Corkscrew Rifling, Chambered Compensator, Extended Barrel, Hammer-Forged Rifling]
+    magazines: [Accurized Rounds, Appended Mag, Tactical Mag, Flared Magwell]

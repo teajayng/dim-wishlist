@@ -68,6 +68,14 @@ Rifle Scope ST: 679077873
 Rifle Scope SSF: 679077872
 Volatile Launch: 1478423395
 
+# Hafts
+Auxiliary Reserves: 580685494
+Ballistic Tuning: 1263609309
+Lightweight Emitter: 594346985
+Low-Impedance Windings: 2713678205
+Supercooled Accelerator: 1934171651
+Tempered Truss Rod: 5699512
+
 # Magazines
 Accelerated Coils: 689005463
 Accurized Rounds: 3142289711
@@ -76,6 +84,7 @@ Alloy Magazine: 1431678320
 Appended Mag: 1087426260
 Armor-Piercing Rounds: 1968497646
 Assault Mag: 791862061
+Augmented Drum: 1771897777
 Balanced Guard: 52780822
 Black Powder: 1996142143
 Blinding Grenades: 3032599245
@@ -117,6 +126,7 @@ Natural Fletching: 1500996326
 
 # Perks
 Adagio: 3673922083
+Adaptive Munitions: 1048183818
 Adrenaline Junkie: 11612903
 Ambitious Assassin: 2010801679
 Archer's Tempo: 201365942
@@ -158,6 +168,7 @@ Firefly: 3824105627
 Firing Line: 1771339417
 Firmly Planted: 280464955
 Flash Counter: 2244851822
+Focused Fury: 2896038713
 Fourth Time's the Charm: 1354429876
 Frenzy: 4104185692
 Full Auto: [4267945040, 2117683199]
@@ -217,6 +228,7 @@ Sneak Bow: 908147344
 Spike Grenades: 3301904089
 Stats for All: 1583705720
 Steady Hands: 509074078
+Successful Warm-Up: 2652708987
 Subsistence: 1820235745
 Surplus: 3436462433
 Surrounded: 3708227201
@@ -232,9 +244,11 @@ Tracking Module: 3977735242
 Trench Barrel: 2360754333
 Triple Tap: 3400784728
 Tunnel Vision: 2946784966
+Turnabout: 2209918983
 Underdog: 205890336
 Under Pressure: 1645158859
 Unrelenting: 3108830275
+Unstoppable Force: 2224838837
 Vorpal: 1546637391
 Vorpal Weapon: 1546637391
 Wellspring: 3592538738

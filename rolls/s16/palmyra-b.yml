@@ -1,0 +1,28 @@
+-
+  weapon_id: 3489657138
+  name: Burst
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Confined Launch, Volatile Launch]
+    magazines: [Alloy Casing, Impact Casing]
+    perks1: [Impulse Amplifier, Auto-Loading Holster]
+    perks2: [Lasting Impression, Explosive Light, Frenzy]
+    masterworks: [Reload MW, Velocity MW]
+  extended_perks:
+    barrels: [Confined Launch, Countermass, Volatile Launch]
+    magazines: [Alloy Casing, High-Velocity Rounds, Black Powder, Impact Casing]
+-
+  weapon_id: 3489657138
+  name: Add Clear
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Confined Launch, Volatile Launch]
+    magazines: [Alloy Casing, Impact Casing]
+    perks1: [Impulse Amplifier, Auto-Loading Holster, Ambitious Assassin]
+    perks2: [Chain Reaction]
+    masterworks: [Reload MW, Velocity MW]
+  extended_perks:
+    barrels: [Confined Launch, Countermass, Volatile Launch]
+    magazines: [Alloy Casing, High-Velocity Rounds, Black Powder, Impact Casing]

@@ -1,0 +1,14 @@
+-
+  weapon_id: 2821430069
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Assault Mag]
+    perks1: [Demolitionist, Outlaw, Feeding Frenzy, Subsistence, Surplus, Steady Hands]
+    perks2: [Vorpal, Frenzy, Wellspring]
+    masterworks: [Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Corkscrew Rifling, Chambered Compensator]
+    magazines: [Assault Mag, Appended Mag, Tactical Mag]

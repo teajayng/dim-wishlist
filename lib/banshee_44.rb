@@ -25,6 +25,7 @@ class Banshee44
     roll_files = Dir['./rolls/**/*.yml'].sort_by{|fn| File.basename(fn)}
     
     roll_files.each do |fn|
+      # puts "  > #{fn}"
       rolls = YAML.load_file(fn)
       rolls.each do |r|
         @@ROLL_STORE << Roll.from_hash(r)

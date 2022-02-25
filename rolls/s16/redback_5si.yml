@@ -1,0 +1,14 @@
+-
+  weapon_id: 1687353095
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Fluted Barrel]
+    magazines: [Tactical Mag, Appended Mag]
+    perks1: [Subsistence, Compulsive Reloader, Perpetual Motion]
+    perks2: [Rampage]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Fluted Barrel, Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Extended Barrel]
+    magazines: [Accurized Rounds, Flared Magwell, Alloy Magazine]

@@ -29,6 +29,7 @@ class Weapon
   end
 
   def self.from_hash(data_hash)
+    # puts "  > #{data_hash['name']}"
     Weapon.new(
       data_hash['name'],
       data_hash['item_id'],

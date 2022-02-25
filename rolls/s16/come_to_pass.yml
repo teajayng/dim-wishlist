@@ -1,0 +1,14 @@
+-
+  weapon_id: 927567426
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Tactical Mag]
+    perks1: [Triple Tap, Compulsive Reloader]
+    perks2: [Wellspring, Turnabout, One for All, Golden Tricorn]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Extended Barrel]
+    magazines: [Extended Mag, Alloy Magazine, Appended Mag, High-Caliber Rounds, Flared Magwell]

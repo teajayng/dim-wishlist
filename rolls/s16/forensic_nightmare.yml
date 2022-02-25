@@ -1,0 +1,14 @@
+-
+  weapon_id: 1526296434
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Ricochet Rounds]
+    perks1: [Perpetual Motion, Heating Up, Encore, Grave Robber]
+    perks2: [Kill Clip, Headstone, Swashbuckler]
+    masterworks: [Range MW, Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel]
+    magazines: [Extended Mag, Alloy Magazine, Appended Mag, High-Caliber Rounds, Flared Magwell]
