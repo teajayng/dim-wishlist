@@ -19,7 +19,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/3568377122), [
   * **Barrels**: `Volatile Launch`, `Confined Launch`
   * **Magazines**: `Spike Grenades`, `Alloy Casing`, `Proximity Grenades`
   * **Perks 1**: `Demolitionist`, `Impulse Amplifier`, `Steady Hands`, `Unrelenting`, `Genesis`
-  * **Perks 2**: `Explosive Light`, `Frenzy`
+  * **Perks 2**: `Explosive Light`, `Frenzy`, `Chill Clip`
   * **Masterworks**: `Velocity MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
   * **Barrels**: `Volatile Launch`, `Confined Launch`, `Countermass`, `Hard Launch`
@@ -27,12 +27,12 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/3568377122), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 3.74% | 26 |
-| 👾👾👾 CE (+barrels) | 6.12% | 16 |
-| 👾👾👾 CE (+magazines) | 5.20% | 19 |
-| 👾👾👾 CE (*masterworks) | 9.35% | 10 |
-| 👾👾 (+barrels, +magazines) | 8.50% | 11 |
-| 👾👾 (+barrels, *masterworks) | 15.31% | 6 |
-| 👾👾 (+magazines, *masterworks) | 12.99% | 7 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 21.26% | 4 |
-| 👾 (*barrels, *magazines, *masterworks) | 27.78% | 3 |
+| 👾👾👾🌟 Collector's Edition | 5.61% | 17 |
+| 👾👾👾 CE (+barrels) | 9.18% | 10 |
+| 👾👾👾 CE (+magazines) | 7.79% | 12 |
+| 👾👾👾 CE (*masterworks) | 14.03% | 7 |
+| 👾👾 (+barrels, +magazines) | 12.76% | 7 |
+| 👾👾 (+barrels, *masterworks) | 22.96% | 4 |
+| 👾👾 (+magazines, *masterworks) | 19.49% | 5 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 31.89% | 3 |
+| 👾 (*barrels, *magazines, *masterworks) | 41.67% | 2 |

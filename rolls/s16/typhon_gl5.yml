@@ -7,7 +7,7 @@
     barrels: [Volatile Launch, Confined Launch]
     magazines: [Spike Grenades, Alloy Casing, Proximity Grenades]
     perks1: [Demolitionist, Impulse Amplifier, Steady Hands, Unrelenting, Genesis]
-    perks2: [Explosive Light, Frenzy]
+    perks2: [Explosive Light, Frenzy, Chill Clip]
     masterworks: [Velocity MW, Reload MW]
   extended_perks:
     barrels: [Volatile Launch, Confined Launch, Countermass, Hard Launch]
