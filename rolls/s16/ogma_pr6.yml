@@ -14,7 +14,7 @@
     magazines: [Accurized Rounds, Appended Mag, Tactical Mag, Flared Magwell]
 - 
   weapon_id: 2342054803
-  name: General Purpose, Grenade Build
+  name: General Purpose, Adrenaline Junkie
   ratings_emoji: 👾
   tags: ['pve']
   base_perks:
@@ -34,7 +34,7 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Tactical Mag]
-    perks1: [Unrelenting]
+    perks1: [Unrelenting, Demolitionist]
     perks2: [Dragonfly]
     masterworks: [Stability MW, Reload MW]
   extended_perks:

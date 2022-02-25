@@ -37,7 +37,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2342054803), [
 | 👾👾 (+barrels, +magazines, *masterworks) | 3.97% | 25 |
 | 👾 (*barrels, *magazines, *masterworks) | 5.56% | 18 |
 
-## 👾 General Purpose, Grenade Build (pve)
+## 👾 General Purpose, Adrenaline Junkie (pve)
 
 
 
@@ -70,7 +70,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2342054803), [
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `Tactical Mag`
-  * **Perks 1**: `Unrelenting`
+  * **Perks 1**: `Unrelenting`, `Demolitionist`
   * **Perks 2**: `Dragonfly`
   * **Masterworks**: `Stability MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
@@ -79,12 +79,12 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2342054803), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 0.09% | 1134 |
-| 👾👾👾 CE (+barrels) | 0.33% | 302 |
-| 👾👾👾 CE (+magazines) | 0.26% | 378 |
-| 👾👾👾 CE (*masterworks) | 0.18% | 567 |
-| 👾👾 (+barrels, +magazines) | 0.99% | 100 |
-| 👾👾 (+barrels, *masterworks) | 0.66% | 151 |
-| 👾👾 (+magazines, *masterworks) | 0.53% | 189 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 1.98% | 50 |
-| 👾 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
+| 👾👾👾🌟 Collector's Edition | 0.18% | 567 |
+| 👾👾👾 CE (+barrels) | 0.66% | 151 |
+| 👾👾👾 CE (+magazines) | 0.53% | 189 |
+| 👾👾👾 CE (*masterworks) | 0.35% | 283 |
+| 👾👾 (+barrels, +magazines) | 1.98% | 50 |
+| 👾👾 (+barrels, *masterworks) | 1.32% | 75 |
+| 👾👾 (+magazines, *masterworks) | 1.06% | 94 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 3.97% | 25 |
+| 👾 (*barrels, *magazines, *masterworks) | 5.56% | 18 |
