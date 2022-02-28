@@ -1,13 +1,55 @@
 -
   weapon_id: 435216110
-  name: General Purpose
+  name: General Purpose, Vorpal
   ratings_emoji: 👾
   tags: ['pve']
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Tactical Mag]
-    perks1: [Steady Hands, Zen Moment, Compulsive Reloader]
-    perks2: [Rampage, Vorpal, Frenzy]
+    perks1: [Triple Tap, Compulsive Reloader, Zen Moment]
+    perks2: [Vorpal]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Hammer-Forged Rifling, Fluted Barrel, Smallbore]
+    magazines: [Accurized Rounds, Appended Mag, Flared Magwell]
+-
+  weapon_id: 435216110
+  name: General Purpose, Rampage
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Tactical Mag]
+    perks1: [Zen Moment, Steady Hands, Compulsive Reloader]
+    perks2: [Rampage]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Hammer-Forged Rifling, Fluted Barrel, Smallbore]
+    magazines: [Accurized Rounds, Appended Mag, Flared Magwell]
+-
+  weapon_id: 435216110
+  name: General Purpose, Frenzy
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Tactical Mag]
+    perks1: [Zen Moment, Steady Hands, Compulsive Reloader]
+    perks2: [Frenzy]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Hammer-Forged Rifling, Fluted Barrel, Smallbore]
+    magazines: [Accurized Rounds, Appended Mag, Flared Magwell]
+-
+  weapon_id: 435216110
+  name: Test
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Tactical Mag]
+    perks1: [Triple Tap]
+    perks2: [Fourth Time's the Charm]
     masterworks: [Stability MW, Reload MW]
   extended_perks:
     barrels: [Corkscrew Rifling, Hammer-Forged Rifling, Fluted Barrel, Smallbore]

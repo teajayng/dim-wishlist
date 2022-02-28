@@ -1,6 +1,21 @@
 -
   weapon_id: 372697604
-  name: General Purpose
+  name: General Purpose, Vorpal
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: 
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Tactical Mag]
+    perks1: [Rapid Hit]
+    perks2: [Vorpal]
+    masterworks: [Range MW, Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel]
+    magazines: [Extended Mag, Alloy Magazine, Appended Mag, Flared Magwell]
+-
+  weapon_id: 372697604
+  name: General Purpose, Timed Payload
   ratings_emoji: 👾
   tags: ['pve']
   overview: 
@@ -8,7 +23,7 @@
     barrels: [Corkscrew Rifling]
     magazines: [Tactical Mag]
     perks1: [Rapid Hit, Steady Hands, Compulsive Reloader]
-    perks2: [Timed Payload, Vorpal, Focused Fury]
+    perks2: [Timed Payload]
     masterworks: [Range MW, Stability MW, Reload MW]
   extended_perks:
     barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel]

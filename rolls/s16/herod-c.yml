@@ -1,13 +1,41 @@
 -
   weapon_id: 1788603939
+  name: General Purpose, Vorpal
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Ricochet Rounds]
+    perks1: [Fourth Time's the Charm, Compulsive Reloader, Auto-Loading Holster]
+    perks2: [Vorpal]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel]
+    magazines: [Appended Mag, High-Caliber Rounds, Flared Magwell]
+-
+  weapon_id: 1788603939
+  name: General Purpose, Frenzy
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Ricochet Rounds]
+    perks1: [Compulsive Reloader, Subsistence, Shoot to Loot, Steady Hands]
+    perks2: [Frenzy]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel]
+    magazines: [Appended Mag, High-Caliber Rounds, Flared Magwell]
+-
+  weapon_id: 1788603939
   name: General Purpose
   ratings_emoji: 👾
   tags: ['pve']
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]
-    perks1: [Subsistence, Compulsive Reloader]
-    perks2: [Vorpal, Headstone, Demolitionist, Frenzy]
+    perks1: [Compulsive Reloader, Subsistence, Steady Hands]
+    perks2: [Headstone, Demolitionist]
     masterworks: [Stability MW, Reload MW]
   extended_perks:
     barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel]

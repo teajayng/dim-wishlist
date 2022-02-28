@@ -11,15 +11,15 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1788603939), [
 
 
 
-## 👾 General Purpose (pve)
+## 👾 General Purpose, Vorpal (pve)
 
 
 
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `Ricochet Rounds`
-  * **Perks 1**: `Subsistence`, `Compulsive Reloader`
-  * **Perks 2**: `Vorpal`, `Headstone`, `Demolitionist`, `Frenzy`
+  * **Perks 1**: `Fourth Time's the Charm`, `Compulsive Reloader`, `Auto-Loading Holster`
+  * **Perks 2**: `Vorpal`
   * **Masterworks**: `Stability MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
   * **Barrels**: `Arrowhead Brake`, `Chambered Compensator`, `Corkscrew Rifling`, `Fluted Barrel`
@@ -27,12 +27,64 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1788603939), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 0.15% | 648 |
-| 👾👾👾 CE (+barrels) | 0.50% | 199 |
-| 👾👾👾 CE (+magazines) | 0.40% | 252 |
-| 👾👾👾 CE (*masterworks) | 0.31% | 324 |
-| 👾👾 (+barrels, +magazines) | 1.29% | 77 |
-| 👾👾 (+barrels, *masterworks) | 1.00% | 99 |
-| 👾👾 (+magazines, *masterworks) | 0.79% | 126 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 2.58% | 38 |
-| 👾 (*barrels, *magazines, *masterworks) | 5.56% | 18 |
+| 👾👾👾🌟 Collector's Edition | 0.06% | 1728 |
+| 👾👾👾 CE (+barrels) | 0.19% | 531 |
+| 👾👾👾 CE (+magazines) | 0.15% | 672 |
+| 👾👾👾 CE (*masterworks) | 0.12% | 864 |
+| 👾👾 (+barrels, +magazines) | 0.48% | 206 |
+| 👾👾 (+barrels, *masterworks) | 0.38% | 265 |
+| 👾👾 (+magazines, *masterworks) | 0.30% | 336 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 0.97% | 103 |
+| 👾 (*barrels, *magazines, *masterworks) | 2.08% | 48 |
+
+## 👾 General Purpose, Frenzy (pve)
+
+
+
+* **Collector's Edition Roll**
+  * **Barrels**: `Corkscrew Rifling`
+  * **Magazines**: `Ricochet Rounds`
+  * **Perks 1**: `Compulsive Reloader`, `Subsistence`, `Shoot to Loot`, `Steady Hands`
+  * **Perks 2**: `Frenzy`
+  * **Masterworks**: `Stability MW`, `Reload MW`
+* **Extended Perks** (referred to with a '+' below)
+  * **Barrels**: `Arrowhead Brake`, `Chambered Compensator`, `Corkscrew Rifling`, `Fluted Barrel`
+  * **Magazines**: `Appended Mag`, `High-Caliber Rounds`, `Flared Magwell`
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 👾👾👾🌟 Collector's Edition | 0.08% | 1296 |
+| 👾👾👾 CE (+barrels) | 0.25% | 398 |
+| 👾👾👾 CE (+magazines) | 0.20% | 504 |
+| 👾👾👾 CE (*masterworks) | 0.15% | 648 |
+| 👾👾 (+barrels, +magazines) | 0.64% | 155 |
+| 👾👾 (+barrels, *masterworks) | 0.50% | 199 |
+| 👾👾 (+magazines, *masterworks) | 0.40% | 252 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 1.29% | 77 |
+| 👾 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
+
+## 👾 General Purpose (pve)
+
+
+
+* **Collector's Edition Roll**
+  * **Barrels**: `Corkscrew Rifling`
+  * **Magazines**: `Ricochet Rounds`
+  * **Perks 1**: `Compulsive Reloader`, `Subsistence`, `Steady Hands`
+  * **Perks 2**: `Headstone`, `Demolitionist`
+  * **Masterworks**: `Stability MW`, `Reload MW`
+* **Extended Perks** (referred to with a '+' below)
+  * **Barrels**: `Arrowhead Brake`, `Chambered Compensator`, `Corkscrew Rifling`, `Fluted Barrel`
+  * **Magazines**: `Appended Mag`, `High-Caliber Rounds`, `Flared Magwell`
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 👾👾👾🌟 Collector's Edition | 0.12% | 864 |
+| 👾👾👾 CE (+barrels) | 0.38% | 265 |
+| 👾👾👾 CE (+magazines) | 0.30% | 336 |
+| 👾👾👾 CE (*masterworks) | 0.23% | 432 |
+| 👾👾 (+barrels, +magazines) | 0.97% | 103 |
+| 👾👾 (+barrels, *masterworks) | 0.75% | 132 |
+| 👾👾 (+magazines, *masterworks) | 0.60% | 168 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 1.93% | 51 |
+| 👾 (*barrels, *magazines, *masterworks) | 4.17% | 24 |

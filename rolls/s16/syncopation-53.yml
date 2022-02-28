@@ -1,13 +1,41 @@
 -
   weapon_id: 2856514843
-  name: General Purpose
+  name: General Purpose, Headstone
   ratings_emoji: 👾
   tags: ['pve']
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]
-    perks1: [Overflow, Auto-Loading Holster, Compulsive Reloader]
-    perks2: [Vorpal, Adrenaline Junkie]
+    perks1: [Moving Target, Outlaw, Compulsive Reloader]
+    perks2: [Headstone]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Corkscrew Rifling, Chambered Compensator]
+    magazines: [Ricochet Rounds, Appended Mag, High-Caliber Rounds, Flared Magwell]
+-
+  weapon_id: 2856514843
+  name: General Purpose, Vorpal
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Ricochet Rounds]
+    perks1: [Compulsive Reloader, Zen Moment, Outlaw, Moving Target]
+    perks2: [Vorpal]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Corkscrew Rifling, Chambered Compensator]
+    magazines: [Ricochet Rounds, Appended Mag, High-Caliber Rounds, Flared Magwell]
+-
+  weapon_id: 2856514843
+  name: General Purpose, Frenzy
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Ricochet Rounds]
+    perks1: [Compulsive Reloader]
+    perks2: [Frenzy]
     masterworks: [Stability MW, Reload MW]
   extended_perks:
     barrels: [Arrowhead Brake, Corkscrew Rifling, Chambered Compensator]
