@@ -22,7 +22,7 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Tactical Mag]
-    perks1: [Rapid Hit, Steady Hands, Compulsive Reloader]
+    perks1: [Rapid Hit, Compulsive Reloader]
     perks2: [Timed Payload]
     masterworks: [Range MW, Stability MW, Reload MW]
   extended_perks:

@@ -18,7 +18,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2821430069), [
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `Assault Mag`
-  * **Perks 1**: `Demolitionist`, `Outlaw`, `Feeding Frenzy`, `Subsistence`, `Surplus`, `Steady Hands`
+  * **Perks 1**: `Demolitionist`, `Outlaw`, `Feeding Frenzy`, `Subsistence`, `Surplus`
   * **Perks 2**: `Vorpal`, `Frenzy`, `Wellspring`
   * **Masterworks**: `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
@@ -27,12 +27,12 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2821430069), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 0.20% | 504 |
-| 👾👾👾 CE (+barrels) | 0.52% | 192 |
-| 👾👾👾 CE (+magazines) | 0.50% | 201 |
-| 👾👾👾 CE (*masterworks) | 0.79% | 126 |
-| 👾👾 (+barrels, +magazines) | 1.30% | 76 |
-| 👾👾 (+barrels, *masterworks) | 2.08% | 48 |
-| 👾👾 (+magazines, *masterworks) | 1.98% | 50 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 5.21% | 19 |
-| 👾 (*barrels, *magazines, *masterworks) | 12.50% | 8 |
+| 👾👾👾🌟 Collector's Edition | 0.17% | 604 |
+| 👾👾👾 CE (+barrels) | 0.43% | 230 |
+| 👾👾👾 CE (+magazines) | 0.41% | 241 |
+| 👾👾👾 CE (*masterworks) | 0.66% | 151 |
+| 👾👾 (+barrels, +magazines) | 1.09% | 92 |
+| 👾👾 (+barrels, *masterworks) | 1.74% | 57 |
+| 👾👾 (+magazines, *masterworks) | 1.65% | 60 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 4.34% | 23 |
+| 👾 (*barrels, *magazines, *masterworks) | 10.42% | 9 |

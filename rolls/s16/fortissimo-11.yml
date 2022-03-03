@@ -6,7 +6,7 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Assault Mag]
-    perks1: [Demolitionist, Outlaw, Feeding Frenzy, Subsistence, Surplus, Steady Hands]
+    perks1: [Demolitionist, Outlaw, Feeding Frenzy, Subsistence, Surplus]
     perks2: [Vorpal, Frenzy, Wellspring]
     masterworks: [Reload MW]
   extended_perks:

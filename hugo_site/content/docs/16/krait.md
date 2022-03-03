@@ -44,7 +44,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2852052802), [
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `Ricochet Rounds`
-  * **Perks 1**: `Subsistence`, `Overflow`, `Steady Hands`, `Compulsive Reloader`
+  * **Perks 1**: `Subsistence`, `Overflow`, `Compulsive Reloader`
   * **Perks 2**: `Headstone`
   * **Masterworks**: `Stability MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
@@ -53,15 +53,15 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2852052802), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 0.31% | 324 |
-| 👾👾👾 CE (+barrels) | 0.81% | 123 |
-| 👾👾👾 CE (+magazines) | 1.19% | 84 |
-| 👾👾👾 CE (*masterworks) | 0.62% | 162 |
-| 👾👾 (+barrels, +magazines) | 3.12% | 32 |
-| 👾👾 (+barrels, *masterworks) | 1.62% | 61 |
-| 👾👾 (+magazines, *masterworks) | 2.38% | 42 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 6.25% | 16 |
-| 👾 (*barrels, *magazines, *masterworks) | 11.11% | 9 |
+| 👾👾👾🌟 Collector's Edition | 0.23% | 432 |
+| 👾👾👾 CE (+barrels) | 0.61% | 164 |
+| 👾👾👾 CE (+magazines) | 0.89% | 112 |
+| 👾👾👾 CE (*masterworks) | 0.46% | 216 |
+| 👾👾 (+barrels, +magazines) | 2.34% | 42 |
+| 👾👾 (+barrels, *masterworks) | 1.22% | 82 |
+| 👾👾 (+magazines, *masterworks) | 1.79% | 56 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 4.69% | 21 |
+| 👾 (*barrels, *magazines, *masterworks) | 8.33% | 12 |
 
 ## 👾 General Purpose, Adagio (pve)
 
@@ -70,7 +70,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2852052802), [
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `Ricochet Rounds`
-  * **Perks 1**: `Subsistence`, `Overflow`, `Steady Hands`, `Compulsive Reloader`
+  * **Perks 1**: `Subsistence`, `Overflow`, `Compulsive Reloader`
   * **Perks 2**: `Adagio`
   * **Masterworks**: `Stability MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
@@ -79,12 +79,12 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2852052802), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 0.31% | 324 |
-| 👾👾👾 CE (+barrels) | 0.81% | 123 |
-| 👾👾👾 CE (+magazines) | 1.19% | 84 |
-| 👾👾👾 CE (*masterworks) | 0.62% | 162 |
-| 👾👾 (+barrels, +magazines) | 3.12% | 32 |
-| 👾👾 (+barrels, *masterworks) | 1.62% | 61 |
-| 👾👾 (+magazines, *masterworks) | 2.38% | 42 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 6.25% | 16 |
-| 👾 (*barrels, *magazines, *masterworks) | 11.11% | 9 |
+| 👾👾👾🌟 Collector's Edition | 0.23% | 432 |
+| 👾👾👾 CE (+barrels) | 0.61% | 164 |
+| 👾👾👾 CE (+magazines) | 0.89% | 112 |
+| 👾👾👾 CE (*masterworks) | 0.46% | 216 |
+| 👾👾 (+barrels, +magazines) | 2.34% | 42 |
+| 👾👾 (+barrels, *masterworks) | 1.22% | 82 |
+| 👾👾 (+magazines, *masterworks) | 1.79% | 56 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 4.69% | 21 |
+| 👾 (*barrels, *magazines, *masterworks) | 8.33% | 12 |

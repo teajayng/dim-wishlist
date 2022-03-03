@@ -6,7 +6,7 @@
   base_perks:
     barrels: [Arrowhead Brake]
     magazines: [Accelerated Coils]
-    perks1: [Compulsive Reloader, Heating Up, Surplus, Steady Hands]
+    perks1: [Compulsive Reloader, Heating Up, Surplus]
     perks2: [Frenzy, Reservoir Burst, High-Impact Reserves]
     masterworks: [Stability MW, Reload MW]
   extended_perks:

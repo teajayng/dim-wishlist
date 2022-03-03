@@ -6,7 +6,7 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Tactical Mag]
-    perks1: [Steady Hands, Rapid Hit, Adaptive Munitions, Compulsive Reloader]
+    perks1: [Rapid Hit, Adaptive Munitions, Compulsive Reloader]
     perks2: [Kill Clip, Iron Reach]
     masterworks: [Range MW, Reload MW]
   extended_perks:

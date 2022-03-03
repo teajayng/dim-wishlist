@@ -7,7 +7,7 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]
-    perks1: [Outlaw, Rapid Hit, Steady Hands, Demolitionist, Compulsive Reloader, Shoot to Loot]
+    perks1: [Outlaw, Rapid Hit, Demolitionist, Compulsive Reloader, Shoot to Loot]
     perks2: [Kill Clip, Vorpal, Focused Fury]
     masterworks: [Reload MW]
   extended_perks:

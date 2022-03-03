@@ -44,7 +44,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1135050595), [
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `Tactical Mag`
-  * **Perks 1**: `Zen Moment`, `Steady Hands`, `Compulsive Reloader`
+  * **Perks 1**: `Zen Moment`, `Compulsive Reloader`
   * **Perks 2**: `Rampage`
   * **Masterworks**: `Stability MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
@@ -53,15 +53,15 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1135050595), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 0.26% | 378 |
-| 👾👾👾 CE (+barrels) | 0.86% | 116 |
-| 👾👾👾 CE (+magazines) | 0.66% | 151 |
-| 👾👾👾 CE (*masterworks) | 0.53% | 189 |
-| 👾👾 (+barrels, +magazines) | 2.15% | 46 |
-| 👾👾 (+barrels, *masterworks) | 1.72% | 58 |
-| 👾👾 (+magazines, *masterworks) | 1.32% | 75 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 4.30% | 23 |
-| 👾 (*barrels, *magazines, *masterworks) | 8.33% | 12 |
+| 👾👾👾🌟 Collector's Edition | 0.18% | 567 |
+| 👾👾👾 CE (+barrels) | 0.57% | 174 |
+| 👾👾👾 CE (+magazines) | 0.44% | 226 |
+| 👾👾👾 CE (*masterworks) | 0.35% | 283 |
+| 👾👾 (+barrels, +magazines) | 1.43% | 69 |
+| 👾👾 (+barrels, *masterworks) | 1.15% | 87 |
+| 👾👾 (+magazines, *masterworks) | 0.88% | 113 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 2.87% | 34 |
+| 👾 (*barrels, *magazines, *masterworks) | 5.56% | 18 |
 
 ## 👾 General Purpose, Frenzy (pve)
 
@@ -70,7 +70,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1135050595), [
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `Tactical Mag`
-  * **Perks 1**: `Zen Moment`, `Steady Hands`, `Compulsive Reloader`
+  * **Perks 1**: `Zen Moment`, `Compulsive Reloader`
   * **Perks 2**: `Frenzy`
   * **Masterworks**: `Stability MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
@@ -79,15 +79,15 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1135050595), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 0.26% | 378 |
-| 👾👾👾 CE (+barrels) | 0.86% | 116 |
-| 👾👾👾 CE (+magazines) | 0.66% | 151 |
-| 👾👾👾 CE (*masterworks) | 0.53% | 189 |
-| 👾👾 (+barrels, +magazines) | 2.15% | 46 |
-| 👾👾 (+barrels, *masterworks) | 1.72% | 58 |
-| 👾👾 (+magazines, *masterworks) | 1.32% | 75 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 4.30% | 23 |
-| 👾 (*barrels, *magazines, *masterworks) | 8.33% | 12 |
+| 👾👾👾🌟 Collector's Edition | 0.18% | 567 |
+| 👾👾👾 CE (+barrels) | 0.57% | 174 |
+| 👾👾👾 CE (+magazines) | 0.44% | 226 |
+| 👾👾👾 CE (*masterworks) | 0.35% | 283 |
+| 👾👾 (+barrels, +magazines) | 1.43% | 69 |
+| 👾👾 (+barrels, *masterworks) | 1.15% | 87 |
+| 👾👾 (+magazines, *masterworks) | 0.88% | 113 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 2.87% | 34 |
+| 👾 (*barrels, *magazines, *masterworks) | 5.56% | 18 |
 
 ## 👾 Test (pve)
 

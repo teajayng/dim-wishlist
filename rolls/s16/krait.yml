@@ -20,7 +20,7 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]
-    perks1: [Subsistence, Overflow, Steady Hands, Compulsive Reloader]
+    perks1: [Subsistence, Overflow, Compulsive Reloader]
     perks2: [Headstone]
     masterworks: [Stability MW, Reload MW]
   extended_perks:
@@ -34,7 +34,7 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]
-    perks1: [Subsistence, Overflow, Steady Hands, Compulsive Reloader]
+    perks1: [Subsistence, Overflow, Compulsive Reloader]
     perks2: [Adagio]
     masterworks: [Stability MW, Reload MW]
   extended_perks:

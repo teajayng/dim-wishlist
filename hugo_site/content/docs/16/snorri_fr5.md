@@ -18,7 +18,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/4114929480), [
 * **Collector's Edition Roll**
   * **Barrels**: `Arrowhead Brake`
   * **Magazines**: `Accelerated Coils`
-  * **Perks 1**: `Compulsive Reloader`, `Heating Up`, `Surplus`, `Steady Hands`
+  * **Perks 1**: `Compulsive Reloader`, `Heating Up`, `Surplus`
   * **Perks 2**: `Frenzy`, `Reservoir Burst`, `High-Impact Reserves`
   * **Masterworks**: `Stability MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
@@ -27,12 +27,12 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/4114929480), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 1.23% | 81 |
-| 👾👾👾 CE (+barrels) | 4.01% | 24 |
-| 👾👾👾 CE (+magazines) | 2.22% | 45 |
-| 👾👾👾 CE (*masterworks) | 2.47% | 40 |
-| 👾👾 (+barrels, +magazines) | 7.22% | 13 |
-| 👾👾 (+barrels, *masterworks) | 8.02% | 12 |
-| 👾👾 (+magazines, *masterworks) | 4.44% | 22 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 14.44% | 6 |
-| 👾 (*barrels, *magazines, *masterworks) | 33.33% | 3 |
+| 👾👾👾🌟 Collector's Edition | 0.93% | 108 |
+| 👾👾👾 CE (+barrels) | 3.01% | 33 |
+| 👾👾👾 CE (+magazines) | 1.67% | 60 |
+| 👾👾👾 CE (*masterworks) | 1.85% | 54 |
+| 👾👾 (+barrels, +magazines) | 5.42% | 18 |
+| 👾👾 (+barrels, *masterworks) | 6.02% | 16 |
+| 👾👾 (+magazines, *masterworks) | 3.33% | 30 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 10.83% | 9 |
+| 👾 (*barrels, *magazines, *masterworks) | 25.00% | 4 |

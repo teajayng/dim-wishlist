@@ -6,7 +6,7 @@
   base_perks: 
     barrels: [Corkscrew Rifling]
     magazines: [Tactical Mag]
-    perks1: [Subsistence, Perpetual Motion, Steady Hands]
+    perks1: [Subsistence, Perpetual Motion]
     perks2: [Frenzy, Adrenaline Junkie]
     masterworks: [Range MW, Stability MW, Reload MW]
   extended_perks:

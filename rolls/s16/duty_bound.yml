@@ -20,7 +20,7 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Tactical Mag]
-    perks1: [Zen Moment, Steady Hands, Compulsive Reloader]
+    perks1: [Zen Moment, Compulsive Reloader]
     perks2: [Rampage]
     masterworks: [Stability MW, Reload MW]
   extended_perks:
@@ -34,7 +34,7 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Tactical Mag]
-    perks1: [Zen Moment, Steady Hands, Compulsive Reloader]
+    perks1: [Zen Moment, Compulsive Reloader]
     perks2: [Frenzy]
     masterworks: [Stability MW, Reload MW]
   extended_perks:

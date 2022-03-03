@@ -20,7 +20,7 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]
-    perks1: [Compulsive Reloader, Subsistence, Shoot to Loot, Steady Hands]
+    perks1: [Compulsive Reloader, Subsistence, Shoot to Loot]
     perks2: [Frenzy]
     masterworks: [Stability MW, Reload MW]
   extended_perks:
@@ -34,7 +34,7 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]
-    perks1: [Compulsive Reloader, Subsistence, Steady Hands]
+    perks1: [Compulsive Reloader, Subsistence]
     perks2: [Headstone, Demolitionist]
     masterworks: [Stability MW, Reload MW]
   extended_perks:
