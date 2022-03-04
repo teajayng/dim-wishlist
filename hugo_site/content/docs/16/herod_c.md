@@ -18,7 +18,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1788603939), [
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `Ricochet Rounds`
-  * **Perks 1**: `Fourth Time's the Charm`, `Compulsive Reloader`, `Auto-Loading Holster`
+  * **Perks 1**: `Fourth Time's the Charm`, `Auto-Loading Holster`
   * **Perks 2**: `Vorpal`
   * **Masterworks**: `Stability MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
@@ -27,15 +27,15 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1788603939), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 0.06% | 1728 |
-| 👾👾👾 CE (+barrels) | 0.19% | 531 |
-| 👾👾👾 CE (+magazines) | 0.15% | 672 |
-| 👾👾👾 CE (*masterworks) | 0.12% | 864 |
-| 👾👾 (+barrels, +magazines) | 0.48% | 206 |
-| 👾👾 (+barrels, *masterworks) | 0.38% | 265 |
-| 👾👾 (+magazines, *masterworks) | 0.30% | 336 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 0.97% | 103 |
-| 👾 (*barrels, *magazines, *masterworks) | 2.08% | 48 |
+| 👾👾👾🌟 Collector's Edition | 0.04% | 2592 |
+| 👾👾👾 CE (+barrels) | 0.13% | 797 |
+| 👾👾👾 CE (+magazines) | 0.10% | 1008 |
+| 👾👾👾 CE (*masterworks) | 0.08% | 1296 |
+| 👾👾 (+barrels, +magazines) | 0.32% | 310 |
+| 👾👾 (+barrels, *masterworks) | 0.25% | 398 |
+| 👾👾 (+magazines, *masterworks) | 0.20% | 504 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 0.64% | 155 |
+| 👾 (*barrels, *magazines, *masterworks) | 1.39% | 72 |
 
 ## 👾 General Purpose, Frenzy (pve)
 
@@ -44,7 +44,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1788603939), [
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `Ricochet Rounds`
-  * **Perks 1**: `Compulsive Reloader`, `Subsistence`, `Shoot to Loot`
+  * **Perks 1**: `Subsistence`, `Shoot to Loot`
   * **Perks 2**: `Frenzy`
   * **Masterworks**: `Stability MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
@@ -53,15 +53,15 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1788603939), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 0.06% | 1728 |
-| 👾👾👾 CE (+barrels) | 0.19% | 531 |
-| 👾👾👾 CE (+magazines) | 0.15% | 672 |
-| 👾👾👾 CE (*masterworks) | 0.12% | 864 |
-| 👾👾 (+barrels, +magazines) | 0.48% | 206 |
-| 👾👾 (+barrels, *masterworks) | 0.38% | 265 |
-| 👾👾 (+magazines, *masterworks) | 0.30% | 336 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 0.97% | 103 |
-| 👾 (*barrels, *magazines, *masterworks) | 2.08% | 48 |
+| 👾👾👾🌟 Collector's Edition | 0.04% | 2592 |
+| 👾👾👾 CE (+barrels) | 0.13% | 797 |
+| 👾👾👾 CE (+magazines) | 0.10% | 1008 |
+| 👾👾👾 CE (*masterworks) | 0.08% | 1296 |
+| 👾👾 (+barrels, +magazines) | 0.32% | 310 |
+| 👾👾 (+barrels, *masterworks) | 0.25% | 398 |
+| 👾👾 (+magazines, *masterworks) | 0.20% | 504 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 0.64% | 155 |
+| 👾 (*barrels, *magazines, *masterworks) | 1.39% | 72 |
 
 ## 👾 General Purpose (pve)
 
@@ -70,7 +70,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1788603939), [
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `Ricochet Rounds`
-  * **Perks 1**: `Compulsive Reloader`, `Subsistence`
+  * **Perks 1**: `Subsistence`
   * **Perks 2**: `Headstone`, `Demolitionist`
   * **Masterworks**: `Stability MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
@@ -79,12 +79,12 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1788603939), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 0.08% | 1296 |
-| 👾👾👾 CE (+barrels) | 0.25% | 398 |
-| 👾👾👾 CE (+magazines) | 0.20% | 504 |
-| 👾👾👾 CE (*masterworks) | 0.15% | 648 |
-| 👾👾 (+barrels, +magazines) | 0.64% | 155 |
-| 👾👾 (+barrels, *masterworks) | 0.50% | 199 |
-| 👾👾 (+magazines, *masterworks) | 0.40% | 252 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 1.29% | 77 |
-| 👾 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
+| 👾👾👾🌟 Collector's Edition | 0.04% | 2592 |
+| 👾👾👾 CE (+barrels) | 0.13% | 797 |
+| 👾👾👾 CE (+magazines) | 0.10% | 1008 |
+| 👾👾👾 CE (*masterworks) | 0.08% | 1296 |
+| 👾👾 (+barrels, +magazines) | 0.32% | 310 |
+| 👾👾 (+barrels, *masterworks) | 0.25% | 398 |
+| 👾👾 (+magazines, *masterworks) | 0.20% | 504 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 0.64% | 155 |
+| 👾 (*barrels, *magazines, *masterworks) | 1.39% | 72 |

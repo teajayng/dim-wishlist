@@ -6,7 +6,7 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Tactical Mag]
-    perks1: [Overflow, Rapid Hit, Compulsive Reloader]
+    perks1: [Overflow, Rapid Hit]
     perks2: [Firing Line, Focused Fury]
     masterworks: [Range MW, Reload MW]
   extended_perks:

@@ -22,7 +22,7 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Tactical Mag]
-    perks1: [Rapid Hit, Compulsive Reloader]
+    perks1: [Rapid Hit]
     perks2: [Timed Payload]
     masterworks: [Range MW, Stability MW, Reload MW]
   extended_perks:
@@ -37,7 +37,7 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Accurized Rounds, Tactical Mag]
-    perks1: [Rapid Hit, Compulsive Reloader, Eye of the Storm]
+    perks1: [Rapid Hit, Eye of the Storm]
     perks2: [Timed Payload, Rangefinder, Opening Shot, Vorpal]
     masterworks: [Range MW, Reload MW]
   extended_perks:

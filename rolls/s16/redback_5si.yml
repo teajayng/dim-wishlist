@@ -6,7 +6,7 @@
   base_perks:
     barrels: [Fluted Barrel]
     magazines: [Tactical Mag, Appended Mag]
-    perks1: [Subsistence, Compulsive Reloader, Perpetual Motion]
+    perks1: [Subsistence, Perpetual Motion]
     perks2: [Rampage]
     masterworks: [Range MW, Reload MW]
   extended_perks:

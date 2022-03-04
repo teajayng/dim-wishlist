@@ -6,7 +6,7 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Extended Mag, Appended Mag]
-    perks1: [Triple Tap, Compulsive Reloader]
+    perks1: [Triple Tap]
     perks2: [Demolitionist, Focused Fury, Frenzy, Firing Line]
     masterworks: [Range MW, Reload MW]
   extended_perks:

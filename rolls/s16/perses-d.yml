@@ -6,7 +6,7 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Tactical Mag]
-    perks1: [Rapid Hit, Shoot to Loot, Compulsive Reloader]
+    perks1: [Rapid Hit, Shoot to Loot]
     perks2: [Explosive Payload, Vorpal, Headstone]
     masterworks: [Stability MW, Reload MW]
   extended_perks:

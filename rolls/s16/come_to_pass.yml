@@ -6,7 +6,7 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Tactical Mag]
-    perks1: [Triple Tap, Compulsive Reloader]
+    perks1: [Triple Tap]
     perks2: [Wellspring, Turnabout, One for All, Golden Tricorn]
     masterworks: [Stability MW, Reload MW]
   extended_perks:

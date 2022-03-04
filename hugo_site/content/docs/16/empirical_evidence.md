@@ -18,7 +18,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2607304614), [
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `Ricochet Rounds`
-  * **Perks 1**: `Compulsive Reloader`
+  * **Perks 1**: `Perpetual Motion`
   * **Perks 2**: `Wellspring`, `Unrelenting`, `Swashbuckler`
   * **Masterworks**: `Range MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)

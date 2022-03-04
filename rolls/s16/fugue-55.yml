@@ -20,7 +20,7 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Extended Mag, Appended Mag]
-    perks1: [Lead from Gold, Compulsive Reloader]
+    perks1: [Lead from Gold]
     perks2: [Vorpal, Firing Line, Focused Fury]
     masterworks: [Range MW, Reload MW]
   extended_perks:

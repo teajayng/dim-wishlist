@@ -18,7 +18,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1019000888), [
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `Tactical Mag`
-  * **Perks 1**: `Rapid Hit`, `Shoot to Loot`, `Compulsive Reloader`
+  * **Perks 1**: `Rapid Hit`, `Shoot to Loot`
   * **Perks 2**: `Explosive Payload`, `Vorpal`, `Headstone`
   * **Masterworks**: `Stability MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
@@ -27,12 +27,12 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1019000888), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 0.79% | 126 |
-| 👾👾👾 CE (+barrels) | 2.08% | 48 |
-| 👾👾👾 CE (+magazines) | 2.38% | 42 |
-| 👾👾👾 CE (*masterworks) | 1.59% | 63 |
-| 👾👾 (+barrels, +magazines) | 6.25% | 16 |
-| 👾👾 (+barrels, *masterworks) | 4.17% | 24 |
-| 👾👾 (+magazines, *masterworks) | 4.76% | 21 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 12.50% | 8 |
-| 👾 (*barrels, *magazines, *masterworks) | 25.00% | 4 |
+| 👾👾👾🌟 Collector's Edition | 0.53% | 189 |
+| 👾👾👾 CE (+barrels) | 1.39% | 72 |
+| 👾👾👾 CE (+magazines) | 1.59% | 63 |
+| 👾👾👾 CE (*masterworks) | 1.06% | 94 |
+| 👾👾 (+barrels, +magazines) | 4.17% | 24 |
+| 👾👾 (+barrels, *masterworks) | 2.78% | 36 |
+| 👾👾 (+magazines, *masterworks) | 3.17% | 31 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 8.33% | 12 |
+| 👾 (*barrels, *magazines, *masterworks) | 16.67% | 6 |

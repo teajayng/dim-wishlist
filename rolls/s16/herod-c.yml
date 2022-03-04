@@ -6,7 +6,7 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]
-    perks1: [Fourth Time's the Charm, Compulsive Reloader, Auto-Loading Holster]
+    perks1: [Fourth Time's the Charm, Auto-Loading Holster]
     perks2: [Vorpal]
     masterworks: [Stability MW, Reload MW]
   extended_perks:
@@ -20,7 +20,7 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]
-    perks1: [Compulsive Reloader, Subsistence, Shoot to Loot]
+    perks1: [Subsistence, Shoot to Loot]
     perks2: [Frenzy]
     masterworks: [Stability MW, Reload MW]
   extended_perks:
@@ -34,7 +34,7 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]
-    perks1: [Compulsive Reloader, Subsistence]
+    perks1: [Subsistence]
     perks2: [Headstone, Demolitionist]
     masterworks: [Stability MW, Reload MW]
   extended_perks:

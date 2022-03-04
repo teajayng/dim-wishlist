@@ -6,7 +6,7 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]
-    perks1: [Overflow, Compulsive Reloader, Auto-Loading Holster]
+    perks1: [Overflow, Auto-Loading Holster]
     perks2: [Vorpal]
     masterworks: [Stability MW, Reload MW]
   extended_perks:
@@ -20,7 +20,7 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]
-    perks1: [Subsistence, Overflow, Compulsive Reloader]
+    perks1: [Subsistence, Overflow]
     perks2: [Headstone]
     masterworks: [Stability MW, Reload MW]
   extended_perks:
@@ -34,7 +34,7 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]
-    perks1: [Subsistence, Overflow, Compulsive Reloader]
+    perks1: [Subsistence, Overflow]
     perks2: [Adagio]
     masterworks: [Stability MW, Reload MW]
   extended_perks:
