@@ -6,7 +6,21 @@
   base_perks: 
     barrels: [Volatile Launch, Confined Launch]
     magazines: [Spike Grenades, Alloy Casing, Proximity Grenades]
-    perks1: [Clown Cartridge, Ensemble]
+    perks1: [Clown Cartridge, Field Prep, Ensemble]
+    perks2: [Chain Reaction, Danger Zone]
+    masterworks: [Velocity MW, Reload MW]
+  extended_perks:
+    barrels: [Volatile Launch, Confined Launch, Countermass, Hard Launch]
+    magazines: [Spike Grenades, Alloy Casing, Proximity Grenades, Augmented Drum, High-Explosive Ordnance]
+- 
+  weapon_id: 2721157927
+  name: General Purpose, Pulse Monitor
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks: 
+    barrels: [Volatile Launch, Confined Launch]
+    magazines: [Pulse Monitor]
+    perks1: [Danger Zone, Wellspring, Chain Reaction]
     perks2: [Chain Reaction, Wellspring]
     masterworks: [Velocity MW, Reload MW]
   extended_perks:
