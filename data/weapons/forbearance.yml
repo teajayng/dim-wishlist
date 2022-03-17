@@ -1,0 +1,10 @@
+name: Forbearance
+item_id: 613334176
+drop_id: 16
+traits:
+  barrels:     {t: 7, c: 2}
+  magazines:   {t: 2, c: 2}
+  perks1:      {t: 7, c: 1}
+  perks2:      {t: 7, c: 1}
+  masterworks: {t: 5, c: 1}
+overview: 

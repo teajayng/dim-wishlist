@@ -1,0 +1,10 @@
+name: Cataclysmic
+item_id: 999767358
+drop_id: 16
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 6, c: 2}
+  perks1:      {t: 7, c: 1}
+  perks2:      {t: 7, c: 1}
+  masterworks: {t: 5, c: 1}
+overview: 

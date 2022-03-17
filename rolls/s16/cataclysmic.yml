@@ -1,0 +1,14 @@
+-
+  weapon_id: 999767358
+  name: General Purpose, FTTC
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Accelerated Coils]
+    perks1: [Fourth Time's the Charm]
+    perks2: [Focused Fury, Clown Cartridge, High-Impact Reserves]
+    masterworks: [Stability MW, Reload MW, Charge MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator]
+    magazines: [Accelerated Coils, Enhanced Battery]
