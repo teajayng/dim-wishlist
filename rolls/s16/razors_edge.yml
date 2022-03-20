@@ -20,7 +20,7 @@
   base_perks:
     barrels: [Jagged Edge]
     magazines: [Swordmaster's Guard]
-    perks1: [Unrelenting, Duelist's Trance, Wellspring]
+    perks1: [Unrelenting, Relentless Strikes, Duelist's Trance, Wellspring]
     perks2: [Chain Reaction]
     masterworks: [Impact MW]
   extended_perks:
