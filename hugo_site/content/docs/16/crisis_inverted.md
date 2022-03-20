@@ -19,7 +19,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2888266564), [
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `Ricochet Rounds`
   * **Perks 1**: `Outlaw`, `Rapid Hit`, `Demolitionist`, `Shoot to Loot`
-  * **Perks 2**: `Kill Clip`, `Vorpal`, `Focused Fury`
+  * **Perks 2**: `Kill Clip`, `Vorpal`, `Focused Fury`, `Adrenaline Junkie`
   * **Masterworks**: `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
   * **Barrels**: `Corkscrew Rifling`, `Arrowhead Brake`, `Chambered Compensator`, `Extended Barrel`, `Fluted Barrel`
@@ -27,15 +27,41 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2888266564), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 0.13% | 792 |
-| 👾👾👾 CE (+barrels) | 0.47% | 211 |
-| 👾👾👾 CE (+magazines) | 0.32% | 308 |
-| 👾👾👾 CE (*masterworks) | 0.51% | 198 |
-| 👾👾 (+barrels, +magazines) | 1.22% | 82 |
-| 👾👾 (+barrels, *masterworks) | 1.89% | 52 |
-| 👾👾 (+magazines, *masterworks) | 1.30% | 77 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 4.87% | 20 |
-| 👾 (*barrels, *magazines, *masterworks) | 9.09% | 10 |
+| 👾👾👾🌟 Collector's Edition | 0.17% | 594 |
+| 👾👾👾 CE (+barrels) | 0.63% | 158 |
+| 👾👾👾 CE (+magazines) | 0.43% | 231 |
+| 👾👾👾 CE (*masterworks) | 0.67% | 148 |
+| 👾👾 (+barrels, +magazines) | 1.62% | 61 |
+| 👾👾 (+barrels, *masterworks) | 2.53% | 39 |
+| 👾👾 (+magazines, *masterworks) | 1.73% | 57 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 6.49% | 15 |
+| 👾 (*barrels, *magazines, *masterworks) | 12.12% | 8 |
+
+## 👾 General Purpose, Demo/Adrenaline Junkie (pve)
+
+
+
+* **Collector's Edition Roll**
+  * **Barrels**: `Corkscrew Rifling`
+  * **Magazines**: `Ricochet Rounds`
+  * **Perks 1**: `Demolitionist`
+  * **Perks 2**: `Adrenaline Junkie`
+  * **Masterworks**: `Reload MW`
+* **Extended Perks** (referred to with a '+' below)
+  * **Barrels**: `Corkscrew Rifling`, `Arrowhead Brake`, `Chambered Compensator`, `Extended Barrel`, `Fluted Barrel`
+  * **Magazines**: `High-Caliber Rounds`, `Appended Mag`, `Flared Magwell`
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 👾👾👾🌟 Collector's Edition | 0.01% | 9504 |
+| 👾👾👾 CE (+barrels) | 0.04% | 2534 |
+| 👾👾👾 CE (+magazines) | 0.03% | 3696 |
+| 👾👾👾 CE (*masterworks) | 0.04% | 2376 |
+| 👾👾 (+barrels, +magazines) | 0.10% | 985 |
+| 👾👾 (+barrels, *masterworks) | 0.16% | 633 |
+| 👾👾 (+magazines, *masterworks) | 0.11% | 924 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 0.41% | 246 |
+| 👾 (*barrels, *magazines, *masterworks) | 0.76% | 132 |
 
 ## 💥 General Purpose (pvp)
 
@@ -44,8 +70,8 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2888266564), [
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `High-Caliber Rounds`
-  * **Perks 1**: `Outlaw`, `Rapid Hit`, `Moving Target`
-  * **Perks 2**: `Rangefinder`, `Kill Clip`, `Opening Shot`, `Snapshot Sights`, `Vorpal`
+  * **Perks 1**: `Outlaw`, `Rapid Hit`, `Demolitionist`, `Moving Target`, `Heating Up`
+  * **Perks 2**: `Rangefinder`, `Kill Clip`, `Opening Shot`, `Snapshot Sights`, `Vorpal`, `Adrenaline Junkie`
   * **Masterworks**: `Range MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
   * **Barrels**: `Corkscrew Rifling`, `Arrowhead Brake`, `Chambered Compensator`, `Extended Barrel`, `Fluted Barrel`, `Hammer-Forged Rifling`
@@ -53,12 +79,12 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2888266564), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 💥💥💥🌟 Collector's Edition | 0.32% | 316 |
-| 💥💥💥 CE (+barrels) | 1.30% | 76 |
-| 💥💥💥 CE (+magazines) | 0.99% | 100 |
-| 💥💥💥 CE (*masterworks) | 0.63% | 158 |
-| 💥💥 (+barrels, +magazines) | 4.09% | 24 |
-| 💥💥 (+barrels, *masterworks) | 2.60% | 38 |
-| 💥💥 (+magazines, *masterworks) | 1.98% | 50 |
-| 💥💥 (+barrels, +magazines, *masterworks) | 8.18% | 12 |
-| 💥 (*barrels, *magazines, *masterworks) | 11.36% | 8 |
+| 💥💥💥🌟 Collector's Edition | 0.63% | 158 |
+| 💥💥💥 CE (+barrels) | 2.60% | 38 |
+| 💥💥💥 CE (+magazines) | 1.98% | 50 |
+| 💥💥💥 CE (*masterworks) | 1.26% | 79 |
+| 💥💥 (+barrels, +magazines) | 8.18% | 12 |
+| 💥💥 (+barrels, *masterworks) | 5.21% | 19 |
+| 💥💥 (+magazines, *masterworks) | 3.97% | 25 |
+| 💥💥 (+barrels, +magazines, *masterworks) | 16.37% | 6 |
+| 💥 (*barrels, *magazines, *masterworks) | 22.73% | 4 |

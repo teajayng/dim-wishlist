@@ -8,7 +8,22 @@
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]
     perks1: [Outlaw, Rapid Hit, Demolitionist, Shoot to Loot]
-    perks2: [Kill Clip, Vorpal, Focused Fury]
+    perks2: [Kill Clip, Vorpal, Focused Fury, Adrenaline Junkie]
+    masterworks: [Reload MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel]
+    magazines: [High-Caliber Rounds, Appended Mag, Flared Magwell]
+-
+  weapon_id: 2888266564
+  name: General Purpose, Demo/Adrenaline Junkie
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: 
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Ricochet Rounds]
+    perks1: [Demolitionist]
+    perks2: [Adrenaline Junkie]
     masterworks: [Reload MW]
   extended_perks:
     barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel]
@@ -22,8 +37,8 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [High-Caliber Rounds]
-    perks1: [Outlaw, Rapid Hit, Moving Target]
-    perks2: [Rangefinder, Kill Clip, Opening Shot, Snapshot Sights, Vorpal]
+    perks1: [Outlaw, Rapid Hit, Demolitionist, Moving Target, Heating Up]
+    perks2: [Rangefinder, Kill Clip, Opening Shot, Snapshot Sights, Vorpal, Adrenaline Junkie]
     masterworks: [Range MW, Reload MW]
   extended_perks:
     barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Hammer-Forged Rifling]
