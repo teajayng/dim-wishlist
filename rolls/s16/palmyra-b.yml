@@ -6,8 +6,8 @@
   base_perks:
     barrels: [Confined Launch, Volatile Launch]
     magazines: [Alloy Casing, Impact Casing]
-    perks1: [Impulse Amplifier, Auto-Loading Holster]
-    perks2: [Lasting Impression, Explosive Light, Frenzy]
+    perks1: [Impulse Amplifier, Auto-Loading Holster, Enhanced Auto-Loading Holster]
+    perks2: [Lasting Impression, Explosive Light, Frenzy, Enhanced Lasting Impression, Enhanced Explosive Light]
     masterworks: [Reload MW, Velocity MW]
   extended_perks:
     barrels: [Confined Launch, Countermass, Volatile Launch]

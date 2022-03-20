@@ -18,8 +18,8 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/3489657138), [
 * **Collector's Edition Roll**
   * **Barrels**: `Confined Launch`, `Volatile Launch`
   * **Magazines**: `Alloy Casing`, `Impact Casing`
-  * **Perks 1**: `Impulse Amplifier`, `Auto-Loading Holster`
-  * **Perks 2**: `Lasting Impression`, `Explosive Light`, `Frenzy`
+  * **Perks 1**: `Impulse Amplifier`, `Auto-Loading Holster`, `Enhanced Auto-Loading Holster`
+  * **Perks 2**: `Lasting Impression`, `Explosive Light`, `Frenzy`, `Enhanced Lasting Impression`, `Enhanced Explosive Light`
   * **Masterworks**: `Reload MW`, `Velocity MW`
 * **Extended Perks** (referred to with a '+' below)
   * **Barrels**: `Confined Launch`, `Countermass`, `Volatile Launch`
@@ -27,15 +27,15 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/3489657138), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 2.44% | 40 |
-| 👾👾👾 CE (+barrels) | 3.33% | 30 |
-| 👾👾👾 CE (+magazines) | 3.49% | 28 |
-| 👾👾👾 CE (*masterworks) | 6.11% | 16 |
-| 👾👾 (+barrels, +magazines) | 4.76% | 21 |
-| 👾👾 (+barrels, *masterworks) | 8.33% | 12 |
-| 👾👾 (+magazines, *masterworks) | 8.73% | 11 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 11.90% | 8 |
-| 👾 (*barrels, *magazines, *masterworks) | 16.67% | 6 |
+| 👾👾👾🌟 Collector's Edition | 6.11% | 16 |
+| 👾👾👾 CE (+barrels) | 8.33% | 12 |
+| 👾👾👾 CE (+magazines) | 8.73% | 11 |
+| 👾👾👾 CE (*masterworks) | 15.28% | 6 |
+| 👾👾 (+barrels, +magazines) | 11.90% | 8 |
+| 👾👾 (+barrels, *masterworks) | 20.83% | 4 |
+| 👾👾 (+magazines, *masterworks) | 21.83% | 4 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 29.76% | 3 |
+| 👾 (*barrels, *magazines, *masterworks) | 41.67% | 2 |
 
 ## 👾 Add Clear (pve)
 
