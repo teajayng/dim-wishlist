@@ -11,4 +11,18 @@
     masterworks: [Range MW, Reload MW]
   extended_perks:
     barrels: [Fluted Barrel, Corkscrew Rifling]
-    magazines: [Extended Mag, Tactical Mag, Appended Mag, Flared Magwell]
+    magazines: [Extended Mag, Tactical Mag, Appended Mag]
+-
+  weapon_id: 4067556514
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Accurized Rounds]
+    perks1: [Overflow]
+    perks2: [Snapshot Sights, Quickdraw]
+    masterworks: [Handling MW]
+  extended_perks:
+    barrels: [Fluted Barrel]
+    magazines: [Accurized Rounds, Extended Mag, Tactical Mag, Appended Mag]

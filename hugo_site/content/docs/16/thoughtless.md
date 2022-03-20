@@ -23,16 +23,42 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/4067556514), [
   * **Masterworks**: `Range MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
   * **Barrels**: `Fluted Barrel`, `Corkscrew Rifling`
-  * **Magazines**: `Extended Mag`, `Tactical Mag`, `Appended Mag`, `Flared Magwell`
+  * **Magazines**: `Extended Mag`, `Tactical Mag`, `Appended Mag`
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 👾👾👾🌟 Collector's Edition | 0.35% | 283 |
 | 👾👾👾 CE (+barrels) | 0.66% | 151 |
-| 👾👾👾 CE (+magazines) | 1.06% | 94 |
+| 👾👾👾 CE (+magazines) | 0.88% | 113 |
 | 👾👾👾 CE (*masterworks) | 0.71% | 141 |
-| 👾👾 (+barrels, +magazines) | 1.98% | 50 |
+| 👾👾 (+barrels, +magazines) | 1.65% | 60 |
 | 👾👾 (+barrels, *masterworks) | 1.32% | 75 |
-| 👾👾 (+magazines, *masterworks) | 2.12% | 47 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 3.97% | 25 |
+| 👾👾 (+magazines, *masterworks) | 1.76% | 56 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 3.31% | 30 |
 | 👾 (*barrels, *magazines, *masterworks) | 11.11% | 9 |
+
+## 💥 General Purpose (pvp)
+
+
+
+* **Collector's Edition Roll**
+  * **Barrels**: `Corkscrew Rifling`
+  * **Magazines**: `Accurized Rounds`
+  * **Perks 1**: `Overflow`
+  * **Perks 2**: `Snapshot Sights`, `Quickdraw`
+  * **Masterworks**: `Handling MW`
+* **Extended Perks** (referred to with a '+' below)
+  * **Barrels**: `Fluted Barrel`
+  * **Magazines**: `Accurized Rounds`, `Extended Mag`, `Tactical Mag`, `Appended Mag`
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 💥💥💥🌟 Collector's Edition | 0.09% | 1134 |
+| 💥💥💥 CE (+barrels) | 0.09% | 1134 |
+| 💥💥💥 CE (+magazines) | 0.26% | 378 |
+| 💥💥💥 CE (*masterworks) | 0.35% | 283 |
+| 💥💥 (+barrels, +magazines) | 0.26% | 378 |
+| 💥💥 (+barrels, *masterworks) | 0.35% | 283 |
+| 💥💥 (+magazines, *masterworks) | 1.06% | 94 |
+| 💥💥 (+barrels, +magazines, *masterworks) | 1.06% | 94 |
+| 💥 (*barrels, *magazines, *masterworks) | 5.56% | 18 |
