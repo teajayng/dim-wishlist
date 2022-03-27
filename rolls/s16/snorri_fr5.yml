@@ -6,9 +6,24 @@
   base_perks:
     barrels: [Arrowhead Brake]
     magazines: [Accelerated Coils]
-    perks1: [Heating Up, Surplus]
-    perks2: [Frenzy, Reservoir Burst, High-Impact Reserves]
+    perks1: [Heating Up, Surplus, Firmly Planted]
+    perks2: [Frenzy, High-Impact Reserves, Successful Warm-Up]
     masterworks: [Stability MW, Reload MW]
   extended_perks:
     barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Extended Barrel]
     magazines: [Accelerated Coils, Enhanced Battery]
+-
+  weapon_id: 4114929480
+  name: General Purpose, Reservoir Burst
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [Accelerated Coils]
+    perks1: [Firmly Planted, Compulsive Reloader, Surplus]
+    perks2: [Reservoir Burst]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Extended Barrel]
+    magazines: [Accelerated Coils, Enhanced Battery]
+    
