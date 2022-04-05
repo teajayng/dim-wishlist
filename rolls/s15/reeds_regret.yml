@@ -6,8 +6,36 @@
   base_perks:
     barrels: [Corkscrew Rifling, Arrowhead Brake]
     magazines: [Accelerated Coils]
-    perks1: [Clown Cartridge, Triple Tap]
-    perks2: [Vorpal, Firing Line]
+    perks1: [Triple Tap]
+    perks2: [Focused Fury, Firing Line, Vorpal]
+    masterworks: [Range MW, Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Full Bore, Hammer-Forged Rifling, Fluted Barrel]
+    magazines: [Projection Fuse, Enhanced Battery]
+-
+  weapon_id: 1399243961
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake]
+    magazines: [Accelerated Coils]
+    perks1: [Clown Cartridge]
+    perks2: [Focused Fury, Firing Line, Vorpal]
+    masterworks: [Range MW, Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Full Bore, Hammer-Forged Rifling, Fluted Barrel]
+    magazines: [Projection Fuse, Enhanced Battery]
+-
+  weapon_id: 1399243961
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  base_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake]
+    magazines: [Accelerated Coils]
+    perks1: [Auto-Loading Holster]
+    perks2: [Focused Fury, Firing Line, Vorpal]
     masterworks: [Range MW, Stability MW, Reload MW]
   extended_perks:
     barrels: [Full Bore, Hammer-Forged Rifling, Fluted Barrel]
