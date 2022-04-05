@@ -30,6 +30,21 @@
     magazines: [High-Caliber Rounds, Appended Mag, Flared Magwell]
 -
   weapon_id: 2888266564
+  name: General Purpose, Adaptive Munitions
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: 
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Ricochet Rounds]
+    perks1: [Demolitionist, Rapid Hit, Outlaw]
+    perks2: [Adaptive Munitions]
+    masterworks: [Reload MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel]
+    magazines: [High-Caliber Rounds, Appended Mag, Flared Magwell, Armor-Piercing Rounds]
+-
+  weapon_id: 2888266564
   name: General Purpose
   ratings_emoji: 💥
   tags: ['pvp']

@@ -63,6 +63,32 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2888266564), [
 | 👾👾 (+barrels, +magazines, *masterworks) | 0.41% | 246 |
 | 👾 (*barrels, *magazines, *masterworks) | 0.76% | 132 |
 
+## 👾 General Purpose, Adaptive Munitions (pve)
+
+
+
+* **Collector's Edition Roll**
+  * **Barrels**: `Corkscrew Rifling`
+  * **Magazines**: `Ricochet Rounds`
+  * **Perks 1**: `Demolitionist`, `Rapid Hit`, `Outlaw`
+  * **Perks 2**: `Adaptive Munitions`
+  * **Masterworks**: `Reload MW`
+* **Extended Perks** (referred to with a '+' below)
+  * **Barrels**: `Corkscrew Rifling`, `Arrowhead Brake`, `Chambered Compensator`, `Extended Barrel`, `Fluted Barrel`
+  * **Magazines**: `High-Caliber Rounds`, `Appended Mag`, `Flared Magwell`, `Armor-Piercing Rounds`
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 👾👾👾🌟 Collector's Edition | 0.03% | 3168 |
+| 👾👾👾 CE (+barrels) | 0.12% | 844 |
+| 👾👾👾 CE (+magazines) | 0.10% | 1008 |
+| 👾👾👾 CE (*masterworks) | 0.13% | 792 |
+| 👾👾 (+barrels, +magazines) | 0.37% | 268 |
+| 👾👾 (+barrels, *masterworks) | 0.47% | 211 |
+| 👾👾 (+magazines, *masterworks) | 0.40% | 252 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 1.49% | 67 |
+| 👾 (*barrels, *magazines, *masterworks) | 2.27% | 44 |
+
 ## 💥 General Purpose (pvp)
 
 
