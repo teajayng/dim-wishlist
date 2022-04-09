@@ -3,6 +3,8 @@
   name: General Purpose
   ratings_emoji: ⭐️
   tags: ['pve']
+  overview: >
+    ...
   base_perks: 
     barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator]
     magazines: [Tactical Mag, Appended Mag]
@@ -18,6 +20,8 @@
   name: General Purpose
   ratings_emoji: 💥
   tags: ['pvp']
+  overview: >
+    ...
   base_perks: 
     barrels: [Corkscrew Rifling, Hammer-Forged Rifling, Smallbore,
       Fluted Barrel]

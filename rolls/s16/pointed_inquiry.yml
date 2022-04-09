@@ -1,8 +1,10 @@
 -
-  weapon_id: 1107446438
+  weapon_id: 297296830
   name: General Purpose
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]

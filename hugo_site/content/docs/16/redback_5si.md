@@ -9,11 +9,19 @@ toc: true
 
 For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1687353095), [light.gg](https://www.light.gg/db/items/1687353095) or [destinytracker.com](https://destinytracker.com/destiny-2/db/items/1687353095).
 
+...
 
+## PvP Thoughts
+
+...
+
+## PvE Thoughts
+
+...
 
 ## 👾 General Purpose (pve)
 
-
+...
 
 * **Collector's Edition Roll**
   * **Barrels**: `Fluted Barrel`

@@ -3,6 +3,8 @@
   name: GM
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Tactical Mag]
@@ -17,6 +19,8 @@
   name: General Purpose, Adrenaline Junkie
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Tactical Mag]
@@ -31,6 +35,8 @@
   name: General Purpose
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Tactical Mag]

@@ -9,11 +9,19 @@ toc: true
 
 For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/4225322581), [light.gg](https://www.light.gg/db/items/4225322581) or [destinytracker.com](https://destinytracker.com/destiny-2/db/items/4225322581).
 
+...
 
+## PvP Thoughts
+
+...
+
+## PvE Thoughts
+
+...
 
 ## 👾 General Purpose (pve)
 
-
+...
 
 * **Collector's Edition Roll**
   * **Barrels**: `Rifled Barrel`
@@ -39,7 +47,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/4225322581), [
 
 ## 👾 General Purpose, One-Two Punch (pve)
 
-
+...
 
 * **Collector's Edition Roll**
   * **Barrels**: `Rifled Barrel`
@@ -65,7 +73,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/4225322581), [
 
 ## 💥 General Purpose (pvp)
 
-
+...
 
 * **Collector's Edition Roll**
   * **Barrels**: `Full Choke`

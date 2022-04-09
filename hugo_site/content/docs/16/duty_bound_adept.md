@@ -9,11 +9,19 @@ toc: true
 
 For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1135050595), [light.gg](https://www.light.gg/db/items/1135050595) or [destinytracker.com](https://destinytracker.com/destiny-2/db/items/1135050595).
 
+...
 
+## PvP Thoughts
+
+...
+
+## PvE Thoughts
+
+...
 
 ## 👾 General Purpose, Vorpal (pve)
 
-
+...
 
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
@@ -39,7 +47,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1135050595), [
 
 ## 👾 General Purpose, Rampage (pve)
 
-
+...
 
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
@@ -65,7 +73,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1135050595), [
 
 ## 👾 General Purpose, Frenzy (pve)
 
-
+...
 
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
@@ -91,7 +99,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1135050595), [
 
 ## 👾 Test (pve)
 
-
+...
 
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`

@@ -3,6 +3,8 @@
   name: Add Control
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Volatile Launch, Hard Launch]
     magazines: [Blinding Grenades]

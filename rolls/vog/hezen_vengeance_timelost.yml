@@ -83,7 +83,8 @@
   name: Burst Damage
   ratings_emoji: ⭐️
   tags: ['pve']
-  overview: 
+  overview: >
+    ...
   base_perks:
     barrels: [Hard Launch, Quick Launch]
     magazines: [High-Velocity Rounds]

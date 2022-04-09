@@ -1,8 +1,10 @@
 -
-  weapon_id: 1107446438
+  weapon_id: 2638190703
   name: General Purpose
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]
@@ -13,10 +15,12 @@
     barrels: [Corkscrew Rifling, Arrowhead Brake, Fluted Barrel, Chambered Compensator]
     magazines: [High-Caliber Rounds, Appended Mag, Flared Magwell, Light Mag]
 -
-  weapon_id: 1107446438
+  weapon_id: 2638190703
   name: Test
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]

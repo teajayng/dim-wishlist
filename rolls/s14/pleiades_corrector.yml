@@ -3,6 +3,8 @@
   name: General Purpose
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks: 
     barrels: [Arrowhead Brake, Corkscrew Rifling, Fluted Barrel]
     magazines: [Extended Mag, Ricochet Rounds, Appended Mag, Alloy Magazine]

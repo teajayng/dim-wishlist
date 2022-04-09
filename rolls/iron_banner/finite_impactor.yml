@@ -3,7 +3,8 @@
   name: General Purpose
   ratings_emoji: 👾
   tags: ['pve']
-  overview: 
+  overview: >
+    ...
   base_perks:
     barrels: [Fastdraw HCS, Steadyhand HCS]
     magazines: [Ricochet Rounds]
@@ -18,7 +19,8 @@
   name: General Purpose
   ratings_emoji: 💥
   tags: ['pvp']
-  overview: 
+  overview: >
+    ...
   base_perks:
     barrels: [Fastdraw HCS, Steadyhand HCS, Truesight HCS]
     magazines: [Ricochet Rounds, High-Caliber Rounds]

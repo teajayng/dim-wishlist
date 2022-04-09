@@ -3,6 +3,8 @@
   name: General Purpose
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling, Arrowhead Brake, Fluted Barrel]
     magazines: [Tactical Mag]
@@ -17,6 +19,8 @@
   name: General Purpose
   ratings_emoji: 💥
   tags: ['pvp']
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling, Arrowhead Brake, Fluted Barrel, Hammer-Forged Rifling]
     magazines: [Accurized Rounds]

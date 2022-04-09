@@ -3,7 +3,8 @@
   name: Vorpal
   ratings_emoji: ⭐️
   tags: ['pve']
-  overview: 
+  overview: >
+    ...
   base_perks:
     barrels: [Rifled Barrel]
     magazines: [Tactical Mag, Appended Mag]
@@ -18,7 +19,8 @@
   name: One-Two Punch
   ratings_emoji: ⭐️
   tags: ['pve']
-  overview: 
+  overview: >
+    ...
   base_perks:
     barrels: [Rifled Barrel]
     magazines: [Tactical Mag, Appended Mag]
@@ -33,7 +35,8 @@
   name: Felwinter's Lie (Fake)
   ratings_emoji: 💥
   tags: ['pvp']
-  overview: 
+  overview: >
+    ...
   base_perks:
     barrels: [Full Choke]
     magazines: [Accurized Rounds, Assault Mag]

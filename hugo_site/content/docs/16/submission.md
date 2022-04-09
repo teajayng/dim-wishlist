@@ -9,11 +9,19 @@ toc: true
 
 For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/3886416794), [light.gg](https://www.light.gg/db/items/3886416794) or [destinytracker.com](https://destinytracker.com/destiny-2/db/items/3886416794).
 
+...
 
+## PvP Thoughts
+
+...
+
+## PvE Thoughts
+
+...
 
 ## 👾 General Purpose, Overflow (pve)
 
-
+...
 
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
@@ -39,7 +47,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/3886416794), [
 
 ## 👾 General Purpose, Subsistence (pve)
 
-
+...
 
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
@@ -65,7 +73,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/3886416794), [
 
 ## 👾 General Purpose, Perpetual Motion (pve)
 
-
+...
 
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`

@@ -3,7 +3,8 @@
   name: General Purpose
   ratings_emoji: 👾
   tags: ['pve']
-  overview: 
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]
@@ -18,7 +19,8 @@
   name: General Purpose, Demo/Adrenaline Junkie
   ratings_emoji: 👾
   tags: ['pve']
-  overview: 
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]
@@ -33,7 +35,8 @@
   name: General Purpose, Adaptive Munitions
   ratings_emoji: 👾
   tags: ['pve']
-  overview: 
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]
@@ -48,7 +51,8 @@
   name: General Purpose
   ratings_emoji: 💥
   tags: ['pvp']
-  overview: 
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [High-Caliber Rounds]

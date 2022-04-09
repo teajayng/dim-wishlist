@@ -21,6 +21,8 @@
   name: General Purpose
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling, Hammer-Forged Rifling, Fluted 
       Barrel, Arrowhead Brake, Chambered Compensator]
@@ -36,6 +38,8 @@
   name: General Purpose
   ratings_emoji: 💥
   tags: ['pvp']
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling, Hammer-Forged Rifling, Fluted 
       Barrel, Arrowhead Brake, Chambered Compensator]

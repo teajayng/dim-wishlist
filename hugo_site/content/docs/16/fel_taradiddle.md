@@ -9,11 +9,19 @@ toc: true
 
 For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1399109800), [light.gg](https://www.light.gg/db/items/1399109800) or [destinytracker.com](https://destinytracker.com/destiny-2/db/items/1399109800).
 
+...
 
+## PvP Thoughts
+
+...
+
+## PvE Thoughts
+
+...
 
 ## 👾 General Purpose (pve)
 
-
+...
 
 * **Collector's Edition Roll**
   * **Barrels**: `Polymer String`, `Tactile String`
@@ -39,7 +47,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1399109800), [
 
 ## 👾 Test (pve)
 
-
+...
 
 * **Collector's Edition Roll**
   * **Barrels**: `Polymer String`, `Tactile String`

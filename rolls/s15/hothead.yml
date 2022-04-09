@@ -3,6 +3,8 @@
   name: Burst
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Hard Launch, Quick Launch]
     magazines: [Alloy Casing, Impact Casing]

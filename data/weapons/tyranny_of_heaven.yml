@@ -7,3 +7,9 @@ traits:
   perks1:      {t: 3, c: 1}
   perks2:      {t: 3, c: 1}
   masterworks: {t: 5, c: 1}
+overview: >
+  ...
+pvp_comments: >
+  ...
+pve_comments: >
+  ...

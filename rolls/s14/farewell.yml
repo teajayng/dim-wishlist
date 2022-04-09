@@ -39,6 +39,8 @@
   name: General Purpose
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Hammer-Forged Rifling]
     magazines: [Accurized Rounds]

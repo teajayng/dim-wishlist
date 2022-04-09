@@ -94,6 +94,8 @@
   name: Add Control
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Hard Launch]
     magazines: [Blinding Grenades]

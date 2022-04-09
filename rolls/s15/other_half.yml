@@ -3,6 +3,8 @@
   name: General Purpose
   ratings_emoji: 💥
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Jagged Edge]
     magazines: [Swordmaster's Guard]

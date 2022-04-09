@@ -3,6 +3,8 @@
   name: General Purpose
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Arrowhead Brake]
     magazines: [Accelerated Coils]
@@ -17,6 +19,8 @@
   name: General Purpose, Reservoir Burst
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Arrowhead Brake]
     magazines: [Accelerated Coils]

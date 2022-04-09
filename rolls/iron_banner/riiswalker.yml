@@ -3,7 +3,8 @@
   name: General Purpose
   ratings_emoji: 💥
   tags: ['pvp']
-  overview: 
+  overview: >
+    ...
   base_perks:
     barrels: [Full Choke, Rifled Barrel]
     magazines: [Assault Mag]

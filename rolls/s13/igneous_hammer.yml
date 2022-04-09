@@ -3,6 +3,8 @@
   name: General Purpose
   ratings_emoji: 💥
   tags: ['pvp']
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling, Hammer-Forged Rifling]
     magazines: [High-Caliber Rounds, Ricochet Rounds, Light Mag]      

@@ -9,11 +9,19 @@ toc: true
 
 For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/613334176), [light.gg](https://www.light.gg/db/items/613334176) or [destinytracker.com](https://destinytracker.com/destiny-2/db/items/613334176).
 
+...
 
+## PvP Thoughts
+
+...
+
+## PvE Thoughts
+
+...
 
 ## 👾 General Purpose (pve)
 
-
+...
 
 * **Collector's Edition Roll**
   * **Barrels**: `Volatile Launch`, `Confined Launch`, `Countermass`

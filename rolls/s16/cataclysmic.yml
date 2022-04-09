@@ -3,6 +3,8 @@
   name: General Purpose, FTTC
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Accelerated Coils]

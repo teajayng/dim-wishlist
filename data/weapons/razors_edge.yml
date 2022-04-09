@@ -1,4 +1,4 @@
-name: Razor's Edege
+name: Razor's Edge
 item_id: 1796949035
 drop_id: ib
 traits:
@@ -7,4 +7,9 @@ traits:
   perks1:      {t: 6, c: 1}
   perks2:      {t: 6, c: 1}
   masterworks: {t: 1, c: 1}
-overview: 
+overview: >
+  ...
+pvp_comments: >
+  ...
+pve_comments: >
+  ...

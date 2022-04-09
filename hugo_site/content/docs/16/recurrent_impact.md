@@ -9,11 +9,19 @@ toc: true
 
 For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1572896086), [light.gg](https://www.light.gg/db/items/1572896086) or [destinytracker.com](https://destinytracker.com/destiny-2/db/items/1572896086).
 
+...
 
+## PvP Thoughts
+
+...
+
+## PvE Thoughts
+
+...
 
 ## 👾 General Purpose (pve)
 
-
+...
 
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`

@@ -58,6 +58,8 @@
   name: High Range
   ratings_emoji: 🏔
   tags: ['pvp']
+  overview: >
+    ...
   base_perks: 
     barrels: [Corkscrew Rifling, Fluted Barrel, Polygonal Rifling]
     magazines: [Ricochet Rounds, High-Caliber Rounds]

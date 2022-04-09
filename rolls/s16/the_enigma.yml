@@ -3,6 +3,8 @@
   name: General Purpose
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Low-Impedance Windings]
     magazines: [Alloy Magazine]
@@ -17,6 +19,8 @@
   name: General Purpose, Kill Clip
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Low-Impedance Windings]
     magazines: [Alloy Magazine]
@@ -31,6 +35,8 @@
   name: Test
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Low-Impedance Windings]
     magazines: [Alloy Magazine]

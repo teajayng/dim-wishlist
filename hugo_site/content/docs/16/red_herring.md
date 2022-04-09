@@ -9,11 +9,19 @@ toc: true
 
 For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/3175851496), [light.gg](https://www.light.gg/db/items/3175851496) or [destinytracker.com](https://destinytracker.com/destiny-2/db/items/3175851496).
 
+...
 
+## PvP Thoughts
+
+...
+
+## PvE Thoughts
+
+...
 
 ## 👾 Burst (pve)
 
-
+...
 
 * **Collector's Edition Roll**
   * **Barrels**: `Confined Launch`, `Countermass`, `Volatile Launch`
@@ -39,7 +47,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/3175851496), [
 
 ## 👾 Add Clear (pve)
 
-
+...
 
 * **Collector's Edition Roll**
   * **Barrels**: `Confined Launch`, `Countermass`, `Volatile Launch`

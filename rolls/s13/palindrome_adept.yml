@@ -3,6 +3,8 @@
   name: General Purpose
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Hammer-Forged Rifling, Smallbore]
     magazines: [Ricochet Rounds, Light Mag, Flared Magwell]      
@@ -17,6 +19,8 @@
   name: General Purpose
   ratings_emoji: 💥
   tags: ['pvp']
+  overview: >
+    ...
   base_perks:
     barrels: [Hammer-Forged Rifling, Smallbore]
     magazines: [Ricochet Rounds, High-Caliber Rounds, Light Mag, Flared Magwell]      

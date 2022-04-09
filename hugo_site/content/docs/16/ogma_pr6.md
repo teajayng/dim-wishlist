@@ -9,11 +9,19 @@ toc: true
 
 For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2342054803), [light.gg](https://www.light.gg/db/items/2342054803) or [destinytracker.com](https://destinytracker.com/destiny-2/db/items/2342054803).
 
+...
 
+## PvP Thoughts
+
+...
+
+## PvE Thoughts
+
+...
 
 ## 👾 GM (pve)
 
-
+...
 
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
@@ -39,7 +47,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2342054803), [
 
 ## 👾 General Purpose, Adrenaline Junkie (pve)
 
-
+...
 
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
@@ -65,7 +73,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2342054803), [
 
 ## 👾 General Purpose (pve)
 
-
+...
 
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`

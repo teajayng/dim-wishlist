@@ -9,11 +9,19 @@ toc: true
 
 For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2721157927), [light.gg](https://www.light.gg/db/items/2721157927) or [destinytracker.com](https://destinytracker.com/destiny-2/db/items/2721157927).
 
+...
 
+## PvP Thoughts
+
+...
+
+## PvE Thoughts
+
+...
 
 ## 👾 General Purpose (pve)
 
-
+...
 
 * **Collector's Edition Roll**
   * **Barrels**: `Volatile Launch`, `Confined Launch`
@@ -39,7 +47,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2721157927), [
 
 ## 👾 General Purpose, Pulse Monitor (pve)
 
-
+...
 
 * **Collector's Edition Roll**
   * **Barrels**: `Volatile Launch`, `Confined Launch`

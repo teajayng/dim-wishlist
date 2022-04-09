@@ -3,6 +3,8 @@
   name: General Purpose
   ratings_emoji: 💥
   tags: ['pvp']
+  overview: >
+    ...
   base_perks:
     barrels: [Fluted Barrel]
     magazines: [Accurized Rounds]

@@ -3,6 +3,8 @@
   name: GMs
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Agile Bowstring, Tactile String, Elastic String]
     magazines: [Carbon Arrow Shaft, Compact Arrow Shaft]
@@ -17,6 +19,8 @@
   name: Test
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Agile Bowstring, Tactile String, Elastic String]
     magazines: [Carbon Arrow Shaft, Compact Arrow Shaft]

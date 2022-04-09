@@ -3,6 +3,8 @@
   name: GM Nightfalls
   ratings_emoji: ⭐️
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling, Fluted Barrel]
     magazines: [Appended Mag, Extended Mag]
@@ -17,6 +19,8 @@
   name: General Purpose
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling, Fluted Barrel]
     magazines: [Ricochet Rounds, Flared Magwell]
@@ -31,6 +35,8 @@
   name: General Purpose
   ratings_emoji: 💥
   tags: ['pvp']
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling]
     magazines: [High-Caliber Rounds, Flared Magwell]

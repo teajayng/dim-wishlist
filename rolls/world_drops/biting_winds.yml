@@ -3,6 +3,8 @@
   name: GM Nightfalls
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Elastic String, Tactile String, Agile Bowstring]
     magazines: [Fiberglass Arrow Shaft, Compact Arrow Shaft, Carbon Arrow Shaft]

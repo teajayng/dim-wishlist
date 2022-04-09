@@ -3,6 +3,8 @@
   name: Burst
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Confined Launch, Countermass, Volatile Launch]
     magazines: [Alloy Casing, High-Velocity Rounds, Impact Casing]
@@ -17,6 +19,8 @@
   name: Add Clear
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Confined Launch, Countermass, Volatile Launch]
     magazines: [Alloy Casing, High-Velocity Rounds, Impact Casing]

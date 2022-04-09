@@ -45,7 +45,7 @@
   name: Still Life
   ratings_emoji: 🍊
   tags: ['pve']
-  overview:
+  overview: >
     Both `Subsistence` and `Rampage` form the core of this roll.
   base_perks:
     barrels: [Hammer-Forged Rifling]
@@ -61,7 +61,7 @@
   name: Captured Moment
   ratings_emoji: 🖼
   tags: ['pve']
-  overview:
+  overview: >
     Same as the roll above, centered around `Feeding Frenzy` and `Kill
     Clip`.
   base_perks:
@@ -78,7 +78,8 @@
   name: General Purpose, Rampage
   ratings_emoji: 👾
   tags: ['pve']
-  overview: 
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling, Fluted Barrel]
     magazines: [Tactical Mag, Appended Mag]
@@ -93,7 +94,8 @@
   name: General Purpose, Kill Clip
   ratings_emoji: 👾
   tags: ['pve']
-  overview: 
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling, Fluted Barrel]
     magazines: [Tactical Mag, Appended Mag]
@@ -108,7 +110,8 @@
   name: General Purpose, Adrenaline Junkie
   ratings_emoji: 👾
   tags: ['pve']
-  overview: 
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling, Fluted Barrel]
     magazines: [Tactical Mag, Flared Magwell]

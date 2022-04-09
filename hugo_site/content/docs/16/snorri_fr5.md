@@ -9,11 +9,19 @@ toc: true
 
 For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/4114929480), [light.gg](https://www.light.gg/db/items/4114929480) or [destinytracker.com](https://destinytracker.com/destiny-2/db/items/4114929480).
 
+...
 
+## PvP Thoughts
+
+...
+
+## PvE Thoughts
+
+...
 
 ## 👾 General Purpose (pve)
 
-
+...
 
 * **Collector's Edition Roll**
   * **Barrels**: `Arrowhead Brake`
@@ -39,7 +47,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/4114929480), [
 
 ## 👾 General Purpose, Reservoir Burst (pve)
 
-
+...
 
 * **Collector's Edition Roll**
   * **Barrels**: `Arrowhead Brake`

@@ -3,6 +3,8 @@
   name: High-Tier PvE
   ratings_emoji: ⭐️
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Tactical Mag, Appended Mag]
@@ -17,6 +19,8 @@
   name: General Purpose - Rampage
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Tactical Mag, Appended Mag]
@@ -31,6 +35,8 @@
   name: General Purpose - Kill Clip
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Tactical Mag, Appended Mag]

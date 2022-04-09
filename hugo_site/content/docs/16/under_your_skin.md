@@ -9,11 +9,19 @@ toc: true
 
 For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/232928045), [light.gg](https://www.light.gg/db/items/232928045) or [destinytracker.com](https://destinytracker.com/destiny-2/db/items/232928045).
 
+...
 
+## PvP Thoughts
+
+...
+
+## PvE Thoughts
+
+...
 
 ## 👾 GMs (pve)
 
-
+...
 
 * **Collector's Edition Roll**
   * **Barrels**: `Agile Bowstring`, `Tactile String`, `Elastic String`
@@ -39,7 +47,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/232928045), [l
 
 ## 👾 Test (pve)
 
-
+...
 
 * **Collector's Edition Roll**
   * **Barrels**: `Agile Bowstring`, `Tactile String`, `Elastic String`

@@ -3,6 +3,8 @@
   name: General Purpose
   ratings_emoji: 💥
   tags: ['pvp']
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling, Extended Barrel, Fluted Barrel]
     magazines: [Projection Fuse, Particle Repeater]

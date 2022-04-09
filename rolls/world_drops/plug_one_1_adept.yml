@@ -3,7 +3,8 @@
   name: General Purpose
   ratings_emoji: 👾
   tags: ['pve']
-  overview: 
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling, Hammer-Forged Rifling]
     magazines: [Accelerated Coils]

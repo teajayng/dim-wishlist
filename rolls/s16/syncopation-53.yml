@@ -3,6 +3,8 @@
   name: General Purpose, Headstone
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]
@@ -17,6 +19,8 @@
   name: General Purpose, Vorpal
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]
@@ -31,6 +35,8 @@
   name: General Purpose, Frenzy
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]

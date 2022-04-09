@@ -3,6 +3,8 @@
   name: Add Control
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Hard Launch, Quick Launch]
     magazines: [Blinding Grenades]
@@ -20,6 +22,8 @@
   name: Damage
   ratings_emoji: 💥
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Hard Launch, Quick Launch]
     magazines: [Spike Grenades]
@@ -37,6 +41,8 @@
   name: General Purpose
   ratings_emoji: ⭐️
   tags: ['pvp']
+  overview: >
+    ...
   base_perks:
     barrels: []
     magazines: [Spike Grenades]

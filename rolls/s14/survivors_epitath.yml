@@ -3,6 +3,8 @@
   name: General Purpose
   ratings_emoji: ⭐️
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling, Hammer-Forged Rifling]
     magazines: [Ricochet Rounds]
@@ -19,6 +21,8 @@
   name: General Purpose
   ratings_emoji: ⭐️
   tags: ['pvp']
+  overview: >
+    ...
   base_perks:
     barrels: [Corkscrew Rifling, Hammer-Forged Rifling]
     magazines: [High-Caliber Rounds]

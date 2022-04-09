@@ -3,6 +3,8 @@
   name: General Purpose
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks: 
     barrels: [Volatile Launch, Confined Launch]
     magazines: [Spike Grenades, Alloy Casing, Proximity Grenades]
@@ -17,6 +19,8 @@
   name: General Purpose, Pulse Monitor
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks: 
     barrels: [Volatile Launch, Confined Launch]
     magazines: [Pulse Monitor]

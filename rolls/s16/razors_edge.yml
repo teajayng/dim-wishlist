@@ -3,6 +3,8 @@
   name: General Purpose, Frenzy
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Jagged Edge]
     magazines: [Swordmaster's Guard]
@@ -17,6 +19,8 @@
   name: General Purpose, Chain Reaction
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Jagged Edge]
     magazines: [Swordmaster's Guard]
@@ -31,6 +35,8 @@
   name: General Purpose, Assassin's Blade
   ratings_emoji: 👾
   tags: ['pve']
+  overview: >
+    ...
   base_perks:
     barrels: [Jagged Edge]
     magazines: [Swordmaster's Guard]
