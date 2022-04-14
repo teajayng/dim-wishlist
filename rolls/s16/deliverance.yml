@@ -6,13 +6,13 @@
   overview: >
     ...
   base_perks:
-    barrels: [Corkscrew Rifling]
+    barrels: [Smallbore]
     magazines: [Accelerated Coils]
     perks1: [Demolitionist]
     perks2: [Successful Warm-Up, Adrenaline Junkie, Tap the Trigger]
     masterworks: [Range MW, Stability MW, Reload MW, Charge MW]
   extended_perks:
-    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator]
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Smallbore]
     magazines: [Accelerated Coils, Enhanced Battery, Particle Repeater, Projection Fuse]
 -
   weapon_id: 768621510
@@ -22,13 +22,13 @@
   overview: >
     ...
   base_perks:
-    barrels: [Corkscrew Rifling]
+    barrels: [Smallbore]
     magazines: [Accelerated Coils]
     perks1: [Perpetual Motion]
     perks2: [Chill Clip, Successful Warm-Up, Tap the Trigger, Adrenaline Junkie]
     masterworks: [Range MW, Stability MW, Reload MW, Charge MW]
   extended_perks:
-    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator]
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Smallbore]
     magazines: [Accelerated Coils, Enhanced Battery, Particle Repeater, Projection Fuse]
 -
   weapon_id: 768621510
@@ -38,13 +38,13 @@
   overview: >
     ...
   base_perks:
-    barrels: [Corkscrew Rifling]
+    barrels: [Smallbore]
     magazines: [Accelerated Coils]
     perks1: [Cornered]
     perks2: [Successful Warm-Up, Tap the Trigger, Adrenaline Junkie]
     masterworks: [Range MW, Stability MW, Reload MW, Charge MW]
   extended_perks:
-    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator]
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Smallbore]
     magazines: [Accelerated Coils, Enhanced Battery, Particle Repeater, Projection Fuse]
 -
   weapon_id: 768621510
@@ -54,11 +54,11 @@
   overview: >
     ...
   base_perks:
-    barrels: [Corkscrew Rifling]
+    barrels: [Smallbore]
     magazines: [Accelerated Coils]
     perks1: [Heating Up]
     perks2: [Successful Warm-Up, Tap the Trigger, Adrenaline Junkie]
     masterworks: [Range MW, Stability MW, Reload MW, Charge MW]
   extended_perks:
-    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator]
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Smallbore]
     magazines: [Accelerated Coils, Enhanced Battery, Particle Repeater, Projection Fuse]
