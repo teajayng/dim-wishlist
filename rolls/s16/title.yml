@@ -1,0 +1,32 @@
+- 
+  weapon_id: 3785032442
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks: 
+    barrels: [Corkscrew Rifling]
+    magazines: [High-Caliber Rounds]
+    perks1: [Grave Robber, Perpetual Motion]
+    perks2: [Swashbuckler]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Corkscrew Rifling]
+    magazines: [High-Caliber Rounds, Light Mag, Ricochet Rounds]
+- 
+  weapon_id: 3785032442
+  name: General Purpose, SFA/OFA
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks: 
+    barrels: [Corkscrew Rifling]
+    magazines: [High-Caliber Rounds]
+    perks1: [Stats for All]
+    perks2: [One for All]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Corkscrew Rifling]
+    magazines: [High-Caliber Rounds, Light Mag, Ricochet Rounds]
