@@ -7,7 +7,7 @@ menu:
 toc: true
 ---
 
-For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/3785032442), [light.gg](https://www.light.gg/db/items/3785032442) or [destinytracker.com](https://destinytracker.com/destiny-2/db/items/3785032442).
+For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/294129361), [light.gg](https://www.light.gg/db/items/294129361) or [destinytracker.com](https://destinytracker.com/destiny-2/db/items/294129361).
 
 ...
 
