@@ -24,7 +24,7 @@
   base_perks: 
     barrels: [Corkscrew Rifling]
     magazines: [High-Caliber Rounds]
-    perks1: [Dynamic Sway Reduction, Threat Detector]
+    perks1: [Dynamic Sway Reduction, Threat Detector, Perpetual Motion]
     perks2: [Swashbuckler]
     masterworks: [Stability MW, Reload MW]
   extended_perks:

@@ -52,7 +52,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/294129361), [l
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `High-Caliber Rounds`
-  * **Perks 1**: `Dynamic Sway Reduction`, `Threat Detector`
+  * **Perks 1**: `Dynamic Sway Reduction`, `Threat Detector`, `Perpetual Motion`
   * **Perks 2**: `Swashbuckler`
   * **Masterworks**: `Stability MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
@@ -61,15 +61,15 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/294129361), [l
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 0.11% | 882 |
-| 👾👾👾 CE (+barrels) | 0.21% | 470 |
-| 👾👾👾 CE (+magazines) | 0.29% | 343 |
-| 👾👾👾 CE (*masterworks) | 0.23% | 441 |
-| 👾👾 (+barrels, +magazines) | 0.55% | 182 |
-| 👾👾 (+barrels, *masterworks) | 0.43% | 235 |
-| 👾👾 (+magazines, *masterworks) | 0.58% | 171 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 1.09% | 91 |
-| 👾 (*barrels, *magazines, *masterworks) | 4.08% | 24 |
+| 👾👾👾🌟 Collector's Edition | 0.17% | 588 |
+| 👾👾👾 CE (+barrels) | 0.32% | 313 |
+| 👾👾👾 CE (+magazines) | 0.44% | 228 |
+| 👾👾👾 CE (*masterworks) | 0.34% | 294 |
+| 👾👾 (+barrels, +magazines) | 0.82% | 121 |
+| 👾👾 (+barrels, *masterworks) | 0.64% | 156 |
+| 👾👾 (+magazines, *masterworks) | 0.87% | 114 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 1.64% | 60 |
+| 👾 (*barrels, *magazines, *masterworks) | 6.12% | 16 |
 
 ## 👾 General Purpose (pve)
 
