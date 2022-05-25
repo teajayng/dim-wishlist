@@ -1,0 +1,16 @@
+-
+  weapon_id: 254636484
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Ballistic Tuning]
+    magazines: [Appended Mag]
+    perks1: [Demolitionist, Impulse Amplifier, Genesis]
+    perks2: [Vorpal, Unstoppable Force, Frenzy, Turnabout, Adaptive Munitions]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Ballistic Tuning, Supercooled Accelerator, Tempered Truss Rod]
+    magazines: [Appended Mag, Extended Mag, Alloy Magazine, Accurized Rounds]

@@ -6,11 +6,11 @@
   overview: >
     ...
   base_perks:
-    barrels: [Hard Launch, Quick Launch]
+    barrels: [Volatile Launch, Confined Launch]
     magazines: [Alloy Casing, Impact Casing]
-    perks1: [Tracking Module, Field Prep, Demolitionist]
-    perks2: [Clown Cartridge, Vorpal, Explosive Light]
+    perks1: [Auto-Loading Holster, Tracking Module, Field Prep, Demolitionist]
+    perks2: [Clown Cartridge, Vorpal, Explosive Light, Lasting Impression]
     masterworks: [Reload MW, Velocity MW]
   extended_perks:
-    barrels: []
-    magazines: [High-Velocity Rounds, Black Powder]
+    barrels: [Volatile Launch, Confined Launch, Hard Launch, Quick Launch, Linear Compensator, Countermass]
+    magazines: [Alloy Casing, Impact Casing, High-Velocity Rounds, Black Powder]

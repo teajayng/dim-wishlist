@@ -1,0 +1,15 @@
+name: Dead Weight
+item_id: 3738678140
+drop_id: 17
+traits:
+  barrels:     {t: 6, c: 2}
+  magazines:   {t: 6, c: 2}
+  perks1:      {t: 12, c: 1}
+  perks2:      {t: 12, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  ...
+pvp_comments: >
+  ...
+pve_comments: >
+  ...

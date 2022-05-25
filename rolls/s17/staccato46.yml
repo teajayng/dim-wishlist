@@ -1,0 +1,16 @@
+-
+  weapon_id: 4019668921
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Tactical Mag]
+    perks1: [Triple Tap, Outlaw, Well-Rounded, Shoot to Loot]
+    perks2: [Explosive Payload, Incandescent, Rampage, Adaptive Munitions]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Corkscrew Rifling, Chambered Compensator]
+    magazines: [Tactical Mag, Appended Mag, Accurized Rounds, Flared Magwell]

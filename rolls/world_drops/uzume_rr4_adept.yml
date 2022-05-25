@@ -12,7 +12,7 @@
     perks2: [Vorpal, Explosive Payload, High-Impact Reserves]
     masterworks: [Range MW, Reload MW]
   extended_perks:
-    barrels: [Fluted Barrel, Arrowhead Brake]
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Fluted Barrel, Extended Barrel]
     magazines: [Alloy Magazine]
 -
   weapon_id: 852228780
@@ -28,5 +28,5 @@
     perks2: [Explosive Payload]
     masterworks: [Range MW, Reload MW]
   extended_perks:
-    barrels: [Fluted Barrel, Arrowhead Brake]
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Fluted Barrel, Extended Barrel]
     magazines: []

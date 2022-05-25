@@ -1,0 +1,32 @@
+-
+  weapon_id: 3107853529
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Ricochet Rounds]
+    perks1: [Snapshot, Surplus, No Distractions, Firmly Planted]
+    perks2: [Incandescent]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Fluted Barrel]
+    magazines: [Ricochet Rounds, High-Caliber Rounds, Armor-Piercing Rounds, Appended Mag]
+-
+  weapon_id: 3107853529
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [High-Caliber Rounds]
+    perks1: [Snapshot, Surplus, No Distractions, Firmly Planted]
+    perks2: [Moving Target, Quickdraw]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Fluted Barrel]
+    magazines: [Ricochet Rounds, High-Caliber Rounds, Appended Mag]

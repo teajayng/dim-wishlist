@@ -6,13 +6,13 @@
   overview: >
     ...
   base_perks:
-    barrels: [Polymer String, Tactile String]
+    barrels: [Agile Bowstring, Elastic String]
     magazines: [Carbon Arrow Shaft, Fiberglass Arrow Shaft]
     perks1: [Archer's Tempo, Shoot to Loot]
     perks2: [Explosive Head]
     masterworks: [Draw Time MW]
   extended_perks:
-    barrels: [Polymer String, Tactile String, Elastic String]
+    barrels: [Agile Bowstring, Elastic String, Tactile String, Flexible String]
     magazines: [Carbon Arrow Shaft, Fiberglass Arrow Shaft, Compact Arrow Shaft]
 -
   weapon_id: 1399109800
@@ -22,11 +22,11 @@
   overview: >
     ...
   base_perks:
-    barrels: [Polymer String, Tactile String]
+    barrels: [Agile Bowstring, Elastic String]
     magazines: [Carbon Arrow Shaft, Fiberglass Arrow Shaft]
     perks1: [Archer's Tempo]
     perks2: [Successful Warm-Up]
     masterworks: [Draw Time MW]
   extended_perks:
-    barrels: [Polymer String, Tactile String, Elastic String]
+    barrels: [Agile Bowstring, Elastic String, Tactile String, Flexible String]
     magazines: [Carbon Arrow Shaft, Fiberglass Arrow Shaft, Compact Arrow Shaft]

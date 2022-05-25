@@ -1,0 +1,16 @@
+-
+  weapon_id: 216983039
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Tactical Mag]
+    perks1: [Zen Moment, Perpetual Motion, Heating Up]
+    perks2: [Kill Clip, Frenzy, Vorpal]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator]
+    magazines: [Accurized Rounds, Tactical Mag, Appended Mag, Flared Magwell]

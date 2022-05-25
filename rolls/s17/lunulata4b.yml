@@ -1,0 +1,16 @@
+-
+  weapon_id: 2513965917
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Elastic String]
+    magazines: [Compact Arrow Shaft]
+    perks1: [Rangefinder, Shoot to Loot]
+    perks2: [Headstone, Adrenaline Junkie, Successful Warm-Up]
+    masterworks: [Draw Time MW]
+  extended_perks:
+    barrels: [Agile Bowstring, Elastic String, Tactile String, Flexible String]
+    magazines: [Carbon Arrow Shaft, Fiberglass Arrow Shaft, Compact Arrow Shaft]

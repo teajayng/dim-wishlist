@@ -1,0 +1,16 @@
+- 
+  weapon_id: 3738678140
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks: 
+    barrels: [Rifled Barrel]
+    magazines: [Tactical Mag]
+    perks1: [Feeding Frenzy, Perpetual Motion, Grave Robber, Auto-Loading Holster]
+    perks2: [Frenzy, One-Two Punch, Swashbuckler, Adrenaline Junkie, Demolitionist]
+    masterworks: [Range MW, Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Rifled Barrel]
+    magazines: [Tactical Mag, Appended Mag]
