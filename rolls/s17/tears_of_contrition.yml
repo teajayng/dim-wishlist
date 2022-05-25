@@ -8,8 +8,8 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Tactical Mag]
-    perks1: [Triple Tap, No Distractions, Well-Rounded, Perpetual Motion]
-    perks2: [Explosive Payload, Fourth Time's the Charm, Vorpal, Focused Fury]
+    perks1: [Triple Tap, No Distractions, Well-Rounded, Perpetual Motion, Auto-Loading Holster]
+    perks2: [Explosive Payload, Fourth Time's the Charm, Vorpal]
     masterworks: [Stability MW, Reload MW]
   extended_perks:
     barrels: [Arrowhead Brake, Corkscrew Rifling, Chambered Compensator]

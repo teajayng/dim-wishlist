@@ -8,8 +8,24 @@
   base_perks:
     barrels: [Smallbore]
     magazines: [Accelerated Coils]
-    perks1: [Perpetual Motion, Feeding Frenzy, Heating Up, Under Pressure]
-    perks2: [Successful Warm-Up, Chill Clip, Vorpal]
+    perks1: [Perpetual Motion, Feeding Frenzy, Auto-Loading Holster, Field Prep]
+    perks2: [Golden Tricorn, Frenzy, Chill Clip, Vorpal, Cornered, Successful Warm-Up]
+    masterworks: [Range MW, Stability MW, Reload MW, Charge MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Smallbore]
+    magazines: [Accelerated Coils, Enhanced Battery, Particle Repeater, Projection Fuse]
+-
+  weapon_id: 2715240478
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Smallbore]
+    magazines: [Accelerated Coils]
+    perks1: [Perpetual Motion, Heating Up, Under Pressure, Field Prep]
+    perks2: [Successful Warm-Up, Vorpal]
     masterworks: [Range MW, Stability MW, Reload MW, Charge MW]
   extended_perks:
     barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Smallbore]
