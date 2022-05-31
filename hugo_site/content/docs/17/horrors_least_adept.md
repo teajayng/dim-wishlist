@@ -26,8 +26,8 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1924276978), [
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `Tactical Mag`
-  * **Perks 1**: `Zen Moment`, `Perpetual Motion`, `Heating Up`
-  * **Perks 2**: `Kill Clip`, `Frenzy`, `Vorpal`
+  * **Perks 1**: `Perpetual Motion`
+  * **Perks 2**: `Kill Clip`, `Frenzy`
   * **Masterworks**: `Stability MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
   * **Barrels**: `Corkscrew Rifling`, `Arrowhead Brake`, `Chambered Compensator`
@@ -35,12 +35,38 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1924276978), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 0.79% | 126 |
-| 👾👾👾 CE (+barrels) | 2.08% | 48 |
-| 👾👾👾 CE (+magazines) | 2.38% | 42 |
-| 👾👾👾 CE (*masterworks) | 1.59% | 63 |
-| 👾👾 (+barrels, +magazines) | 6.25% | 16 |
-| 👾👾 (+barrels, *masterworks) | 4.17% | 24 |
-| 👾👾 (+magazines, *masterworks) | 4.76% | 21 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 12.50% | 8 |
-| 👾 (*barrels, *magazines, *masterworks) | 25.00% | 4 |
+| 👾👾👾🌟 Collector's Edition | 0.18% | 567 |
+| 👾👾👾 CE (+barrels) | 0.46% | 216 |
+| 👾👾👾 CE (+magazines) | 0.53% | 189 |
+| 👾👾👾 CE (*masterworks) | 0.35% | 283 |
+| 👾👾 (+barrels, +magazines) | 1.39% | 72 |
+| 👾👾 (+barrels, *masterworks) | 0.93% | 108 |
+| 👾👾 (+magazines, *masterworks) | 1.06% | 94 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 2.78% | 36 |
+| 👾 (*barrels, *magazines, *masterworks) | 5.56% | 18 |
+
+## 💥 General Purpose (pvp)
+
+...
+
+* **Collector's Edition Roll**
+  * **Barrels**: `Corkscrew Rifling`
+  * **Magazines**: `Tactical Mag`
+  * **Perks 1**: `Perpetual Motion`, `Zen Moment`
+  * **Perks 2**: `Kill Clip`, `Vorpal`
+  * **Masterworks**: `Stability MW`, `Reload MW`
+* **Extended Perks** (referred to with a '+' below)
+  * **Barrels**: `Corkscrew Rifling`, `Arrowhead Brake`, `Chambered Compensator`
+  * **Magazines**: `Accurized Rounds`, `Tactical Mag`, `Appended Mag`, `Flared Magwell`
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 💥💥💥🌟 Collector's Edition | 0.35% | 283 |
+| 💥💥💥 CE (+barrels) | 0.93% | 108 |
+| 💥💥💥 CE (+magazines) | 1.06% | 94 |
+| 💥💥💥 CE (*masterworks) | 0.71% | 141 |
+| 💥💥 (+barrels, +magazines) | 2.78% | 36 |
+| 💥💥 (+barrels, *masterworks) | 1.85% | 54 |
+| 💥💥 (+magazines, *masterworks) | 2.12% | 47 |
+| 💥💥 (+barrels, +magazines, *masterworks) | 5.56% | 18 |
+| 💥 (*barrels, *magazines, *masterworks) | 11.11% | 9 |

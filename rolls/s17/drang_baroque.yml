@@ -14,3 +14,19 @@
   extended_perks:
     barrels: [Arrowhead Brake, Corkscrew Rifling, Chambered Compensator, Extended Barrel]
     magazines: [Accurized Rounds, Tactical Mag, Appended Mag, Flared Magwell]
+-
+  weapon_id: 502356570
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Tactical Mag]
+    perks1: [Disruption Break, Moving Target, Eye of the Storm]
+    perks2: [Vorpal]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Corkscrew Rifling, Chambered Compensator, Extended Barrel]
+    magazines: [Accurized Rounds, Tactical Mag, Appended Mag, Flared Magwell]

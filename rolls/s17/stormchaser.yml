@@ -1,0 +1,16 @@
+-
+  weapon_id: 3652506829
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Accelerated Coils]
+    perks1: [Rapid Hit, Clown Cartridge, Auto-Loading Holster]
+    perks2: [Vorpal, Firing Line, Frenzy]
+    masterworks: [Stability MW, Reload MW, Charge MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator]
+    magazines: [Accelerated Coils, Enhanced Battery]

@@ -8,8 +8,24 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Tactical Mag]
-    perks1: [Zen Moment, Perpetual Motion, Heating Up]
-    perks2: [Kill Clip, Frenzy, Vorpal]
+    perks1: [Perpetual Motion]
+    perks2: [Kill Clip, Frenzy]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator]
+    magazines: [Accurized Rounds, Tactical Mag, Appended Mag, Flared Magwell]
+-
+  weapon_id: 1924276978
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Tactical Mag]
+    perks1: [Perpetual Motion, Zen Moment]
+    perks2: [Kill Clip, Vorpal]
     masterworks: [Stability MW, Reload MW]
   extended_perks:
     barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator]

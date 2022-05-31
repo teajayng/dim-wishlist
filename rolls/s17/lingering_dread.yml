@@ -1,0 +1,32 @@
+-
+  weapon_id: 2026087437
+  name: Add Control, Blinding
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Volatile Launch, Hard Launch, Quick Launch]
+    magazines: [Blinding Grenades]
+    perks1: [Auto-Loading Holster]
+    perks2: [Vorpal, Danger Zone, Chill Clip, Demolitionist]
+    masterworks: [Reload MW, Blast Radius MW]
+  extended_perks:
+    barrels: [Volatile Launch, Hard Launch, Quick Launch, Countermass]
+    magazines: [Blinding Grenades]
+-
+  weapon_id: 2026087437
+  name: Add Control, Damage
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Volatile Launch, Hard Launch, Quick Launch]
+    magazines: [Spike Grenades]
+    perks1: [Auto-Loading Holster, Ambitious Assassin]
+    perks2: [Vorpal, Chill Clip, Demolitionist]
+    masterworks: [Reload MW, Blast Radius MW]
+  extended_perks:
+    barrels: [Volatile Launch, Hard Launch, Quick Launch, Countermass]
+    magazines: [Spike Grenades]

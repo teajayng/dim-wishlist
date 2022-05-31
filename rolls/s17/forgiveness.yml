@@ -8,7 +8,7 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]
-    perks1: [Demolitionist, Subsistence, Well-Rounded, Moving Target]
+    perks1: [Demolitionist, Subsistence, Well-Rounded, Moving Target, Killing Wind, Air Assault]
     perks2: [Rapid Hit, Fragile Focus, Adrenaline Junkie]
     masterworks: [Range MW, Reload MW]
   extended_perks:

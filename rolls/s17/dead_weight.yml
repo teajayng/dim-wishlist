@@ -6,11 +6,11 @@
   overview: >
     ...
   base_perks: 
-    barrels: [Rifled Barrel]
+    barrels: [Rifled Barrel, Full Choke]
     magazines: [Tactical Mag]
-    perks1: [Feeding Frenzy, Perpetual Motion, Grave Robber, Auto-Loading Holster]
+    perks1: [Feeding Frenzy, Perpetual Motion, Grave Robber, Auto-Loading Holster, Subsistence, Surplus]
     perks2: [Frenzy, One-Two Punch, Swashbuckler, Adrenaline Junkie, Demolitionist]
     masterworks: [Range MW, Stability MW, Reload MW]
   extended_perks:
-    barrels: [Rifled Barrel]
+    barrels: [Rifled Barrel, Full Choke]
     magazines: [Tactical Mag, Appended Mag]

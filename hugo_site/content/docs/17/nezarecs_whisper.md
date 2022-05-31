@@ -26,8 +26,8 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/254636484), [l
 * **Collector's Edition Roll**
   * **Barrels**: `Ballistic Tuning`
   * **Magazines**: `Appended Mag`
-  * **Perks 1**: `Demolitionist`, `Impulse Amplifier`, `Genesis`
-  * **Perks 2**: `Vorpal`, `Unstoppable Force`, `Frenzy`, `Turnabout`, `Adaptive Munitions`
+  * **Perks 1**: `Impulse Amplifier`
+  * **Perks 2**: `Frenzy`
   * **Masterworks**: `Range MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
   * **Barrels**: `Ballistic Tuning`, `Supercooled Accelerator`, `Tempered Truss Rod`
@@ -35,12 +35,90 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/254636484), [l
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 2.31% | 43 |
-| 👾👾👾 CE (+barrels) | 5.56% | 17 |
-| 👾👾👾 CE (+magazines) | 6.48% | 15 |
-| 👾👾👾 CE (*masterworks) | 4.63% | 21 |
-| 👾👾 (+barrels, +magazines) | 15.56% | 6 |
-| 👾👾 (+barrels, *masterworks) | 11.11% | 8 |
-| 👾👾 (+magazines, *masterworks) | 12.96% | 7 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 31.11% | 3 |
-| 👾 (*barrels, *magazines, *masterworks) | 41.67% | 2 |
+| 👾👾👾🌟 Collector's Edition | 0.15% | 648 |
+| 👾👾👾 CE (+barrels) | 0.37% | 270 |
+| 👾👾👾 CE (+magazines) | 0.43% | 231 |
+| 👾👾👾 CE (*masterworks) | 0.31% | 324 |
+| 👾👾 (+barrels, +magazines) | 1.04% | 96 |
+| 👾👾 (+barrels, *masterworks) | 0.74% | 135 |
+| 👾👾 (+magazines, *masterworks) | 0.86% | 115 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 2.07% | 48 |
+| 👾 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
+
+## 👾 General Purpose (pve)
+
+...
+
+* **Collector's Edition Roll**
+  * **Barrels**: `Ballistic Tuning`
+  * **Magazines**: `Appended Mag`
+  * **Perks 1**: `Demolitionist`
+  * **Perks 2**: `Adrenaline Junkie`
+  * **Masterworks**: `Range MW`, `Reload MW`
+* **Extended Perks** (referred to with a '+' below)
+  * **Barrels**: `Ballistic Tuning`, `Supercooled Accelerator`, `Tempered Truss Rod`
+  * **Magazines**: `Appended Mag`, `Extended Mag`, `Alloy Magazine`, `Accurized Rounds`
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 👾👾👾🌟 Collector's Edition | 0.15% | 648 |
+| 👾👾👾 CE (+barrels) | 0.37% | 270 |
+| 👾👾👾 CE (+magazines) | 0.43% | 231 |
+| 👾👾👾 CE (*masterworks) | 0.31% | 324 |
+| 👾👾 (+barrels, +magazines) | 1.04% | 96 |
+| 👾👾 (+barrels, *masterworks) | 0.74% | 135 |
+| 👾👾 (+magazines, *masterworks) | 0.86% | 115 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 2.07% | 48 |
+| 👾 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
+
+## 👾 General Purpose (pve)
+
+...
+
+* **Collector's Edition Roll**
+  * **Barrels**: `Ballistic Tuning`
+  * **Magazines**: `Appended Mag`
+  * **Perks 1**: `Genesis`
+  * **Perks 2**: `Adaptive Munitions`
+  * **Masterworks**: `Range MW`, `Reload MW`
+* **Extended Perks** (referred to with a '+' below)
+  * **Barrels**: `Ballistic Tuning`, `Supercooled Accelerator`, `Tempered Truss Rod`
+  * **Magazines**: `Appended Mag`, `Extended Mag`, `Alloy Magazine`, `Accurized Rounds`
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 👾👾👾🌟 Collector's Edition | 0.15% | 648 |
+| 👾👾👾 CE (+barrels) | 0.37% | 270 |
+| 👾👾👾 CE (+magazines) | 0.43% | 231 |
+| 👾👾👾 CE (*masterworks) | 0.31% | 324 |
+| 👾👾 (+barrels, +magazines) | 1.04% | 96 |
+| 👾👾 (+barrels, *masterworks) | 0.74% | 135 |
+| 👾👾 (+magazines, *masterworks) | 0.86% | 115 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 2.07% | 48 |
+| 👾 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
+
+## 👾 General Purpose (pve)
+
+...
+
+* **Collector's Edition Roll**
+  * **Barrels**: `Ballistic Tuning`
+  * **Magazines**: `Appended Mag`
+  * **Perks 1**: `Tilting at Windmills`
+  * **Perks 2**: `Unstoppable Force`
+  * **Masterworks**: `Range MW`, `Reload MW`
+* **Extended Perks** (referred to with a '+' below)
+  * **Barrels**: `Ballistic Tuning`, `Supercooled Accelerator`, `Tempered Truss Rod`
+  * **Magazines**: `Appended Mag`, `Extended Mag`, `Alloy Magazine`, `Accurized Rounds`
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| 👾👾👾🌟 Collector's Edition | 0.15% | 648 |
+| 👾👾👾 CE (+barrels) | 0.37% | 270 |
+| 👾👾👾 CE (+magazines) | 0.43% | 231 |
+| 👾👾👾 CE (*masterworks) | 0.31% | 324 |
+| 👾👾 (+barrels, +magazines) | 1.04% | 96 |
+| 👾👾 (+barrels, *masterworks) | 0.74% | 135 |
+| 👾👾 (+magazines, *masterworks) | 0.86% | 115 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 2.07% | 48 |
+| 👾 (*barrels, *magazines, *masterworks) | 2.78% | 36 |

@@ -45,7 +45,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/933455006), [l
 | 👾👾 (+barrels, +magazines, *masterworks) | 7.49% | 13 |
 | 👾 (*barrels, *magazines, *masterworks) | 11.11% | 9 |
 
-## 👾 General Purpose (pve)
+## 👾 General Purpose, Swashbuckler (pve)
 
 ...
 
