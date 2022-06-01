@@ -8,8 +8,8 @@
   base_perks:
     barrels: [Smallbore]
     magazines: [Accelerated Coils]
-    perks1: [Perpetual Motion, Feeding Frenzy, Auto-Loading Holster, Field Prep]
-    perks2: [Golden Tricorn, Frenzy, Chill Clip, Vorpal, Cornered, Successful Warm-Up]
+    perks1: [Perpetual Motion, Feeding Frenzy, Auto-Loading Holster]
+    perks2: [Chill Clip, Vorpal, Successful Warm-Up, Frenzy]
     masterworks: [Range MW, Stability MW, Reload MW, Charge MW]
   extended_perks:
     barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Smallbore]
@@ -24,8 +24,8 @@
   base_perks:
     barrels: [Smallbore]
     magazines: [Accelerated Coils]
-    perks1: [Perpetual Motion, Heating Up, Under Pressure, Field Prep]
-    perks2: [Successful Warm-Up, Vorpal]
+    perks1: [Perpetual Motion, Heating Up, Under Pressure]
+    perks2: [Successful Warm-Up, Vorpal, Chill Clip]
     masterworks: [Range MW, Stability MW, Reload MW, Charge MW]
   extended_perks:
     barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Smallbore]

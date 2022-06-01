@@ -24,8 +24,8 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Tactical Mag]
-    perks1: [Disruption Break, Moving Target, Eye of the Storm]
-    perks2: [Vorpal]
+    perks1: [Quickdraw, Moving Target, Eye of the Storm]
+    perks2: [Vorpal, Rampage, Swashbuckler]
     masterworks: [Range MW, Reload MW]
   extended_perks:
     barrels: [Arrowhead Brake, Corkscrew Rifling, Chambered Compensator, Extended Barrel]

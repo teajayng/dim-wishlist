@@ -8,24 +8,8 @@
   base_perks:
     barrels: [Agile Bowstring, Tactile String, Elastic String]
     magazines: [Carbon Arrow Shaft, Compact Arrow Shaft]
-    perks1: [Archer's Tempo, Shoot to Loot]
-    perks2: [Explosive Head]
-    masterworks: [Accuracy MW, Reload MW, Draw Time MW]
-  extended_perks:
-    barrels: [Agile Bowstring, Tactile String, Elastic String, Flexible String]
-    magazines: [Carbon Arrow Shaft, Compact Arrow Shaft, Fiberglass Arrow Shaft, Helical Fletching]
--
-  weapon_id: 2591241074
-  name: Test
-  ratings_emoji: 👾
-  tags: ['pve']
-  overview: >
-    ...
-  base_perks:
-    barrels: [Agile Bowstring, Tactile String, Elastic String]
-    magazines: [Carbon Arrow Shaft, Compact Arrow Shaft]
-    perks1: [Well-Rounded]
-    perks2: [Incandescent]
+    perks1: [Archer's Tempo, Shoot to Loot, Rangefinder, Perpetual Motion, Surplus, Quickdraw]
+    perks2: [Explosive Head, Incandescent]
     masterworks: [Accuracy MW, Reload MW, Draw Time MW]
   extended_perks:
     barrels: [Agile Bowstring, Tactile String, Elastic String, Flexible String]

@@ -8,8 +8,8 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Tactical Mag]
-    perks1: [Perpetual Motion, Outlaw, Fragile Focus, Tunnel Vision]
-    perks2: [Rampage, Vorpal, Focused Fury, Timed Payload]
+    perks1: [Perpetual Motion, Outlaw, Triple Tap]
+    perks2: [Rampage, Timed Payload]
     masterworks: [Range MW, Stability MW, Reload MW]
   extended_perks:
     barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Extended Barrel]
@@ -24,8 +24,8 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Accurized Rounds]
-    perks1: [Perpetual Motion, Outlaw, Fragile Focus, Tunnel Vision]
-    perks2: [Rampage, Vorpal, Opening Shot, Timed Payload]
+    perks1: [Perpetual Motion, Outlaw]
+    perks2: [Rampage, Opening Shot, Timed Payload]
     masterworks: [Range MW, Reload MW]
   extended_perks:
     barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Extended Barrel, Hammer-Forged Rifling]

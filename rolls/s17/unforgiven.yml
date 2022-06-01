@@ -8,8 +8,8 @@
   base_perks: 
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]
-    perks1: [Feeding Frenzy, Well-Rounded, Demolitionist]
-    perks2: [Adrenaline Junkie, Frenzy, Rampage, Repulsor Brace]
+    perks1: [Feeding Frenzy, Demolitionist]
+    perks2: [Adrenaline Junkie, Frenzy, Rampage, Golden Tricorn]
     masterworks: [Stability MW, Reload MW]
   extended_perks:
     barrels: [Arrowhead Brake, Corkscrew Rifling, Chambered Compensator]
@@ -24,7 +24,7 @@
   base_perks: 
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]
-    perks1: [ Demolitionist, Fragile Focus]
+    perks1: [Demolitionist]
     perks2: [Adrenaline Junkie, Rampage]
     masterworks: [Stability MW, Reload MW]
   extended_perks:

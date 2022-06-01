@@ -8,7 +8,7 @@
   base_perks:
     barrels: [Corkscrew Rifling]
     magazines: [Tactical Mag]
-    perks1: [Triple Tap, Outlaw, Well-Rounded, Shoot to Loot]
+    perks1: [Triple Tap, Outlaw, Shoot to Loot]
     perks2: [Explosive Payload, Incandescent, Rampage, Adaptive Munitions]
     masterworks: [Stability MW, Reload MW]
   extended_perks:

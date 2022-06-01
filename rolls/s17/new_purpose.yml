@@ -8,8 +8,8 @@
   base_perks:
     barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator]
     magazines: [Ricochet Rounds]
-    perks1: [Perpetual Motion, Well-Rounded, Feeding Frenzy]
-    perks2: [Headstone, Vorpal, Adaptive Munitions]
+    perks1: [Perpetual Motion, Feeding Frenzy]
+    perks2: [Headstone, Vorpal, Adaptive Munitions, Desperado]
     masterworks: [Stability MW, Reload MW]
   extended_perks:
     barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Smallbore, Hammer-Forged Rifling, Fluted Barrel, Extended Barrel]
@@ -24,7 +24,7 @@
   base_perks:
     barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator]
     magazines: [Ricochet Rounds]
-    perks1: [Perpetual Motion, Well-Rounded, Heating Up]
+    perks1: [Perpetual Motion, Heating Up]
     perks2: [Headstone, Vorpal, Desperado]
     masterworks: [Stability MW, Reload MW]
   extended_perks:

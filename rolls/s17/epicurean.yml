@@ -1,22 +1,6 @@
 -
   weapon_id: 2263839058
   name: General Purpose
-  ratings_emoji: 👾
-  tags: ['pve']
-  overview: >
-    ...
-  base_perks:
-    barrels: [Arrowhead Brake, Corkscrew Rifling, Chambered Compensator]
-    magazines: [Accelerated Coils]
-    perks1: [Feeding Frenzy, Surplus, Well-Rounded]
-    perks2: [Cornered, Swashbuckler, Repulsor Brace]
-    masterworks: [Stability MW, Reload MW]
-  extended_perks:
-    barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Extended Barrel, Fluted Barrel, Full Bore]
-    magazines: [Accelerated Coils, Enhanced Battery]
--
-  weapon_id: 2263839058
-  name: General Purpose
   ratings_emoji: 💥
   tags: ['pvp']
   overview: >
@@ -24,7 +8,7 @@
   base_perks:
     barrels: [Arrowhead Brake, Corkscrew Rifling, Chambered Compensator]
     magazines: [Accelerated Coils]
-    perks1: [Well-Rounded, Quickdraw, Surplus]
+    perks1: [Snapshot, Quickdraw, Surplus]
     perks2: [Rangefinder, Backup Plan]
     masterworks: [Stability MW, Reload MW]
   extended_perks:

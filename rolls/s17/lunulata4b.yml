@@ -8,39 +8,7 @@
   base_perks:
     barrels: [Elastic String]
     magazines: [Compact Arrow Shaft]
-    perks1: [Shoot to Loot]
-    perks2: [Headstone]
-    masterworks: [Draw Time MW]
-  extended_perks:
-    barrels: [Agile Bowstring, Elastic String, Tactile String, Flexible String]
-    magazines: [Carbon Arrow Shaft, Fiberglass Arrow Shaft, Compact Arrow Shaft]
--
-  weapon_id: 2513965917
-  name: General Purpose
-  ratings_emoji: 👾
-  tags: ['pve']
-  overview: >
-    ...
-  base_perks:
-    barrels: [Elastic String]
-    magazines: [Compact Arrow Shaft]
-    perks1: [Well-Rounded]
-    perks2: [Adrenaline Junkie, Golden Tricorn]
-    masterworks: [Draw Time MW]
-  extended_perks:
-    barrels: [Agile Bowstring, Elastic String, Tactile String, Flexible String]
-    magazines: [Carbon Arrow Shaft, Fiberglass Arrow Shaft, Compact Arrow Shaft]
--
-  weapon_id: 2513965917
-  name: General Purpose
-  ratings_emoji: 👾
-  tags: ['pve']
-  overview: >
-    ...
-  base_perks:
-    barrels: [Elastic String]
-    magazines: [Compact Arrow Shaft]
-    perks1: [Ensemble]
+    perks1: [Rangefinder, Shoot to Loot]
     perks2: [Headstone, Successful Warm-Up]
     masterworks: [Draw Time MW]
   extended_perks:

@@ -8,8 +8,8 @@
   base_perks: 
     barrels: [Corkscrew Rifling]
     magazines: [Enhanced Battery]
-    perks1: [Adaptive Munitions, Well-Rounded, Lead from Gold, Surplus]
-    perks2: [Killing Tally, Swashbuckler]
+    perks1: [Adaptive Munitions, Lead from Gold, Surplus]
+    perks2: [Killing Tally, Repulsor Brace, Swashbuckler, Wellspring, Unrelenting]
     masterworks: [Range MW, Stability MW, Reload MW]
   extended_perks:
     barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Extended Barrel, Fluted Barrel, Full Bore]

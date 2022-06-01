@@ -40,7 +40,7 @@
   base_perks:
     barrels: [Ballistic Tuning]
     magazines: [Appended Mag]
-    perks1: [Genesis]
+    perks1: [Genesis, Impulse Amplifier]
     perks2: [Adaptive Munitions]
     masterworks: [Range MW, Reload MW]
   extended_perks:

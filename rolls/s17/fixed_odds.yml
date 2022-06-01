@@ -9,7 +9,7 @@
     barrels: [Corkscrew Rifling]
     magazines: [Tactical Mag]
     perks1: [Field Prep, Feeding Frenzy]
-    perks2: [Firing Line, Killing Tally]
+    perks2: [Firing Line, Killing Tally, Incandescent, Rampage]
     masterworks: [Stability MW, Reload MW]
   extended_perks:
     barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Fluted Barrel]

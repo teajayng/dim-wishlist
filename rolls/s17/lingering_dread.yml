@@ -6,7 +6,7 @@
   overview: >
     ...
   base_perks:
-    barrels: [Volatile Launch, Hard Launch, Quick Launch]
+    barrels: [Hard Launch, Quick Launch]
     magazines: [Blinding Grenades]
     perks1: [Auto-Loading Holster]
     perks2: [Vorpal, Danger Zone, Chill Clip, Demolitionist]
@@ -28,5 +28,5 @@
     perks2: [Vorpal, Chill Clip, Demolitionist]
     masterworks: [Reload MW, Blast Radius MW]
   extended_perks:
-    barrels: [Volatile Launch, Hard Launch, Quick Launch, Countermass]
+    barrels: [Volatile Launch, Hard Launch, Quick Launch, Countermass, Confined Launch, Linear Compensator, Smart Drift Control]
     magazines: [Spike Grenades]
