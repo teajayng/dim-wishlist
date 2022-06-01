@@ -26,8 +26,8 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2323544076), [
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `Enhanced Battery`
-  * **Perks 1**: `Adaptive Munitions`, `Well-Rounded`, `Lead from Gold`, `Surplus`
-  * **Perks 2**: `Killing Tally`, `Swashbuckler`
+  * **Perks 1**: `Adaptive Munitions`, `Lead from Gold`, `Surplus`
+  * **Perks 2**: `Killing Tally`, `Repulsor Brace`, `Swashbuckler`, `Wellspring`, `Unrelenting`
   * **Masterworks**: `Range MW`, `Stability MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
   * **Barrels**: `Arrowhead Brake`, `Chambered Compensator`, `Corkscrew Rifling`, `Extended Barrel`, `Fluted Barrel`, `Full Bore`
@@ -35,12 +35,12 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2323544076), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 1.23% | 81 |
-| 👾👾👾 CE (+barrels) | 5.09% | 19 |
-| 👾👾👾 CE (+magazines) | 3.46% | 28 |
-| 👾👾👾 CE (*masterworks) | 1.65% | 60 |
-| 👾👾 (+barrels, +magazines) | 14.26% | 7 |
-| 👾👾 (+barrels, *masterworks) | 6.79% | 14 |
-| 👾👾 (+magazines, *masterworks) | 4.61% | 21 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 19.01% | 5 |
-| 👾 (*barrels, *magazines, *masterworks) | 22.22% | 4 |
+| 👾👾👾🌟 Collector's Edition | 2.31% | 43 |
+| 👾👾👾 CE (+barrels) | 9.55% | 10 |
+| 👾👾👾 CE (+magazines) | 6.48% | 15 |
+| 👾👾👾 CE (*masterworks) | 3.09% | 32 |
+| 👾👾 (+barrels, +magazines) | 26.74% | 3 |
+| 👾👾 (+barrels, *masterworks) | 12.73% | 7 |
+| 👾👾 (+magazines, *masterworks) | 8.64% | 11 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 35.65% | 2 |
+| 👾 (*barrels, *magazines, *masterworks) | 41.67% | 2 |

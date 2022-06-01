@@ -26,8 +26,8 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2715240478), [
 * **Collector's Edition Roll**
   * **Barrels**: `Smallbore`
   * **Magazines**: `Accelerated Coils`
-  * **Perks 1**: `Perpetual Motion`, `Feeding Frenzy`, `Auto-Loading Holster`, `Field Prep`
-  * **Perks 2**: `Golden Tricorn`, `Frenzy`, `Chill Clip`, `Vorpal`, `Cornered`, `Successful Warm-Up`
+  * **Perks 1**: `Perpetual Motion`, `Feeding Frenzy`, `Auto-Loading Holster`
+  * **Perks 2**: `Chill Clip`, `Vorpal`, `Successful Warm-Up`, `Frenzy`
   * **Masterworks**: `Range MW`, `Stability MW`, `Reload MW`, `Charge MW`
 * **Extended Perks** (referred to with a '+' below)
   * **Barrels**: `Corkscrew Rifling`, `Arrowhead Brake`, `Chambered Compensator`, `Smallbore`
@@ -35,15 +35,15 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2715240478), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 0.99% | 101 |
-| 👾👾👾 CE (+barrels) | 3.21% | 31 |
-| 👾👾👾 CE (+magazines) | 2.77% | 36 |
-| 👾👾👾 CE (*masterworks) | 1.23% | 81 |
-| 👾👾 (+barrels, +magazines) | 8.99% | 11 |
-| 👾👾 (+barrels, *masterworks) | 4.01% | 24 |
-| 👾👾 (+magazines, *masterworks) | 3.46% | 28 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 11.23% | 8 |
-| 👾 (*barrels, *magazines, *masterworks) | 16.67% | 6 |
+| 👾👾👾🌟 Collector's Edition | 0.49% | 202 |
+| 👾👾👾 CE (+barrels) | 1.60% | 62 |
+| 👾👾👾 CE (+magazines) | 1.38% | 72 |
+| 👾👾👾 CE (*masterworks) | 0.62% | 162 |
+| 👾👾 (+barrels, +magazines) | 4.49% | 22 |
+| 👾👾 (+barrels, *masterworks) | 2.01% | 49 |
+| 👾👾 (+magazines, *masterworks) | 1.73% | 57 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 5.62% | 17 |
+| 👾 (*barrels, *magazines, *masterworks) | 8.33% | 12 |
 
 ## 💥 General Purpose (pvp)
 
@@ -52,8 +52,8 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2715240478), [
 * **Collector's Edition Roll**
   * **Barrels**: `Smallbore`
   * **Magazines**: `Accelerated Coils`
-  * **Perks 1**: `Perpetual Motion`, `Heating Up`, `Under Pressure`, `Field Prep`
-  * **Perks 2**: `Successful Warm-Up`, `Vorpal`
+  * **Perks 1**: `Perpetual Motion`, `Heating Up`, `Under Pressure`
+  * **Perks 2**: `Successful Warm-Up`, `Vorpal`, `Chill Clip`
   * **Masterworks**: `Range MW`, `Stability MW`, `Reload MW`, `Charge MW`
 * **Extended Perks** (referred to with a '+' below)
   * **Barrels**: `Corkscrew Rifling`, `Arrowhead Brake`, `Chambered Compensator`, `Smallbore`
@@ -61,12 +61,12 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2715240478), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 💥💥💥🌟 Collector's Edition | 0.33% | 303 |
-| 💥💥💥 CE (+barrels) | 1.07% | 93 |
-| 💥💥💥 CE (+magazines) | 0.92% | 108 |
-| 💥💥💥 CE (*masterworks) | 0.41% | 243 |
-| 💥💥 (+barrels, +magazines) | 3.00% | 33 |
-| 💥💥 (+barrels, *masterworks) | 1.34% | 74 |
-| 💥💥 (+magazines, *masterworks) | 1.15% | 86 |
-| 💥💥 (+barrels, +magazines, *masterworks) | 3.74% | 26 |
-| 💥 (*barrels, *magazines, *masterworks) | 5.56% | 18 |
+| 💥💥💥🌟 Collector's Edition | 0.37% | 270 |
+| 💥💥💥 CE (+barrels) | 1.20% | 83 |
+| 💥💥💥 CE (+magazines) | 1.04% | 96 |
+| 💥💥💥 CE (*masterworks) | 0.46% | 216 |
+| 💥💥 (+barrels, +magazines) | 3.37% | 29 |
+| 💥💥 (+barrels, *masterworks) | 1.50% | 66 |
+| 💥💥 (+magazines, *masterworks) | 1.30% | 77 |
+| 💥💥 (+barrels, +magazines, *masterworks) | 4.21% | 23 |
+| 💥 (*barrels, *magazines, *masterworks) | 6.25% | 16 |

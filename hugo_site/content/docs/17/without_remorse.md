@@ -27,7 +27,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1478986057), [
   * **Barrels**: `Rifled Barrel`, `Full Choke`
   * **Magazines**: `Assault Mag`
   * **Perks 1**: `Well-Rounded`, `Field Prep`, `Threat Detector`
-  * **Perks 2**: `Incandescent`, `One-Two Punch`, `Vorpal`
+  * **Perks 2**: `Incandescent`, `One-Two Punch`, `Vorpal`, `Fragile Focus`
   * **Masterworks**: `Reload MW`, `Handling MW`, `Range MW`
 * **Extended Perks** (referred to with a '+' below)
   * **Barrels**: `Rifled Barrel`, `Full Choke`
@@ -35,12 +35,12 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1478986057), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 3.21% | 31 |
-| 👾👾👾 CE (+barrels) | 3.21% | 31 |
-| 👾👾👾 CE (+magazines) | 9.64% | 10 |
-| 👾👾👾 CE (*masterworks) | 4.29% | 23 |
-| 👾👾 (+barrels, +magazines) | 9.64% | 10 |
-| 👾👾 (+barrels, *masterworks) | 4.29% | 23 |
-| 👾👾 (+magazines, *masterworks) | 12.86% | 7 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 12.86% | 7 |
-| 👾 (*barrels, *magazines, *masterworks) | 25.00% | 4 |
+| 👾👾👾🌟 Collector's Edition | 4.29% | 23 |
+| 👾👾👾 CE (+barrels) | 4.29% | 23 |
+| 👾👾👾 CE (+magazines) | 12.86% | 7 |
+| 👾👾👾 CE (*masterworks) | 5.71% | 17 |
+| 👾👾 (+barrels, +magazines) | 12.86% | 7 |
+| 👾👾 (+barrels, *masterworks) | 5.71% | 17 |
+| 👾👾 (+magazines, *masterworks) | 17.14% | 5 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 17.14% | 5 |
+| 👾 (*barrels, *magazines, *masterworks) | 33.33% | 3 |

@@ -78,7 +78,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/254636484), [l
 * **Collector's Edition Roll**
   * **Barrels**: `Ballistic Tuning`
   * **Magazines**: `Appended Mag`
-  * **Perks 1**: `Genesis`
+  * **Perks 1**: `Genesis`, `Impulse Amplifier`
   * **Perks 2**: `Adaptive Munitions`
   * **Masterworks**: `Range MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
@@ -87,15 +87,15 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/254636484), [l
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 0.15% | 648 |
-| 👾👾👾 CE (+barrels) | 0.37% | 270 |
-| 👾👾👾 CE (+magazines) | 0.43% | 231 |
-| 👾👾👾 CE (*masterworks) | 0.31% | 324 |
-| 👾👾 (+barrels, +magazines) | 1.04% | 96 |
-| 👾👾 (+barrels, *masterworks) | 0.74% | 135 |
-| 👾👾 (+magazines, *masterworks) | 0.86% | 115 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 2.07% | 48 |
-| 👾 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
+| 👾👾👾🌟 Collector's Edition | 0.31% | 324 |
+| 👾👾👾 CE (+barrels) | 0.74% | 135 |
+| 👾👾👾 CE (+magazines) | 0.86% | 115 |
+| 👾👾👾 CE (*masterworks) | 0.62% | 162 |
+| 👾👾 (+barrels, +magazines) | 2.07% | 48 |
+| 👾👾 (+barrels, *masterworks) | 1.48% | 67 |
+| 👾👾 (+magazines, *masterworks) | 1.73% | 57 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 4.15% | 24 |
+| 👾 (*barrels, *magazines, *masterworks) | 5.56% | 18 |
 
 ## 👾 General Purpose (pve)
 

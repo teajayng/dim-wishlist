@@ -26,8 +26,8 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/3000847393), [
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `Ricochet Rounds`
-  * **Perks 1**: `Feeding Frenzy`, `Well-Rounded`, `Demolitionist`
-  * **Perks 2**: `Adrenaline Junkie`, `Frenzy`, `Rampage`, `Repulsor Brace`
+  * **Perks 1**: `Feeding Frenzy`, `Demolitionist`
+  * **Perks 2**: `Adrenaline Junkie`, `Frenzy`, `Rampage`, `Golden Tricorn`
   * **Masterworks**: `Stability MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
   * **Barrels**: `Arrowhead Brake`, `Corkscrew Rifling`, `Chambered Compensator`
@@ -35,15 +35,15 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/3000847393), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| ⭐👾⭐👾⭐👾🌟 Collector's Edition | 0.93% | 108 |
-| ⭐👾⭐👾⭐👾 CE (+barrels) | 2.43% | 41 |
-| ⭐👾⭐👾⭐👾 CE (+magazines) | 3.31% | 30 |
-| ⭐👾⭐👾⭐👾 CE (*masterworks) | 1.85% | 54 |
-| ⭐👾⭐👾 (+barrels, +magazines) | 8.68% | 11 |
-| ⭐👾⭐👾 (+barrels, *masterworks) | 4.86% | 20 |
-| ⭐👾⭐👾 (+magazines, *masterworks) | 6.61% | 15 |
-| ⭐👾⭐👾 (+barrels, +magazines, *masterworks) | 17.36% | 5 |
-| ⭐👾 (*barrels, *magazines, *masterworks) | 33.33% | 3 |
+| ⭐👾⭐👾⭐👾🌟 Collector's Edition | 0.62% | 162 |
+| ⭐👾⭐👾⭐👾 CE (+barrels) | 1.62% | 61 |
+| ⭐👾⭐👾⭐👾 CE (+magazines) | 2.20% | 45 |
+| ⭐👾⭐👾⭐👾 CE (*masterworks) | 1.23% | 81 |
+| ⭐👾⭐👾 (+barrels, +magazines) | 5.79% | 17 |
+| ⭐👾⭐👾 (+barrels, *masterworks) | 3.24% | 30 |
+| ⭐👾⭐👾 (+magazines, *masterworks) | 4.41% | 22 |
+| ⭐👾⭐👾 (+barrels, +magazines, *masterworks) | 11.57% | 8 |
+| ⭐👾 (*barrels, *magazines, *masterworks) | 22.22% | 4 |
 
 ## 💥 General Purpose (pvp)
 
@@ -52,7 +52,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/3000847393), [
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `Ricochet Rounds`
-  * **Perks 1**: `Demolitionist`, `Fragile Focus`
+  * **Perks 1**: `Demolitionist`
   * **Perks 2**: `Adrenaline Junkie`, `Rampage`
   * **Masterworks**: `Stability MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
@@ -61,12 +61,12 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/3000847393), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 💥💥💥🌟 Collector's Edition | 0.31% | 324 |
-| 💥💥💥 CE (+barrels) | 0.81% | 123 |
-| 💥💥💥 CE (+magazines) | 0.97% | 103 |
-| 💥💥💥 CE (*masterworks) | 0.62% | 162 |
-| 💥💥 (+barrels, +magazines) | 2.55% | 39 |
-| 💥💥 (+barrels, *masterworks) | 1.62% | 61 |
-| 💥💥 (+magazines, *masterworks) | 1.94% | 51 |
-| 💥💥 (+barrels, +magazines, *masterworks) | 5.09% | 19 |
-| 💥 (*barrels, *magazines, *masterworks) | 11.11% | 9 |
+| 💥💥💥🌟 Collector's Edition | 0.15% | 648 |
+| 💥💥💥 CE (+barrels) | 0.41% | 246 |
+| 💥💥💥 CE (+magazines) | 0.49% | 206 |
+| 💥💥💥 CE (*masterworks) | 0.31% | 324 |
+| 💥💥 (+barrels, +magazines) | 1.27% | 78 |
+| 💥💥 (+barrels, *masterworks) | 0.81% | 123 |
+| 💥💥 (+magazines, *masterworks) | 0.97% | 103 |
+| 💥💥 (+barrels, +magazines, *masterworks) | 2.55% | 39 |
+| 💥 (*barrels, *magazines, *masterworks) | 5.56% | 18 |

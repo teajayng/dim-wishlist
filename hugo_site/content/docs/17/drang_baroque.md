@@ -52,8 +52,8 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/502356570), [l
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `Tactical Mag`
-  * **Perks 1**: `Disruption Break`, `Moving Target`, `Eye of the Storm`
-  * **Perks 2**: `Vorpal`
+  * **Perks 1**: `Quickdraw`, `Moving Target`, `Eye of the Storm`
+  * **Perks 2**: `Vorpal`, `Rampage`, `Swashbuckler`
   * **Masterworks**: `Range MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
   * **Barrels**: `Arrowhead Brake`, `Corkscrew Rifling`, `Chambered Compensator`, `Extended Barrel`
@@ -61,12 +61,12 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/502356570), [l
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 💥💥💥🌟 Collector's Edition | 0.26% | 378 |
-| 💥💥💥 CE (+barrels) | 0.86% | 116 |
-| 💥💥💥 CE (+magazines) | 0.79% | 126 |
-| 💥💥💥 CE (*masterworks) | 0.53% | 189 |
-| 💥💥 (+barrels, +magazines) | 2.58% | 38 |
-| 💥💥 (+barrels, *masterworks) | 1.72% | 58 |
-| 💥💥 (+magazines, *masterworks) | 1.59% | 63 |
-| 💥💥 (+barrels, +magazines, *masterworks) | 5.16% | 19 |
-| 💥 (*barrels, *magazines, *masterworks) | 8.33% | 12 |
+| 💥💥💥🌟 Collector's Edition | 0.79% | 126 |
+| 💥💥💥 CE (+barrels) | 2.58% | 38 |
+| 💥💥💥 CE (+magazines) | 2.38% | 42 |
+| 💥💥💥 CE (*masterworks) | 1.59% | 63 |
+| 💥💥 (+barrels, +magazines) | 7.74% | 12 |
+| 💥💥 (+barrels, *masterworks) | 5.16% | 19 |
+| 💥💥 (+magazines, *masterworks) | 4.76% | 21 |
+| 💥💥 (+barrels, +magazines, *masterworks) | 15.48% | 6 |
+| 💥 (*barrels, *magazines, *masterworks) | 25.00% | 4 |

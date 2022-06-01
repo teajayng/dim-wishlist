@@ -26,8 +26,8 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1780464822), [
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`, `Arrowhead Brake`, `Chambered Compensator`
   * **Magazines**: `Ricochet Rounds`
-  * **Perks 1**: `Perpetual Motion`, `Well-Rounded`, `Feeding Frenzy`
-  * **Perks 2**: `Headstone`, `Vorpal`, `Adaptive Munitions`
+  * **Perks 1**: `Perpetual Motion`, `Feeding Frenzy`
+  * **Perks 2**: `Headstone`, `Vorpal`, `Adaptive Munitions`, `Desperado`
   * **Masterworks**: `Stability MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
   * **Barrels**: `Corkscrew Rifling`, `Arrowhead Brake`, `Chambered Compensator`, `Smallbore`, `Hammer-Forged Rifling`, `Fluted Barrel`, `Extended Barrel`
@@ -35,15 +35,15 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1780464822), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 1.82% | 54 |
-| 👾👾👾 CE (+barrels) | 3.04% | 32 |
-| 👾👾👾 CE (+magazines) | 6.51% | 15 |
-| 👾👾👾 CE (*masterworks) | 3.65% | 27 |
-| 👾👾 (+barrels, +magazines) | 10.85% | 9 |
-| 👾👾 (+barrels, *masterworks) | 6.08% | 16 |
-| 👾👾 (+magazines, *masterworks) | 13.02% | 7 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 21.70% | 4 |
-| 👾 (*barrels, *magazines, *masterworks) | 25.00% | 4 |
+| 👾👾👾🌟 Collector's Edition | 1.62% | 61 |
+| 👾👾👾 CE (+barrels) | 2.70% | 37 |
+| 👾👾👾 CE (+magazines) | 5.79% | 17 |
+| 👾👾👾 CE (*masterworks) | 3.24% | 30 |
+| 👾👾 (+barrels, +magazines) | 9.65% | 10 |
+| 👾👾 (+barrels, *masterworks) | 5.40% | 18 |
+| 👾👾 (+magazines, *masterworks) | 11.57% | 8 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 19.29% | 5 |
+| 👾 (*barrels, *magazines, *masterworks) | 22.22% | 4 |
 
 ## 💥 General Purpose (pvp)
 
@@ -52,7 +52,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1780464822), [
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`, `Arrowhead Brake`, `Chambered Compensator`
   * **Magazines**: `Ricochet Rounds`
-  * **Perks 1**: `Perpetual Motion`, `Well-Rounded`, `Heating Up`
+  * **Perks 1**: `Perpetual Motion`, `Heating Up`
   * **Perks 2**: `Headstone`, `Vorpal`, `Desperado`
   * **Masterworks**: `Stability MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
@@ -61,12 +61,12 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1780464822), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 💥💥💥🌟 Collector's Edition | 1.82% | 54 |
-| 💥💥💥 CE (+barrels) | 3.04% | 32 |
-| 💥💥💥 CE (+magazines) | 5.73% | 17 |
-| 💥💥💥 CE (*masterworks) | 3.65% | 27 |
-| 💥💥 (+barrels, +magazines) | 9.55% | 10 |
-| 💥💥 (+barrels, *masterworks) | 6.08% | 16 |
-| 💥💥 (+magazines, *masterworks) | 11.46% | 8 |
-| 💥💥 (+barrels, +magazines, *masterworks) | 19.10% | 5 |
-| 💥 (*barrels, *magazines, *masterworks) | 25.00% | 4 |
+| 💥💥💥🌟 Collector's Edition | 1.22% | 82 |
+| 💥💥💥 CE (+barrels) | 2.03% | 49 |
+| 💥💥💥 CE (+magazines) | 3.82% | 26 |
+| 💥💥💥 CE (*masterworks) | 2.43% | 41 |
+| 💥💥 (+barrels, +magazines) | 6.37% | 15 |
+| 💥💥 (+barrels, *masterworks) | 4.05% | 24 |
+| 💥💥 (+magazines, *masterworks) | 7.64% | 13 |
+| 💥💥 (+barrels, +magazines, *masterworks) | 12.73% | 7 |
+| 💥 (*barrels, *magazines, *masterworks) | 16.67% | 6 |

@@ -26,8 +26,8 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2006308129), [
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `Tactical Mag`
-  * **Perks 1**: `Perpetual Motion`, `Outlaw`, `Fragile Focus`, `Tunnel Vision`
-  * **Perks 2**: `Rampage`, `Vorpal`, `Focused Fury`, `Timed Payload`
+  * **Perks 1**: `Perpetual Motion`, `Outlaw`, `Triple Tap`
+  * **Perks 2**: `Rampage`, `Timed Payload`
   * **Masterworks**: `Range MW`, `Stability MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
   * **Barrels**: `Corkscrew Rifling`, `Arrowhead Brake`, `Chambered Compensator`, `Extended Barrel`
@@ -35,15 +35,15 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2006308129), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 2.12% | 47 |
-| 👾👾👾 CE (+barrels) | 6.88% | 14 |
-| 👾👾👾 CE (+magazines) | 5.29% | 18 |
-| 👾👾👾 CE (*masterworks) | 2.82% | 35 |
-| 👾👾 (+barrels, +magazines) | 17.20% | 5 |
-| 👾👾 (+barrels, *masterworks) | 9.17% | 10 |
-| 👾👾 (+magazines, *masterworks) | 7.05% | 14 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 22.93% | 4 |
-| 👾 (*barrels, *magazines, *masterworks) | 44.44% | 2 |
+| 👾👾👾🌟 Collector's Edition | 0.79% | 126 |
+| 👾👾👾 CE (+barrels) | 2.58% | 38 |
+| 👾👾👾 CE (+magazines) | 1.98% | 50 |
+| 👾👾👾 CE (*masterworks) | 1.06% | 94 |
+| 👾👾 (+barrels, +magazines) | 6.45% | 15 |
+| 👾👾 (+barrels, *masterworks) | 3.44% | 29 |
+| 👾👾 (+magazines, *masterworks) | 2.65% | 37 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 8.60% | 11 |
+| 👾 (*barrels, *magazines, *masterworks) | 16.67% | 6 |
 
 ## 💥 General Purpose (pvp)
 
@@ -52,8 +52,8 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2006308129), [
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `Accurized Rounds`
-  * **Perks 1**: `Perpetual Motion`, `Outlaw`, `Fragile Focus`, `Tunnel Vision`
-  * **Perks 2**: `Rampage`, `Vorpal`, `Opening Shot`, `Timed Payload`
+  * **Perks 1**: `Perpetual Motion`, `Outlaw`
+  * **Perks 2**: `Rampage`, `Opening Shot`, `Timed Payload`
   * **Masterworks**: `Range MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
   * **Barrels**: `Corkscrew Rifling`, `Arrowhead Brake`, `Chambered Compensator`, `Extended Barrel`, `Hammer-Forged Rifling`
@@ -61,12 +61,12 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2006308129), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 💥💥💥🌟 Collector's Edition | 1.41% | 70 |
-| 💥💥💥 CE (+barrels) | 5.29% | 18 |
-| 💥💥💥 CE (+magazines) | 4.23% | 23 |
-| 💥💥💥 CE (*masterworks) | 2.82% | 35 |
-| 💥💥 (+barrels, +magazines) | 15.87% | 6 |
-| 💥💥 (+barrels, *masterworks) | 10.58% | 9 |
-| 💥💥 (+magazines, *masterworks) | 8.47% | 11 |
-| 💥💥 (+barrels, +magazines, *masterworks) | 31.75% | 3 |
-| 💥 (*barrels, *magazines, *masterworks) | 44.44% | 2 |
+| 💥💥💥🌟 Collector's Edition | 0.53% | 189 |
+| 💥💥💥 CE (+barrels) | 1.98% | 50 |
+| 💥💥💥 CE (+magazines) | 1.59% | 63 |
+| 💥💥💥 CE (*masterworks) | 1.06% | 94 |
+| 💥💥 (+barrels, +magazines) | 5.95% | 16 |
+| 💥💥 (+barrels, *masterworks) | 3.97% | 25 |
+| 💥💥 (+magazines, *masterworks) | 3.17% | 31 |
+| 💥💥 (+barrels, +magazines, *masterworks) | 11.90% | 8 |
+| 💥 (*barrels, *magazines, *masterworks) | 16.67% | 6 |

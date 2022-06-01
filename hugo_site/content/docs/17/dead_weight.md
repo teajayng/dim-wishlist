@@ -27,7 +27,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/3738678140), [
   * **Barrels**: `Rifled Barrel`, `Full Choke`
   * **Magazines**: `Tactical Mag`
   * **Perks 1**: `Feeding Frenzy`, `Perpetual Motion`, `Grave Robber`, `Auto-Loading Holster`, `Subsistence`, `Surplus`
-  * **Perks 2**: `Frenzy`, `One-Two Punch`, `Swashbuckler`, `Adrenaline Junkie`, `Demolitionist`
+  * **Perks 2**: `Frenzy`, `One-Two Punch`, `Vorpal`
   * **Masterworks**: `Range MW`, `Stability MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
   * **Barrels**: `Rifled Barrel`, `Full Choke`
@@ -35,12 +35,12 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/3738678140), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 3.12% | 32 |
-| 👾👾👾 CE (+barrels) | 3.12% | 32 |
-| 👾👾👾 CE (+magazines) | 5.62% | 17 |
-| 👾👾👾 CE (*masterworks) | 4.17% | 24 |
-| 👾👾 (+barrels, +magazines) | 5.62% | 17 |
-| 👾👾 (+barrels, *masterworks) | 4.17% | 24 |
-| 👾👾 (+magazines, *masterworks) | 7.50% | 13 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 7.50% | 13 |
-| 👾 (*barrels, *magazines, *masterworks) | 20.83% | 4 |
+| 👾👾👾🌟 Collector's Edition | 1.88% | 53 |
+| 👾👾👾 CE (+barrels) | 1.88% | 53 |
+| 👾👾👾 CE (+magazines) | 3.38% | 29 |
+| 👾👾👾 CE (*masterworks) | 2.50% | 40 |
+| 👾👾 (+barrels, +magazines) | 3.38% | 29 |
+| 👾👾 (+barrels, *masterworks) | 2.50% | 40 |
+| 👾👾 (+magazines, *masterworks) | 4.50% | 22 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 4.50% | 22 |
+| 👾 (*barrels, *magazines, *masterworks) | 12.50% | 8 |
