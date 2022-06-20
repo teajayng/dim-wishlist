@@ -8,24 +8,8 @@
   base_perks:
     barrels: [Smallbore]
     magazines: [Accelerated Coils]
-    perks1: [Perpetual Motion]
+    perks1: [Perpetual Motion, Kill Clip]
     perks2: [Successful Warm-Up, High-Impact Reserves, Chill Clip, Vorpal]
-    masterworks: [Range MW, Stability MW, Reload MW, Charge MW]
-  extended_perks:
-    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Smallbore]
-    magazines: [Accelerated Coils, Enhanced Battery, Particle Repeater, Projection Fuse]
--
-  weapon_id: 933455006
-  name: General Purpose, Swashbuckler
-  ratings_emoji: 👾
-  tags: ['pve']
-  overview: >
-    ...
-  base_perks:
-    barrels: [Smallbore]
-    magazines: [Accelerated Coils]
-    perks1: [Well-Rounded]
-    perks2: [Swashbuckler]
     masterworks: [Range MW, Stability MW, Reload MW, Charge MW]
   extended_perks:
     barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Smallbore]
@@ -41,7 +25,7 @@
     barrels: [Smallbore]
     magazines: [Accelerated Coils]
     perks1: [Perpetual Motion, Elemental Capacitor, Killing Wind]
-    perks2: [Successful Warm-Up, High-Impact Reserves, Vorpal]
+    perks2: [Successful Warm-Up, High-Impact Reserves]
     masterworks: [Range MW, Stability MW, Reload MW, Charge MW]
   extended_perks:
     barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Smallbore]
