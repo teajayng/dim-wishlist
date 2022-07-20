@@ -1,0 +1,32 @@
+-
+  weapon_id: 2742838700
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Ricochet Rounds]
+    perks1: [Feeding Frenzy, Wellspring, Triple Tap, Tunnel Vision]
+    perks2: [Headstone, Demolitionist]
+    masterworks: [Reload MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Fluted Barrel, Extended Barrel, Hammer-Forged Rifling]
+    magazines: [Ricochet Rounds, Appended Mag, Flared Magwell]
+-
+  weapon_id: 2742838700
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Ricochet Rounds]
+    perks1: [Wellspring, Triple Tap, Tunnel Vision]
+    perks2: [Headstone, Demolitionist]
+    masterworks: [Reload MW, Range MW, Stability MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Fluted Barrel, Extended Barrel, Hammer-Forged Rifling]
+    magazines: [Ricochet Rounds, Appended Mag, Flared Magwell]
