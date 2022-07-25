@@ -1,5 +1,5 @@
 -
-  weapon_id: 2742838700
+  weapon_id: 1856262127
   name: General Purpose
   ratings_emoji: 👾
   tags: ['pve']
@@ -15,7 +15,7 @@
     barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Fluted Barrel, Extended Barrel, Hammer-Forged Rifling]
     magazines: [Ricochet Rounds, Appended Mag, Flared Magwell]
 -
-  weapon_id: 2742838700
+  weapon_id: 1856262127
   name: General Purpose
   ratings_emoji: 💥
   tags: ['pvp']
