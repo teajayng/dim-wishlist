@@ -26,7 +26,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1856262127), [
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `Ricochet Rounds`
-  * **Perks 1**: `Feeding Frenzy`, `Wellspring`, `Triple Tap`, `Tunnel Vision`
+  * **Perks 1**: `Feeding Frenzy`, `Wellspring`, `Triple Tap`
   * **Perks 2**: `Headstone`, `Demolitionist`
   * **Masterworks**: `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
@@ -35,15 +35,15 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1856262127), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 0.31% | 324 |
-| 👾👾👾 CE (+barrels) | 1.27% | 78 |
-| 👾👾👾 CE (+magazines) | 0.79% | 126 |
-| 👾👾👾 CE (*masterworks) | 1.23% | 81 |
-| 👾👾 (+barrels, +magazines) | 3.27% | 30 |
-| 👾👾 (+barrels, *masterworks) | 5.09% | 19 |
-| 👾👾 (+magazines, *masterworks) | 3.17% | 31 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 13.10% | 7 |
-| 👾 (*barrels, *magazines, *masterworks) | 22.22% | 4 |
+| 👾👾👾🌟 Collector's Edition | 0.23% | 432 |
+| 👾👾👾 CE (+barrels) | 0.95% | 104 |
+| 👾👾👾 CE (+magazines) | 0.60% | 168 |
+| 👾👾👾 CE (*masterworks) | 0.93% | 108 |
+| 👾👾 (+barrels, +magazines) | 2.46% | 40 |
+| 👾👾 (+barrels, *masterworks) | 3.82% | 26 |
+| 👾👾 (+magazines, *masterworks) | 2.38% | 42 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 9.82% | 10 |
+| 👾 (*barrels, *magazines, *masterworks) | 16.67% | 6 |
 
 ## 💥 General Purpose (pvp)
 
@@ -52,7 +52,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1856262127), [
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `Ricochet Rounds`
-  * **Perks 1**: `Wellspring`, `Triple Tap`, `Tunnel Vision`
+  * **Perks 1**: `Wellspring`, `Triple Tap`
   * **Perks 2**: `Headstone`, `Demolitionist`
   * **Masterworks**: `Reload MW`, `Range MW`, `Stability MW`
 * **Extended Perks** (referred to with a '+' below)
@@ -61,12 +61,12 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1856262127), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 💥💥💥🌟 Collector's Edition | 0.69% | 144 |
-| 💥💥💥 CE (+barrels) | 2.86% | 34 |
-| 💥💥💥 CE (+magazines) | 1.79% | 56 |
-| 💥💥💥 CE (*masterworks) | 0.93% | 108 |
-| 💥💥 (+barrels, +magazines) | 7.37% | 13 |
-| 💥💥 (+barrels, *masterworks) | 3.82% | 26 |
-| 💥💥 (+magazines, *masterworks) | 2.38% | 42 |
-| 💥💥 (+barrels, +magazines, *masterworks) | 9.82% | 10 |
-| 💥 (*barrels, *magazines, *masterworks) | 16.67% | 6 |
+| 💥💥💥🌟 Collector's Edition | 0.46% | 216 |
+| 💥💥💥 CE (+barrels) | 1.91% | 52 |
+| 💥💥💥 CE (+magazines) | 1.19% | 84 |
+| 💥💥💥 CE (*masterworks) | 0.62% | 162 |
+| 💥💥 (+barrels, +magazines) | 4.91% | 20 |
+| 💥💥 (+barrels, *masterworks) | 2.55% | 39 |
+| 💥💥 (+magazines, *masterworks) | 1.59% | 63 |
+| 💥💥 (+barrels, +magazines, *masterworks) | 6.55% | 15 |
+| 💥 (*barrels, *magazines, *masterworks) | 11.11% | 9 |
