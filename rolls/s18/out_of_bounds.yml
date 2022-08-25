@@ -1,0 +1,32 @@
+- 
+  weapon_id: 2988121501
+  name: General Purpose
+  ratings_emoji: ⭐👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks: 
+    barrels: [Corkscrew Rifling]
+    magazines: [Ricochet Rounds]
+    perks1: [Perpetual Motion, Subsistence, Demolitionist, Grave Robber]
+    perks2: [Kill Clip, Swashbuckler, Gutshot Straight, Adrenaline Junkie]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Corkscrew Rifling, Chambered Compensator]
+    magazines: [Ricochet Rounds, High-Caliber Rounds, Armor-Piercing Rounds, Appended Mag, Flared Magwell]
+- 
+  weapon_id: 2988121501
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  overview: >
+    ...
+  base_perks: 
+    barrels: [Corkscrew Rifling]
+    magazines: [Ricochet Rounds]
+    perks1: [Perpetual Motion, Subsistence, Demolitionist]
+    perks2: [Kill Clip, Swashbuckler, Gutshot Straight, Adrenaline Junkie, Under-Over]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Corkscrew Rifling, Chambered Compensator]
+    magazines: [Ricochet Rounds, High-Caliber Rounds, Armor-Piercing Rounds, Appended Mag, Flared Magwell]

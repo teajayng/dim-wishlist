@@ -1,0 +1,16 @@
+- 
+  weapon_id: 2218569744
+  name: General Purpose
+  ratings_emoji: ⭐👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks: 
+    barrels: [Corkscrew Rifling]
+    magazines: [Tactical Mag]
+    perks1: [Rapid Hit, Fourth Time's the Charm, Demolitionist, Shoot to Loot]
+    perks2: [Explosive Payload, Voltshot, Swashbuckler]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Corkscrew Rifling, Chambered Compensator]
+    magazines: [Appended Mag, Tactical Mag, Flared Magwell]

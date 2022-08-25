@@ -1,0 +1,15 @@
+name: Boudica-C
+item_id: 1916287826
+drop_id: 18
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 8, c: 2}
+  perks1:      {t: 6, c: 1}
+  perks2:      {t: 6, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  ...
+pvp_comments: >
+  ...
+pve_comments: >
+  ...

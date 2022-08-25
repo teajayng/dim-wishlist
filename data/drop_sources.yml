@@ -1,6 +1,6 @@
 -
-  id: 17
-  name: S17 - Season of the Haunted
+  id: 18
+  name: S18 - Season of Plunder
 - 
   id: world
   name: Open World
@@ -16,6 +16,9 @@
 - 
   id: dsc
   name: Raid - Deep Stone Crypt
+-
+  id: 17
+  name: S17 - Season of the Haunted
 -
   id: 16
   name: S16 - Season of the Risen
