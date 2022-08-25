@@ -26,7 +26,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1509167284), [
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `Tactical Mag`
-  * **Perks 1**: `Pugilist`, `Ambitious Assassin`
+  * **Perks 1**: `Pugilist`, `Ambitious Assassin`, `Grave Robber`
   * **Perks 2**: `Frenzy`, `Headstone`, `Swashbuckler`
   * **Masterworks**: `Stability MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
@@ -35,15 +35,15 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1509167284), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| ⭐👾⭐👾⭐👾🌟 Collector's Edition | 0.39% | 257 |
-| ⭐👾⭐👾⭐👾 CE (+barrels) | 1.02% | 98 |
-| ⭐👾⭐👾⭐👾 CE (+magazines) | 0.97% | 102 |
-| ⭐👾⭐👾⭐👾 CE (*masterworks) | 0.78% | 128 |
-| ⭐👾⭐👾 (+barrels, +magazines) | 2.55% | 39 |
-| ⭐👾⭐👾 (+barrels, *masterworks) | 2.04% | 49 |
-| ⭐👾⭐👾 (+magazines, *masterworks) | 1.94% | 51 |
-| ⭐👾⭐👾 (+barrels, +magazines, *masterworks) | 5.10% | 19 |
-| ⭐👾 (*barrels, *magazines, *masterworks) | 12.24% | 8 |
+| ⭐👾⭐👾⭐👾🌟 Collector's Edition | 0.58% | 171 |
+| ⭐👾⭐👾⭐👾 CE (+barrels) | 1.53% | 65 |
+| ⭐👾⭐👾⭐👾 CE (+magazines) | 1.46% | 68 |
+| ⭐👾⭐👾⭐👾 CE (*masterworks) | 1.17% | 85 |
+| ⭐👾⭐👾 (+barrels, +magazines) | 3.83% | 26 |
+| ⭐👾⭐👾 (+barrels, *masterworks) | 3.06% | 32 |
+| ⭐👾⭐👾 (+magazines, *masterworks) | 2.92% | 34 |
+| ⭐👾⭐👾 (+barrels, +magazines, *masterworks) | 7.65% | 13 |
+| ⭐👾 (*barrels, *magazines, *masterworks) | 18.37% | 5 |
 
 ## 💥 General Purpose (pvp)
 

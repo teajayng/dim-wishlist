@@ -8,7 +8,7 @@
   base_perks: 
     barrels: [Corkscrew Rifling]
     magazines: [Tactical Mag]
-    perks1: [Pugilist, Ambitious Assassin]
+    perks1: [Pugilist, Ambitious Assassin, Grave Robber]
     perks2: [Frenzy, Headstone, Swashbuckler]
     masterworks: [Stability MW, Reload MW]
   extended_perks:
