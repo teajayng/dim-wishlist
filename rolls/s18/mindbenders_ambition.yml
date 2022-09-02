@@ -1,0 +1,32 @@
+- 
+  weapon_id: 1094005544
+  name: General Purpose
+  ratings_emoji: ⭐👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks: 
+    barrels: [Rifled Barrel]
+    magazines: [Assault Mag]
+    perks1: [Auto-Loading Holster, Lead from Gold]
+    perks2: [Incandescent, One-Two Punch]
+    masterworks: [Reload MW, Handling MW, Range MW]
+  extended_perks:
+    barrels: [Rifled Barrel, Full Choke]
+    magazines: [Assault Mag, Accurized Rounds]
+- 
+  weapon_id: 1094005544
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  overview: >
+    ...
+  base_perks: 
+    barrels: [Full Choke]
+    magazines: [Accurized Rounds]
+    perks1: [Threat Detector]
+    perks2: [Fragile Focus, Well-Rounded]
+    masterworks: [Reload MW, Handling MW, Range MW]
+  extended_perks:
+    barrels: [Rifled Barrel, Full Choke]
+    magazines: [Assault Mag, Accurized Rounds]

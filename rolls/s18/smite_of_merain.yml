@@ -1,0 +1,64 @@
+-
+  weapon_id: 2221264583
+  name: General Purpose, Pugilist/Swash
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Tactical Mag]
+    perks1: [Pugilist]
+    perks2: [Swashbuckler]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator]
+    magazines: [Accurized Rounds, Tactical Mag, Appended Mag, Flared Magwell]
+-
+  weapon_id: 2221264583
+  name: General Purpose, Demolitionist/Adrenaline Junkie
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Tactical Mag]
+    perks1: [Demolitionist]
+    perks2: [Adrenaline Junkie]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator]
+    magazines: [Accurized Rounds, Tactical Mag, Appended Mag, Flared Magwell]
+-
+  weapon_id: 2221264583
+  name: General Purpose, Interesting
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Tactical Mag]
+    perks1: [Focused Fury]
+    perks2: [Firefly]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator]
+    magazines: [Accurized Rounds, Tactical Mag, Appended Mag, Flared Magwell]
+-
+  weapon_id: 2221264583
+  name: General Purpose, Stats/One for All
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Tactical Mag]
+    perks1: [Stats for All]
+    perks2: [One for All]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator]
+    magazines: [Accurized Rounds, Tactical Mag, Appended Mag, Flared Magwell]

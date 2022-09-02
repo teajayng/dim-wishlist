@@ -110,3 +110,19 @@
   extended_perks:
     barrels: [Arrowhead Brake, Chambered Compensator, Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling]
     magazines: [Ricochet Rounds, Steady Rounds, Accurized Rounds]
+-
+  weapon_id: 2708806099
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [Ricochet Rounds]
+    perks1: [Demolitionist]
+    perks2: [Incandescent]
+    masterworks: [Stability MW, Reload MW, Range MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Smallbore, Polygonal Rifling, Corkscrew Rifling, Fluted Barrel, Hammer-Forged Rifling]
+    magazines: [Ricochet Rounds, Steady Rounds, Accurized Rounds]

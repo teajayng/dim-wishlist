@@ -94,3 +94,19 @@
   extended_perks:
     barrels: [Fluted Barrel, Corkscrew Rifling, Smallbore, Polygonal Rifling, Hammer-Forged Rifling, Arrowhead Brake]
     magazines: [Tactical Battery, Light Battery, Particle Repeater, Projection Fuse, Enhanced Battery]
+-
+  weapon_id: 548958835
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Enhanced Battery]
+    perks1: [Subsistence]
+    perks2: [Incandescent]
+    masterworks: [Reload MW]
+  extended_perks:
+    barrels: [Fluted Barrel, Corkscrew Rifling, Smallbore, Polygonal Rifling, Hammer-Forged Rifling, Arrowhead Brake]
+    magazines: [Tactical Battery, Light Battery, Particle Repeater, Projection Fuse, Enhanced Battery]
