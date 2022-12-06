@@ -1,0 +1,16 @@
+-
+  weapon_id: 1903182562
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Volatile Launch, Confined Launch]
+    magazines: [Alloy Casing, Impact Casing]
+    perks1: [Field Prep, Tracking Module]
+    perks2: [Chain Reaction, Vorpal, Explosive Light, Lasting Impression]
+    masterworks: [Reload MW, Velocity MW]
+  extended_perks:
+    barrels: [Volatile Launch, Confined Launch, Hard Launch, Quick Launch, Linear Compensator, Countermass]
+    magazines: [Alloy Casing, Impact Casing, High-Velocity Rounds, Black Powder]

@@ -1,0 +1,16 @@
+-
+  weapon_id: 676270382
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Tactical Mag]
+    perks1: [Explosive Payload, Triple Tap, Clown Cartridge]
+    perks2: [Vorpal, Firing Line, Frenzy]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Fluted Barrel, Corkscrew Rifling]
+    magazines: [Extended Mag, Tactical Mag]

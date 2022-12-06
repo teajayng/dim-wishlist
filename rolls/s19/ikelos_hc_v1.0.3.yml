@@ -1,0 +1,16 @@
+-
+  weapon_id: 1731355324
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Seraph Rounds]
+    perks1: [Subsistence, Triple Tap, Rapid Hit]
+    perks2: [Adaptive Munitions, Frenzy, Rampage]
+    masterworks: [Range MW, Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Extended Barrel]
+    magazines: [Appended Mag, Tactical Mag, Flared Magwell, Seraph Rounds]

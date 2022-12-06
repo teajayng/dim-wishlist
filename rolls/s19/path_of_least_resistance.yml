@@ -1,0 +1,16 @@
+- 
+  weapon_id: 2827764482
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks: 
+    barrels: [Corkscrew Rifling]
+    magazines: [Enhanced Battery]
+    perks1: [Adaptive Munitions, Subsistence]
+    perks2: [Voltshot, Dragonfly]
+    masterworks: [Range MW, Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Extended Barrel, Fluted Barrel, Full Bore]
+    magazines: [Enhanced Battery, Particle Repeater, Ionized Battery, Projection Fuse]

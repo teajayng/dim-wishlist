@@ -1,0 +1,16 @@
+-
+  weapon_id: 2978226043
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Ballistic Tuning]
+    magazines: [Appended Mag]
+    perks1: [Pugilist]
+    perks2: [Incandescent]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Ballistic Tuning, Supercooled Accelerator, Tempered Truss Rod]
+    magazines: [Appended Mag, Extended Mag, Alloy Magazine, Accurized Rounds]

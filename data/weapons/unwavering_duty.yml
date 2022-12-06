@@ -1,0 +1,11 @@
+name: Unwavering Duty
+item_id: 3624844116
+drop_id: 19
+traits:
+  barrels:     {t: 9, c: 2}
+  magazines:   {t: 7, c: 2}
+  perks1:      {t: 7, c: 1}
+  perks2:      {t: 7, c: 1}
+  masterworks: {t: 4, c: 1}
+overview: >
+  ...

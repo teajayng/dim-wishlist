@@ -1,0 +1,16 @@
+-
+  weapon_id: 3849444474
+  name: GMs
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Agile Bowstring, Tactile String, Elastic String]
+    magazines: [Carbon Arrow Shaft, Compact Arrow Shaft]
+    perks1: [Rapid Hit, Archer's Tempo]
+    perks2: [Explosive Head, Frenzy]
+    masterworks: [Accuracy MW, Reload MW, Draw Time MW]
+  extended_perks:
+    barrels: [Agile Bowstring, Tactile String, Elastic String, Flexible String]
+    magazines: [Carbon Arrow Shaft, Compact Arrow Shaft, Fiberglass Arrow Shaft, Helical Fletching]

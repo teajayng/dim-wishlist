@@ -1,0 +1,16 @@
+-
+  weapon_id: 2302346155
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Extended Mag]
+    perks1: [Fourth Time's the Charm, Overflow]
+    perks2: [High-Impact Reserves, Focused Fury, Incandescent]
+    masterworks: [Range MW, Reload MW]
+  extended_perks:
+    barrels: [Fluted Barrel, Corkscrew Rifling]
+    magazines: [Extended Mag, Tactical Mag, Appended Mag, Seraph Rounds]

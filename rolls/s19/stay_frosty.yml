@@ -1,0 +1,32 @@
+- 
+  weapon_id: 2812100428
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator]
+    magazines: [Ricochet Rounds]
+    perks1: [Moving Target, Killing Wind]
+    perks2: [Kill Clip, Desperado, Headstone]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Smallbore, Hammer-Forged Rifling, Fluted Barrel, Extended Barrel]
+    magazines: [Ricochet Rounds, Appended Mag, Flared Magwell, Light Mag, Armor-Piercing Rounds]
+-
+  weapon_id: 2812100428
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator]
+    magazines: [Ricochet Rounds]
+    perks1: [Moving Target, Killing Wind]
+    perks2: [Headseeker, Kill Clip, Desperado, Headstone]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Smallbore, Hammer-Forged Rifling, Fluted Barrel, Extended Barrel]
+    magazines: [Ricochet Rounds, Flared Magwell, Light Mag, High-Caliber Rounds]

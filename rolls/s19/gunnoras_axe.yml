@@ -1,0 +1,16 @@
+-
+  weapon_id: 2821430069
+  name: General Purpose
+  ratings_emoji: 💥
+  tags: ['pvp']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Accurized Rounds]
+    perks1: [Hip-Fire Grip, Threat Detector, Moving Target, Surplus]
+    perks2: [Iron Reach, Opening Shot, Voltshot]
+    masterworks: [Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Corkscrew Rifling, Chambered Compensator, Hammer-Forged Rifling]
+    magazines: [Accurized Rounds]

@@ -1,6 +1,3 @@
-title:This is a compiled collection of desired rolls by blueberry/teajayng.
-description:Prefers rolls for GMs with some desired rolls for pvp. Also prefers m&k.
-
-//notes:[pve,pvp] "Chasing Stability" 🏃‍♂️🏃‍♂️ (+magazines, *masterworks) (0.323%)
-dimwishlist:item=1119734784&perks=839105230,3142289711,2946784966,1015611457
-dimwishlist:item=1119734784&perks=839105230,3177308360,2946784966,1015611457
+version https://git-lfs.github.com/spec/v1
+oid sha256:89d61750efea8545c2aa44557ccc3239f9d3b66a65a29931178dec0866638dd1
+size 416

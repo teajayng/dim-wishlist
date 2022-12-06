@@ -1,0 +1,11 @@
+name: Blowout
+item_id: 1903182562
+drop_id: 19
+traits:
+  barrels:     {t: 7, c: 2}
+  magazines:   {t: 5, c: 2}
+  perks1:      {t: 12, c: 1}
+  perks2:      {t: 12, c: 1}
+  masterworks: {t: 5, c: 1}
+overview: >
+  ...

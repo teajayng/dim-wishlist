@@ -1,0 +1,16 @@
+-
+  weapon_id: 963710795
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Arrowhead Brake]
+    magazines: [Accelerated Coils]
+    perks1: [Subsistence, Reconstruction, Firmly Planted]
+    perks2: [Chill Clip, Demolitionist, Swashbuckler]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Chambered Compensator, Corkscrew Rifling, Extended Barrel]
+    magazines: [Accelerated Coils, Enhanced Battery]

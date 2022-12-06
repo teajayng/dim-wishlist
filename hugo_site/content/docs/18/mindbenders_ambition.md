@@ -25,6 +25,32 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1094005544), [
 
 * **Collector's Edition Roll**
   * **Barrels**: `Rifled Barrel`
+  * **Magazines**: `Tactical Mag`
+  * **Perks 1**: `Feeding Frenzy`, `Offhand Strike`, `Grave Robber`, `Subsistence`, `Pugilist`
+  * **Perks 2**: `Incandescent`, `Swashbuckler`, `One-Two Punch`, `Trench Barrel`
+  * **Masterworks**: `Reload MW`, `Handling MW`, `Range MW`
+* **Extended Perks** (referred to with a '+' below)
+  * **Barrels**: `Rifled Barrel`, `Full Choke`
+  * **Magazines**: `Tactical Mag`, `Appended Mag`
+
+| Variant | Chance | 1 in ? |
+|:-|-:|-:|
+| ⭐👾⭐👾⭐👾🌟 Collector's Edition | 3.97% | 25 |
+| ⭐👾⭐👾⭐👾 CE (+barrels) | 7.14% | 14 |
+| ⭐👾⭐👾⭐👾 CE (+magazines) | 7.28% | 13 |
+| ⭐👾⭐👾⭐👾 CE (*masterworks) | 5.29% | 18 |
+| ⭐👾⭐👾 (+barrels, +magazines) | 13.10% | 7 |
+| ⭐👾⭐👾 (+barrels, *masterworks) | 9.52% | 10 |
+| ⭐👾⭐👾 (+magazines, *masterworks) | 9.70% | 10 |
+| ⭐👾⭐👾 (+barrels, +magazines, *masterworks) | 17.46% | 5 |
+| ⭐👾 (*barrels, *magazines, *masterworks) | 55.56% | 1 |
+
+## ⭐👾 General Purpose (pve)
+
+...
+
+* **Collector's Edition Roll**
+  * **Barrels**: `Rifled Barrel`
   * **Magazines**: `Assault Mag`
   * **Perks 1**: `Auto-Loading Holster`, `Lead from Gold`
   * **Perks 2**: `Incandescent`, `One-Two Punch`

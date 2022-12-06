@@ -1,0 +1,16 @@
+-
+  weapon_id: 495940989
+  name: General Purpose
+  ratings_emoji: 👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks:
+    barrels: [Corkscrew Rifling]
+    magazines: [Ricochet Rounds]
+    perks1: [Subsistence, Auto-Loading Holster]
+    perks2: [Swashbuckler, Adrenaline Junkie, Incandescent]
+    masterworks: [Stability MW, Handling MW]
+  extended_perks:
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator]
+    magazines: [Appended Mag, Ricochet Rounds, High-Caliber Rounds, Armor-Piercing Rounds]

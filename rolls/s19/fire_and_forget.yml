@@ -1,0 +1,16 @@
+- 
+  weapon_id: 2272041093
+  name: General Purpose
+  ratings_emoji: ⭐👾
+  tags: ['pve']
+  overview: >
+    ...
+  base_perks: 
+    barrels: [Arrowhead Brake]
+    magazines: [Enhanced Battery]
+    perks1: [Surplus, Outlaw, Field Prep]
+    perks2: [Frenzy, Vorpal]
+    masterworks: [Stability MW, Reload MW]
+  extended_perks:
+    barrels: [Arrowhead Brake, Corkscrew Rifling, Chambered Compensator]
+    magazines: [Accelerated Coils, Enhanced Battery, Liquid Coils]
