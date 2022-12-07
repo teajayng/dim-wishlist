@@ -30,17 +30,17 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/963710795), [l
   * **Perks 2**: `Chill Clip`, `Demolitionist`, `Swashbuckler`
   * **Masterworks**: `Stability MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
-  * **Barrels**: `Arrowhead Brake`, `Chambered Compensator`, `Corkscrew Rifling`, `Extended Barrel`
+  * **Barrels**: `Arrowhead Brake`, `Chambered Compensator`, `Corkscrew Rifling`
   * **Magazines**: `Accelerated Coils`, `Enhanced Battery`
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 👾👾👾🌟 Collector's Edition | 0.93% | 108 |
-| 👾👾👾 CE (+barrels) | 3.01% | 33 |
+| 👾👾👾 CE (+barrels) | 2.43% | 41 |
 | 👾👾👾 CE (+magazines) | 1.67% | 60 |
 | 👾👾👾 CE (*masterworks) | 1.85% | 54 |
-| 👾👾 (+barrels, +magazines) | 5.42% | 18 |
-| 👾👾 (+barrels, *masterworks) | 6.02% | 16 |
+| 👾👾 (+barrels, +magazines) | 4.38% | 22 |
+| 👾👾 (+barrels, *masterworks) | 4.86% | 20 |
 | 👾👾 (+magazines, *masterworks) | 3.33% | 30 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 10.83% | 9 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 8.75% | 11 |
 | 👾 (*barrels, *magazines, *masterworks) | 25.00% | 4 |

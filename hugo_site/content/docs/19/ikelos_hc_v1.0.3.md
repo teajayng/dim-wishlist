@@ -27,7 +27,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1731355324), [
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `Seraph Rounds`
   * **Perks 1**: `Subsistence`, `Triple Tap`, `Rapid Hit`
-  * **Perks 2**: `Adaptive Munitions`, `Frenzy`, `Rampage`
+  * **Perks 2**: `Frenzy`, `Rampage`
   * **Masterworks**: `Range MW`, `Stability MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
   * **Barrels**: `Corkscrew Rifling`, `Arrowhead Brake`, `Chambered Compensator`, `Extended Barrel`
@@ -35,12 +35,12 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1731355324), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 0.77% | 130 |
-| 👾👾👾 CE (+barrels) | 2.49% | 40 |
-| 👾👾👾 CE (+magazines) | 2.41% | 41 |
-| 👾👾👾 CE (*masterworks) | 1.02% | 98 |
-| 👾👾 (+barrels, +magazines) | 7.82% | 12 |
-| 👾👾 (+barrels, *masterworks) | 3.32% | 30 |
-| 👾👾 (+magazines, *masterworks) | 3.21% | 31 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 10.42% | 9 |
-| 👾 (*barrels, *magazines, *masterworks) | 18.37% | 5 |
+| 👾👾👾🌟 Collector's Edition | 0.51% | 196 |
+| 👾👾👾 CE (+barrels) | 1.66% | 60 |
+| 👾👾👾 CE (+magazines) | 1.60% | 62 |
+| 👾👾👾 CE (*masterworks) | 0.68% | 147 |
+| 👾👾 (+barrels, +magazines) | 5.21% | 19 |
+| 👾👾 (+barrels, *masterworks) | 2.21% | 45 |
+| 👾👾 (+magazines, *masterworks) | 2.14% | 46 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 6.95% | 14 |
+| 👾 (*barrels, *magazines, *masterworks) | 12.24% | 8 |

@@ -71,32 +71,6 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1916287826), [
 | ⭐👾⭐👾 (+barrels, +magazines, *masterworks) | 1.27% | 78 |
 | ⭐👾 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
 
-## ⭐👾 General Purpose, OFA (pve)
-
-...
-
-* **Collector's Edition Roll**
-  * **Barrels**: `Corkscrew Rifling`
-  * **Magazines**: `Ricochet Rounds`
-  * **Perks 1**: `Stats for All`
-  * **Perks 2**: `One for All`
-  * **Masterworks**: `Stability MW`, `Reload MW`
-* **Extended Perks** (referred to with a '+' below)
-  * **Barrels**: `Arrowhead Brake`, `Corkscrew Rifling`, `Chambered Compensator`
-  * **Magazines**: `Appended Mag`, `Flared Magwell`, `High-Caliber Rounds`, `Ricochet Rounds`
-
-| Variant | Chance | 1 in ? |
-|:-|-:|-:|
-| ⭐👾⭐👾⭐👾🌟 Collector's Edition | 0.08% | 1296 |
-| ⭐👾⭐👾⭐👾 CE (+barrels) | 0.20% | 493 |
-| ⭐👾⭐👾⭐👾 CE (+magazines) | 0.24% | 412 |
-| ⭐👾⭐👾⭐👾 CE (*masterworks) | 0.15% | 648 |
-| ⭐👾⭐👾 (+barrels, +magazines) | 0.64% | 157 |
-| ⭐👾⭐👾 (+barrels, *masterworks) | 0.41% | 246 |
-| ⭐👾⭐👾 (+magazines, *masterworks) | 0.49% | 206 |
-| ⭐👾⭐👾 (+barrels, +magazines, *masterworks) | 1.27% | 78 |
-| ⭐👾 (*barrels, *magazines, *masterworks) | 2.78% | 36 |
-
 ## 💥 General Purpose (pvp)
 
 ...

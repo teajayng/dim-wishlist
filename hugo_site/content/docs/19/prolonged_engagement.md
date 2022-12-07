@@ -31,16 +31,16 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2349907931), [
   * **Masterworks**: `Stability MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
   * **Barrels**: `Arrowhead Brake`, `Corkscrew Rifling`, `Chambered Compensator`
-  * **Magazines**: `Ricochet Rounds`, `High-Caliber Rounds`, `Armor-Piercing Rounds`, `Appended Mag`, `Flared Magwell`
+  * **Magazines**: `Ricochet Rounds`, `Appended Mag`, `Flared Magwell`
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | ⭐👾⭐👾⭐👾🌟 Collector's Edition | 0.12% | 864 |
 | ⭐👾⭐👾⭐👾 CE (+barrels) | 0.30% | 329 |
-| ⭐👾⭐👾⭐👾 CE (+magazines) | 0.41% | 241 |
+| ⭐👾⭐👾⭐👾 CE (+magazines) | 0.30% | 336 |
 | ⭐👾⭐👾⭐👾 CE (*masterworks) | 0.23% | 432 |
-| ⭐👾⭐👾 (+barrels, +magazines) | 1.09% | 92 |
+| ⭐👾⭐👾 (+barrels, +magazines) | 0.78% | 128 |
 | ⭐👾⭐👾 (+barrels, *masterworks) | 0.61% | 164 |
-| ⭐👾⭐👾 (+magazines, *masterworks) | 0.83% | 120 |
-| ⭐👾⭐👾 (+barrels, +magazines, *masterworks) | 2.17% | 46 |
+| ⭐👾⭐👾 (+magazines, *masterworks) | 0.60% | 168 |
+| ⭐👾⭐👾 (+barrels, +magazines, *masterworks) | 1.56% | 64 |
 | ⭐👾 (*barrels, *magazines, *masterworks) | 4.17% | 24 |

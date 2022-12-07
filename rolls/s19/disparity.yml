@@ -6,27 +6,11 @@
   overview: >
     ...
   base_perks:
-    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator]
+    barrels: [Arrowhead Brake]
     magazines: [Tactical Mag]
     perks1: [Outlaw, Rapid Hit, Pugilist]
     perks2: [Frenzy, Headstone, Swashbuckler, Kill Clip, Desperado]
     masterworks: [Stability MW, Reload MW]
   extended_perks:
-    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Smallbore, Hammer-Forged Rifling, Fluted Barrel, Extended Barrel]
-    magazines: [Tactical Mag, Appended Mag, Flared Magwell]
--
-  weapon_id: 1751893422
-  name: General Purpose
-  ratings_emoji: 💥
-  tags: ['pvp']
-  overview: >
-    ...
-  base_perks:
     barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator]
-    magazines: [Tactical Mag]
-    perks1: [Moving Target, Heating Up, Outlaw, Rapid Hit]
-    perks2: [Headseeker, Headstone, Swashbuckler, Kill Clip, Desperado]
-    masterworks: [Stability MW, Reload MW]
-  extended_perks:
-    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Smallbore, Hammer-Forged Rifling, Fluted Barrel, Extended Barrel]
     magazines: [Tactical Mag, Appended Mag, Flared Magwell]

@@ -9,8 +9,8 @@
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]
     perks1: [Subsistence, Auto-Loading Holster]
-    perks2: [Swashbuckler, Adrenaline Junkie, Incandescent]
+    perks2: [Incandescent]
     masterworks: [Stability MW, Handling MW]
   extended_perks:
     barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator]
-    magazines: [Appended Mag, Ricochet Rounds, High-Caliber Rounds, Armor-Piercing Rounds]
+    magazines: [Appended Mag, Ricochet Rounds]

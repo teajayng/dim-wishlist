@@ -9,7 +9,7 @@
     barrels: [Corkscrew Rifling]
     magazines: [Seraph Rounds]
     perks1: [Subsistence, Triple Tap, Rapid Hit]
-    perks2: [Adaptive Munitions, Frenzy, Rampage]
+    perks2: [Frenzy, Rampage]
     masterworks: [Range MW, Stability MW, Reload MW]
   extended_perks:
     barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Extended Barrel]

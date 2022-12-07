@@ -26,7 +26,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2149683300), [
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `Seraph Rounds`
-  * **Perks 1**: `Feeding Frenzy`, `Perpetual Motion`
+  * **Perks 1**: `Feeding Frenzy`
   * **Perks 2**: `Frenzy`, `Voltshot`
   * **Masterworks**: `Range MW`, `Stability MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
@@ -35,12 +35,12 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2149683300), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 0.34% | 294 |
-| 👾👾👾 CE (+barrels) | 0.89% | 112 |
-| 👾👾👾 CE (+magazines) | 1.07% | 93 |
-| 👾👾👾 CE (*masterworks) | 0.45% | 220 |
-| 👾👾 (+barrels, +magazines) | 2.81% | 35 |
-| 👾👾 (+barrels, *masterworks) | 1.19% | 84 |
-| 👾👾 (+magazines, *masterworks) | 1.43% | 70 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 3.74% | 26 |
-| 👾 (*barrels, *magazines, *masterworks) | 8.16% | 12 |
+| 👾👾👾🌟 Collector's Edition | 0.17% | 588 |
+| 👾👾👾 CE (+barrels) | 0.45% | 224 |
+| 👾👾👾 CE (+magazines) | 0.53% | 187 |
+| 👾👾👾 CE (*masterworks) | 0.23% | 441 |
+| 👾👾 (+barrels, +magazines) | 1.40% | 71 |
+| 👾👾 (+barrels, *masterworks) | 0.60% | 168 |
+| 👾👾 (+magazines, *masterworks) | 0.71% | 140 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 1.87% | 53 |
+| 👾 (*barrels, *magazines, *masterworks) | 4.08% | 24 |

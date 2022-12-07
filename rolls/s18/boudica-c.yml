@@ -32,22 +32,6 @@
     magazines: [Appended Mag, Flared Magwell, High-Caliber Rounds, Ricochet Rounds]
 - 
   weapon_id: 1916287826
-  name: General Purpose, OFA
-  ratings_emoji: ⭐👾
-  tags: ['pve']
-  overview: >
-    ...
-  base_perks: 
-    barrels: [Corkscrew Rifling]
-    magazines: [Ricochet Rounds]
-    perks1: [Stats for All]
-    perks2: [One for All]
-    masterworks: [Stability MW, Reload MW]
-  extended_perks:
-    barrels: [Arrowhead Brake, Corkscrew Rifling, Chambered Compensator]
-    magazines: [Appended Mag, Flared Magwell, High-Caliber Rounds, Ricochet Rounds]
-- 
-  weapon_id: 1916287826
   name: General Purpose
   ratings_emoji: 💥
   tags: ['pvp']

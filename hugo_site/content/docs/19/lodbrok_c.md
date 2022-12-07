@@ -26,21 +26,21 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/2328531378), [
 * **Collector's Edition Roll**
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `Ricochet Rounds`
-  * **Perks 1**: `Dynamic Sway Reduction`, `Demolitionist`, `Osmosis`, `Perpetual Motion`, `Fourth Time's the Charm`
+  * **Perks 1**: `Dynamic Sway Reduction`, `Demolitionist`
   * **Perks 2**: `Kill Clip`, `Adrenaline Junkie`, `Wellspring`
   * **Masterworks**: `Stability MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
   * **Barrels**: `Arrowhead Brake`, `Corkscrew Rifling`, `Chambered Compensator`
-  * **Magazines**: `Extended Mag`, `Appended Mag`, `Armor-Piercing Rounds`, `High-Caliber Rounds`, `Ricochet Rounds`, `Flared Magwell`
+  * **Magazines**: `Extended Mag`, `Appended Mag`, `Ricochet Rounds`, `Flared Magwell`
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 👾👾👾🌟 Collector's Edition | 1.16% | 86 |
-| 👾👾👾 CE (+barrels) | 3.04% | 32 |
-| 👾👾👾 CE (+magazines) | 4.46% | 22 |
-| 👾👾👾 CE (*masterworks) | 2.31% | 43 |
-| 👾👾 (+barrels, +magazines) | 11.72% | 8 |
-| 👾👾 (+barrels, *masterworks) | 6.08% | 16 |
-| 👾👾 (+magazines, *masterworks) | 8.93% | 11 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 23.44% | 4 |
-| 👾 (*barrels, *magazines, *masterworks) | 41.67% | 2 |
+| 👾👾👾🌟 Collector's Edition | 0.46% | 216 |
+| 👾👾👾 CE (+barrels) | 1.22% | 82 |
+| 👾👾👾 CE (+magazines) | 1.46% | 68 |
+| 👾👾👾 CE (*masterworks) | 0.93% | 108 |
+| 👾👾 (+barrels, +magazines) | 3.82% | 26 |
+| 👾👾 (+barrels, *masterworks) | 2.43% | 41 |
+| 👾👾 (+magazines, *masterworks) | 2.91% | 34 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 7.64% | 13 |
+| 👾 (*barrels, *magazines, *masterworks) | 16.67% | 6 |

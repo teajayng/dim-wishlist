@@ -26,7 +26,7 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1094005544), [
 * **Collector's Edition Roll**
   * **Barrels**: `Rifled Barrel`
   * **Magazines**: `Tactical Mag`
-  * **Perks 1**: `Feeding Frenzy`, `Offhand Strike`, `Grave Robber`, `Subsistence`, `Pugilist`
+  * **Perks 1**: `Feeding Frenzy`, `Grave Robber`, `Subsistence`, `Pugilist`
   * **Perks 2**: `Incandescent`, `Swashbuckler`, `One-Two Punch`, `Trench Barrel`
   * **Masterworks**: `Reload MW`, `Handling MW`, `Range MW`
 * **Extended Perks** (referred to with a '+' below)
@@ -35,15 +35,15 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/1094005544), [
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| ⭐👾⭐👾⭐👾🌟 Collector's Edition | 3.97% | 25 |
-| ⭐👾⭐👾⭐👾 CE (+barrels) | 7.14% | 14 |
-| ⭐👾⭐👾⭐👾 CE (+magazines) | 7.28% | 13 |
-| ⭐👾⭐👾⭐👾 CE (*masterworks) | 5.29% | 18 |
-| ⭐👾⭐👾 (+barrels, +magazines) | 13.10% | 7 |
-| ⭐👾⭐👾 (+barrels, *masterworks) | 9.52% | 10 |
-| ⭐👾⭐👾 (+magazines, *masterworks) | 9.70% | 10 |
-| ⭐👾⭐👾 (+barrels, +magazines, *masterworks) | 17.46% | 5 |
-| ⭐👾 (*barrels, *magazines, *masterworks) | 55.56% | 1 |
+| ⭐👾⭐👾⭐👾🌟 Collector's Edition | 3.17% | 31 |
+| ⭐👾⭐👾⭐👾 CE (+barrels) | 5.71% | 17 |
+| ⭐👾⭐👾⭐👾 CE (+magazines) | 5.82% | 17 |
+| ⭐👾⭐👾⭐👾 CE (*masterworks) | 4.23% | 23 |
+| ⭐👾⭐👾 (+barrels, +magazines) | 10.48% | 9 |
+| ⭐👾⭐👾 (+barrels, *masterworks) | 7.62% | 13 |
+| ⭐👾⭐👾 (+magazines, *masterworks) | 7.76% | 12 |
+| ⭐👾⭐👾 (+barrels, +magazines, *masterworks) | 13.97% | 7 |
+| ⭐👾 (*barrels, *magazines, *masterworks) | 44.44% | 2 |
 
 ## ⭐👾 General Purpose (pve)
 

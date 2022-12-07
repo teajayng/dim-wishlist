@@ -8,9 +8,9 @@
   base_perks: 
     barrels: [Corkscrew Rifling]
     magazines: [Ricochet Rounds]
-    perks1: [Dynamic Sway Reduction, Demolitionist, Osmosis, Perpetual Motion, Fourth Time's the Charm]
+    perks1: [Dynamic Sway Reduction, Demolitionist]
     perks2: [Kill Clip, Adrenaline Junkie, Wellspring]
     masterworks: [Stability MW, Reload MW]
   extended_perks:
     barrels: [Arrowhead Brake, Corkscrew Rifling, Chambered Compensator]
-    magazines: [Extended Mag, Appended Mag, Armor-Piercing Rounds, High-Caliber Rounds, Ricochet Rounds, Flared Magwell]
+    magazines: [Extended Mag, Appended Mag, Ricochet Rounds, Flared Magwell]

@@ -12,8 +12,8 @@
     perks2: [Rampage, Kill Clip, Frenzy]
     masterworks: [Range MW, Stability MW, Reload MW]
   extended_perks:
-    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Extended Barrel]
-    magazines: [Appended Mag, Tactical Mag, Flared Magwell]
+    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator]
+    magazines: [Tactical Mag, Flared Magwell]
 -
   weapon_id: 3102421004
   name: General Purpose
@@ -25,8 +25,8 @@
     barrels: [Corkscrew Rifling]
     magazines: [Accurized Rounds]
     perks1: [Outlaw, Killing Wind, Rangefinder]
-    perks2: [Rampage, Kill Clip, Eye of the Storm]
+    perks2: [Eye of the Storm]
     masterworks: [Range MW, Reload MW]
   extended_perks:
-    barrels: [Corkscrew Rifling, Arrowhead Brake, Chambered Compensator, Extended Barrel, Hammer-Forged Rifling]
-    magazines: [Accurized Rounds, Tactical Mag, Appended Mag, Flared Magwell]
+    barrels: [Corkscrew Rifling, Hammer-Forged Rifling]
+    magazines: [Accurized Rounds, Tactical Mag, Flared Magwell]

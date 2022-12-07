@@ -30,19 +30,19 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/3102421004), [
   * **Perks 2**: `Rampage`, `Kill Clip`, `Frenzy`
   * **Masterworks**: `Range MW`, `Stability MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
-  * **Barrels**: `Corkscrew Rifling`, `Arrowhead Brake`, `Chambered Compensator`, `Extended Barrel`
-  * **Magazines**: `Appended Mag`, `Tactical Mag`, `Flared Magwell`
+  * **Barrels**: `Corkscrew Rifling`, `Arrowhead Brake`, `Chambered Compensator`
+  * **Magazines**: `Tactical Mag`, `Flared Magwell`
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
 | 👾👾👾🌟 Collector's Edition | 1.39% | 72 |
-| 👾👾👾 CE (+barrels) | 4.51% | 22 |
-| 👾👾👾 CE (+magazines) | 3.33% | 30 |
+| 👾👾👾 CE (+barrels) | 3.65% | 27 |
+| 👾👾👾 CE (+magazines) | 2.50% | 40 |
 | 👾👾👾 CE (*masterworks) | 1.85% | 54 |
-| 👾👾 (+barrels, +magazines) | 10.83% | 9 |
-| 👾👾 (+barrels, *masterworks) | 6.02% | 16 |
-| 👾👾 (+magazines, *masterworks) | 4.44% | 22 |
-| 👾👾 (+barrels, +magazines, *masterworks) | 14.44% | 6 |
+| 👾👾 (+barrels, +magazines) | 6.56% | 15 |
+| 👾👾 (+barrels, *masterworks) | 4.86% | 20 |
+| 👾👾 (+magazines, *masterworks) | 3.33% | 30 |
+| 👾👾 (+barrels, +magazines, *masterworks) | 8.75% | 11 |
 | 👾 (*barrels, *magazines, *masterworks) | 25.00% | 4 |
 
 ## 💥 General Purpose (pvp)
@@ -53,20 +53,20 @@ For complete perks, see [d2gunsmith.com](https://d2gunsmith.com/w/3102421004), [
   * **Barrels**: `Corkscrew Rifling`
   * **Magazines**: `Accurized Rounds`
   * **Perks 1**: `Outlaw`, `Killing Wind`, `Rangefinder`
-  * **Perks 2**: `Rampage`, `Kill Clip`, `Eye of the Storm`
+  * **Perks 2**: `Eye of the Storm`
   * **Masterworks**: `Range MW`, `Reload MW`
 * **Extended Perks** (referred to with a '+' below)
-  * **Barrels**: `Corkscrew Rifling`, `Arrowhead Brake`, `Chambered Compensator`, `Extended Barrel`, `Hammer-Forged Rifling`
-  * **Magazines**: `Accurized Rounds`, `Tactical Mag`, `Appended Mag`, `Flared Magwell`
+  * **Barrels**: `Corkscrew Rifling`, `Hammer-Forged Rifling`
+  * **Magazines**: `Accurized Rounds`, `Tactical Mag`, `Flared Magwell`
 
 | Variant | Chance | 1 in ? |
 |:-|-:|-:|
-| 💥💥💥🌟 Collector's Edition | 0.93% | 108 |
-| 💥💥💥 CE (+barrels) | 3.47% | 28 |
-| 💥💥💥 CE (+magazines) | 2.59% | 38 |
-| 💥💥💥 CE (*masterworks) | 1.85% | 54 |
-| 💥💥 (+barrels, +magazines) | 9.72% | 10 |
-| 💥💥 (+barrels, *masterworks) | 6.94% | 14 |
-| 💥💥 (+magazines, *masterworks) | 5.19% | 19 |
-| 💥💥 (+barrels, +magazines, *masterworks) | 19.44% | 5 |
-| 💥 (*barrels, *magazines, *masterworks) | 25.00% | 4 |
+| 💥💥💥🌟 Collector's Edition | 0.31% | 324 |
+| 💥💥💥 CE (+barrels) | 0.58% | 172 |
+| 💥💥💥 CE (+magazines) | 0.74% | 135 |
+| 💥💥💥 CE (*masterworks) | 0.62% | 162 |
+| 💥💥 (+barrels, +magazines) | 1.39% | 71 |
+| 💥💥 (+barrels, *masterworks) | 1.16% | 86 |
+| 💥💥 (+magazines, *masterworks) | 1.48% | 67 |
+| 💥💥 (+barrels, +magazines, *masterworks) | 2.78% | 35 |
+| 💥 (*barrels, *magazines, *masterworks) | 8.33% | 12 |
